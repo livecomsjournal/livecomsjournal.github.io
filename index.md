@@ -1,3 +1,7 @@
+# LiveCoMS GitHub repository
+
+(The GitHub repository)[http://https://github.com/livecomsjournal] for the Living Journal of Computational Molecular Science) can be found linked here.
+
 # The process of submitting an article to LiveCoMS
 
 ## Introduction
