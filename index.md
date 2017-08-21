@@ -2,8 +2,7 @@
 
 ## Introduction
 
-Submitting an article to LiveCoMS is substantially different from
-submitting an article to most journals.  
+Submitting an article to LiveCoMS is substantially different from submitting an article to most journals. 
 In this article, we lay out the process by which authors create an article, submit it to LiveCoMS, and update it over time to create a living document.  
 
 ## General Article Guidelines
@@ -13,13 +12,14 @@ Articles do not need to contain original research, but may contain it.
 
 ## Types of Articles
 
-**Best Practices Manuscripts**: The goal of best practices manuscripts are to improve the quality of simulation research by providing advice that can eliminate the most common errors. 
+### Best Practices Manuscripts
+The goal of best practices manuscripts are to improve the quality of simulation research by providing advice that can eliminate the most common errors. 
 These documents consist of:
 
-A. A succinct list of steps that people should follow when carrying out the task in question. This is effectively a "checklist", provided to ensure certain basic standards are followed and common but 
+A. **A checklist**: A succinct list of steps that people should follow when carrying out the task in question. This is effectively a *checklist*, provided to ensure certain basic standards are followed and common but 
 critical major errors are avoided.
 
-B. A much more detailed section with the necessary rationale for the checklist, which would act as more complete "best practices" description, with significant detail as to the possible alternative ways to accomplish a given task, when one would be better than another, and significant literature documentation about reasons for choices.
+B. **The rationale**: A much more detailed section with the necessary rationale for the checklist, which would act as more complete *best practices* description, with significant detail as to the possible alternative ways to accomplish a given task, when one would be better than another, and significant literature documentation about reasons for choices.
 
 The inspiration for Best Practices documents can be found in the Atul
 Gawande article [The
@@ -31,41 +31,43 @@ appropriate choices are made throughout a difficult task.
 
 For our purposes, simulation checklists should help users avoid the
 most common reasons for failure or incorrect results. Checklists will
-typically also be accompanied by an explanation with sources, so the
-rest of the document can go into more detail on best practices and
-cover more possible failure modes and how to avoid them. One can
-divide the types of errors that are made performing molecular
-simulations into (a) mistakes experienced researchers often make, (b)
+typically also be accompanied by a detailed explanation with sources and references (the rationale mentioned above), and this rationale
+can go into more detail on best practices and
+cover more possible failure modes and how to avoid them. 
+
+One can divide the types of errors that are made performing molecular
+simulations into (a) mistakes experienced researchers often make, and (b)
 mistakes new users often make, even after having received solid
 training in fundamentals of molecular simulation. Most checklists will
-be focused on these types of failures.  A third type (c), would
-involve preventing mistakes of naive users who do not understand the
-basic principles of molecular simulation. These will usually require
-special documents aimed at novice users which serve as prerequisites
-for more detailed documents.
+be focused on these types of failures.  Potentially, authors might also be interested in helping to prevent the mistakes of naive users who do not understand the
+basic principles of molecular simulation. However, normal best practices documents can assume a basic familiarity with the fundamentals of molecular simulations; a separate class of documents can be targeted at introducing novice users to the field, and these will serve as prerequisites for more detailed documents. 
 
-**Perpetual Reviews**: 
-Perpetual reviews, like standard reviews, except that they can be
-updated as information comes out, and can be responsive to community
-input, and remain up to date on the current state of the field as it
-evolves. 
+### Perpetual Reviews
+ 
+Perpetual reviews, like standard reviews, seek to provide an overview of an area of the field; however, they can be updated as needed, thus serving as living documents that remain current.
+Perpetual reviews change both in response to community input, and in response to new developments in the field.
 An example of this process can be found in the [Mobley et
 al. review](https://github.com/MobleyLab/benchmarksets), which was
-originally an "Annual Reviews in Biophysics" article, but is now being
+originally an *Annual Reviews in Biophysics* article, but is now being
 updated regularly on GitHub.
 
-**Comparisons of Molecular Simulations**:
+### Comparisons of Molecular Simulation Packages and Algorithms:
 Simulation comparison papers describe attempts to perform the same
 calculation with a range of different simulation programs.  
 Such comparison should be updated periodically with different versions of
 the same programs (or potentially additional programs).
 
-**Tutorials**:
-Tutorials are articles that come accompanied by web pages with walkthroughs and downloadable files to work with. 
-These take users through specific tasks or sequences of tasks to help them learn how to do these tasks on their own for other applications or purposes. 
-Tutorials should endeavor to not just cover the specific task at hand, but also highlight how the steps might need to be modified (or additional care might need to be taken at particular points) to handle more general cases. 
+### Tutorials 
+Tutorials are articles that come accompanied by web pages with walkthroughs or instructional materials and downloadable files to work with; e.g. an explanatory article acommpanied by a website with training information and downloadable Jupyter notebooks teaching users how to perform a challenging modeling task may be an ideal tutorial.  
+Tutorials take users through specific tasks or sequences of tasks to help them learn how to do these tasks on their own for other applications or purposes. 
+
+
+**Scope of tutorials**: Tutorials should endeavor to not just cover the specific task at hand, but also highlight how the steps might need to be modified (or additional care might need to be taken at particular points) to handle more general cases. 
 Tutorials for specific software packages must provide instructions and files for the current version of the software.  
-The submission of existing tutorials, so long as they meet journal standards, is explicitly welcomed, to encourage the highest quality tutorials by providing some degree of academic credit for these important and time-consuming efforts.
+
+
+**Pre-existing tutorials**: The submission of existing tutorials, so long as they meet journal standards, is explicitly welcomed.
+Our goal is to encourage the highest quality tutorials by providing some degree of academic credit for these important and time-consuming efforts.
 
 # Before Submission
 
