@@ -9,7 +9,7 @@ This article describes how [LiveCoMS](livecomsjournal.org) article preparation a
   - [Article preparation](#preparation-of-your-article-for-submission)
 - [Submission and the Review Process](#submission-and-the-review-process)
   - [Article submission](#article-submission)
-  - [The review process](#the-review-process 
+  - [The review process](#the-review-process)
   - [Review criteria](#review-criteria)
   - [The revision process](#the-revision-process)
 - [Updating LiveCoMS Articles](#updating-livecoms-articles)
@@ -74,7 +74,7 @@ updated regularly on GitHub.
 
 ### Comparisons of Molecular Simulation Packages and Algorithms:
 Simulation comparison papers describe attempts to perform the same
-calculation with a range of different simulation programs.  
+calculation with a range of different simulation programs. 
 Such comparison should be updated periodically with different versions of
 the same programs (or potentially additional programs).
 
@@ -173,7 +173,7 @@ Reviews will also consider the following factors according to manuscript categor
     * Are best practices being used in the simulation comparisons?
     * Have the authors addressed whether a naive user could expect similar performance and why or why not?
 
-* Tutorials:
+* **Tutorials**:
     * Are files to run the simulations posted online in a permanent (or nearly so) way?
     * Are the tutorials helpful and educational?
     * Do they include enough information on how to generalize the approach to handle other cases, and highlight major issues to consider?
