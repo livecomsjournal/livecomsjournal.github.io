@@ -116,7 +116,7 @@ We require that articles that are submitted to LiveCoMS use the provided templat
 Additionally, articles should include clear links to and mention of the relevant GitHub repository and encourage community participation/feedback via GitHub. 
 
 For an example of an article hosted on GitHub in this style (though not a LiveCoMS article), see [the following perpetual review](https://github.com/MobleyLab/benchmarksets). 
-Questions, comments, or additions from the community would be filed as issues and then could be incorporated. 
+
 
 One written, the authors post the resulting PDF document to a preprint server of their choice, which can be any one of:
 * [ArXiv](https://arxiv.org)
@@ -188,7 +188,10 @@ After this time, a revised manuscript may be handled as a new submission.
 
 # Updating LiveCoMS Articles
 
-A unique aspect of LiveCoMS is article versions, where new, updated versions of articles can be re-reviewed and treated as new publications. Such articles receive new DOI’s. This allows authors to receive credit for ongoing work they do on their articles.
+A unique aspect of LiveCoMS is article versions, where new, updated versions of articles can be re-reviewed and treated as new publications. By using GitHub to write the paper, questions, comments, or additions from the community [can be filed as issues](https://help.github.com/articles/about-issues/) and then can be easily incorporated into new versions of the article.  In this way the document becomes truly a living document.
+
+Once peer reviewed, articles receive new DOI’s and are published on the LiveCoMS site as new versions. 
+This allows authors to receive credit for ongoing work they do on their articles.
 
 Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted. However, release of new peer-reviewed versions via LiveCoMS is warranted only when changes become particularly extensive or important. Thus, versioning should typically be done no more frequently than every 12 months.  
 
