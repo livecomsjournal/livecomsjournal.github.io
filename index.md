@@ -96,7 +96,7 @@ Our goal is to encourage the highest quality tutorials by providing some degree 
 
 ## Presubmission Letter
 
-Authors should first send a presubmission letter to the [lead editor in the relevant area)[http://www.livecomsjournal.org/editorial-board]).  The letter should be no more than one page, and should:
+Authors should first send a presubmission letter to the [lead editor in the relevant area](http://www.livecomsjournal.org/editorial-board).  The letter should be no more than one page, and should:
 * Outline the scope of their best practice document or review.
 * Explain how the proposed manuscript is different from existing best practices articles or reviews. 
 * Note whether it is adapted from a previous article (and identify the article if so).
