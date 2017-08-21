@@ -1,3 +1,5 @@
+# Guide to Submitting a Paper to LiveCoMS
+
 # Table of Contents
 
 This article describes how [LiveCoMS](livecomsjournal.org) article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects, as follows:
