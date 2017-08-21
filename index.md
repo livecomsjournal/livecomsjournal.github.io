@@ -72,14 +72,14 @@ al. review](https://github.com/MobleyLab/benchmarksets), which was
 originally an *Annual Reviews in Biophysics* article, but is now being
 updated regularly on GitHub.
 
-### Comparisons of Molecular Simulation Packages and Algorithms:
+### Comparisons of Molecular Simulation Packages:
 Simulation comparison papers describe attempts to perform the same
 calculation with a range of different simulation programs. 
 Such comparison should be updated periodically with different versions of
 the same programs (or potentially additional programs).
 
 ### Tutorials 
-Tutorials are articles that come accompanied by web pages with walkthroughs or instructional materials and downloadable files to work with; e.g. an explanatory article acommpanied by a website with training information and downloadable Jupyter notebooks teaching users how to perform a challenging modeling task may be an ideal tutorial.  
+Tutorials are articles that come accompanied by web pages with walkthroughs or instructional materials and downloadable files to work with; e.g. an explanatory article accompanied by a website with training information and downloadable Jupyter notebooks teaching users how to perform a challenging modeling task may be an ideal tutorial.  
 Tutorials take users through specific tasks or sequences of tasks to help them learn how to do these tasks on their own for other applications or purposes. 
 
 
@@ -159,7 +159,7 @@ Reviews will also consider the following factors according to manuscript categor
 
 * **Best practices guides**
     * Would following the provided checklist help users avoid significant potential errors in simulation? Will the errors be profound and/or frequent? 
-    * Are all assertions well sourced in published data (which may, in some cases, include data created for the paper)?
+    * Are all assertions well-sourced in published data (which may, in some cases, include data created for the paper)?
     * Are the explanations clear enough for researchers with only moderate training in simulation?
 
 * **Perpetual reviews**
@@ -208,7 +208,7 @@ However, different types of credit may be warranted.
 In general, changes which constitute writing a significant part of the article merit authorship, but not those which only modify small portions.
 These smaller changes, however, should still be acknowledged.
 
-In order to acknowledge these contributors, people who offer comments/citations that are used in the paper should be listed listed on the relevant GitHub repository README markdown file, and should be listed in the acknowledgement section of the paper. 
+In order to acknowledge these contributors, people who offer comments/citations that are used in the paper should be listed listed on the relevant GitHub repository README Markdown file, and should be listed in the acknowledgment section of the paper. 
 However, if the current authors feel that the contributions rise to the level of authorship, they can add new authors when the next major version is submitted.
 
 Exactly what constitutes a "significant" contribution is by necessity subjective, and authors should endeavor to be generous. In the process of reviewing revisions, the editors may examine the history of the GitHub repository to ensure appropriate credit is being given. 
