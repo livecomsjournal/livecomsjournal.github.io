@@ -2,22 +2,22 @@
 
 This article describes how [LiveCoMS](livecomsjournal.org) article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects, as follows:
 - [Submission Process](#the-process-of-submitting-an-article-to-livecoms)
-  - [Article types](##types-of-articles)
-  - [General guidelines](##general-article-guidelines)
+  - [Article types](#types-of-articles)
+  - [General guidelines](#general-article-guidelines)
 - [Before Submission](#before-submission)
-  - [Presubmission letter](##presubmission-letter)
-  - [Article preparation](##preparation-of-your-article-for-submission)
+  - [Presubmission letter](#presubmission-letter)
+  - [Article preparation](#preparation-of-your-article-for-submission)
 - [Submission and the Review Process](#submission-and-the-review-process)
-  - [Article submission](##article-submission)
-  - [The review process](##the-review-process 
-  - [Review criteria](##review-criteria)
-  - [The revision process](##the-revision-process)
+  - [Article submission](#article-submission)
+  - [The review process](#the-review-process 
+  - [Review criteria](#review-criteria)
+  - [The revision process](#the-revision-process)
 - [Updating LiveCoMS Articles](#updating-livecoms-articles)
 - [Authorship and Changes to Authorship](#authorship-and-changes-to-authorship)
 - [Other Policies for Submitted Articles](#other-policies-for-submitted-articles)
-  - [Funding Compliance](##funding-compliance)
-  - [Licensing](##licensing)
-  - [Prior publication](##policy-on-prior-publication)
+  - [Funding Compliance](#funding-compliance)
+  - [Licensing](#licensing)
+  - [Prior publication](#policy-on-prior-publication)
 
 # The Process of Submitting an Article to LiveCoMS
 
