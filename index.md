@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-This article describes how [LiveCoMS](livecomsjournal.org) article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects.
+This article describes how [LiveCoMS](http://www.livecomsjournal.org) article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects.
 
 # Table of Contents
 
@@ -46,7 +46,7 @@ critical major errors are avoided.
 
 B. **The rationale**: A much more detailed section with the necessary rationale for the checklist, which would act as more complete *best practices* description, with significant detail as to the possible alternative ways to accomplish a given task, when one would be better than another, and significant literature documentation about reasons for choices.
 
-The inspiration for Best Practices documents can be found in the Atul
+The inspiration for Best practices guides can be found in the Atul
 Gawande article [The
 Checklist](http://www.newyorker.com/magazine/2007/12/10/the-checklist),
 later expanded in his bestseller [The Checklist
