@@ -17,6 +17,8 @@ This article describes how [LiveCoMS](http://www.livecomsjournal.org) article pr
   - [Review criteria](#review-criteria)
   - [The revision process](#the-revision-process)
 - [Updating LiveCoMS Articles](#updating-livecoms-articles)
+  - [Getting community help with updates](#engaging-the-community-in-improving-articles)
+  - [Paper writing as code development](#paper-writing-as-code-development)
 - [Authorship and Changes to Authorship](#authorship-and-changes-to-authorship)
 - [Other Policies for Submitted Articles](#other-policies-for-submitted-articles)
   - [Funding Compliance](#funding-compliance)
@@ -207,17 +209,15 @@ Certain categories of article may need revision at different frequencies:
 
 * **Tutorials**: Authors should generally update tutorials as the software involved changes; these tutorials are expected to be kept functioning and if they do not, they may be indicated as out-of-date on LiveCoMS' site.
 
-## Incorporating community involvement and support in improving articles.
+## Engaging the Community in Improving Articles
 
-By using GitHub to write the paper, questions, comments, or additions
-from the community [can be filed as
-issues](https://help.github.com/articles/about-issues/) and then can
-be easily incorporated into new versions of the article.  In this way
-the document becomes truly a living document. 
+We require GitHub use for papers to provide an easy mechanism for community feedback on the paper, allowing questions, comments, or additions.
+Community members can easily [file issues](https://help.github.com/articles/about-issues/) on these topics, and then these can be incorporated into new versions of the article.  
+This can help LiveCoMS articles truly become living documents.
 
-## Paper writing as code
+## Paper Writing as Code Development
 
-By allowing people to update their papers, and by allowing community input, writing a paper becomes something much more like writing code.  See our more in-depth iscussion of [paper writing as code development](paper_code.md).
+This model of updatable papers, curated with community input, allows paper-writing to become much more like code development -- a process of iterative improvement. This approach can be called [paper writing as code development](paper_code.md), and allows authors to benefit from well-established practices and tools which help code developers.
 
 # Authorship and Changes to Authorship
 
