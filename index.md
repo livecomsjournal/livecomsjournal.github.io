@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
+This article describes how [LiveCoMS](livecomsjournal.org) article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects.
 
 # Table of Contents
 
-This article describes how [LiveCoMS](livecomsjournal.org) article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects, as follows:
 - [Submission Process](#the-process-of-submitting-an-article-to-livecoms)
   - [Article types](#types-of-articles)
   - [General guidelines](#general-article-guidelines)
