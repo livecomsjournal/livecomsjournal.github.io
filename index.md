@@ -1,5 +1,6 @@
-# Guide to Submitting a Paper to LiveCoMS
-
+---
+layout: default
+---
 
 # Table of Contents
 
