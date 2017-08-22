@@ -217,7 +217,7 @@ the document becomes truly a living document.
 
 ## Paper writing as code
 
-By allowing people to update their papers, and by allowing community input, writing a paper becomes something much more like writing code.  See our more in-depth iscussion of [paper writing as code](paper_code.md).
+By allowing people to update their papers, and by allowing community input, writing a paper becomes something much more like writing code.  See our more in-depth iscussion of [paper writing as code development](paper_code.md).
 
 # Authorship and Changes to Authorship
 
