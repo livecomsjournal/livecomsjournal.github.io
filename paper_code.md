@@ -1,6 +1,6 @@
 ---
 layout: default
-description: Why a code development model can be used to improve paper writing, as well
+description: Why a code development model can be used to improve paper writing as well
 ---
 # Paper writing as code development
 
