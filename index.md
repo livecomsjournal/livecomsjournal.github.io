@@ -191,7 +191,7 @@ After this time, a revised manuscript may be handled as a new submission.
 
 # Updating LiveCoMS Articles
 
-A unique aspect of LiveCoMS is article versions, where new, updated versions of articles can be re-reviewed and treated as new publications. By using GitHub to write the paper, questions, comments, or additions from the community [can be filed as issues](https://help.github.com/articles/about-issues/) and then can be easily incorporated into new versions of the article.  In this way the document becomes truly a living document.
+A unique aspect of LiveCoMS is article versions, where new, updated versions of articles can be re-reviewed and treated as new publications. 
 
 Once peer reviewed, articles receive new DOI’s and are published on the LiveCoMS site as new versions. 
 This allows authors to receive credit for ongoing work they do on their articles.
@@ -207,6 +207,17 @@ Certain categories of article may need revision at different frequencies:
 
 * **Tutorials**: Authors should generally update tutorials as the software involved changes; these tutorials are expected to be kept functioning and if they do not, they may be indicated as out-of-date on LiveCoMS' site.
 
+## Incorporating community involvement and support in improving articles.
+
+By using GitHub to write the paper, questions, comments, or additions
+from the community [can be filed as
+issues](https://help.github.com/articles/about-issues/) and then can
+be easily incorporated into new versions of the article.  In this way
+the document becomes truly a living document. 
+
+## Paper writing as code
+
+By allowing people to update their papers, and by allowing community input, writing a paper becomes something much more like writing code.  See our more in-depth iscussion of [paper writing as code](http://livecomsjournal.github.io/paper_code.md).
 
 # Authorship and Changes to Authorship
 
