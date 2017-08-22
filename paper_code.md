@@ -1,6 +1,6 @@
 ---
 layout: default
-description: 
+description: why a code development model can be work to improve many types of papers
 ---
 # Paper writing as code development
 
