@@ -185,7 +185,7 @@ Reviews will also consider the following factors according to manuscript categor
 
 ## The Revision Process
 
-If manuscript revision is requested, authors will be asked to re-submit within 30 days for minor revisions and 30 days for major revisions. 
+If manuscript revision is requested, authors will be asked to re-submit within 30 days for minor revisions and 60 days for major revisions. 
 After this time, a revised manuscript may be handled as a new submission.
 
 # Updating LiveCoMS Articles
