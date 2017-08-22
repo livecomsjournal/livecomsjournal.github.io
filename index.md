@@ -76,7 +76,7 @@ al. review](https://github.com/MobleyLab/benchmarksets), which was
 originally an *Annual Reviews in Biophysics* article, but is now being
 updated regularly on GitHub.
 
-### Comparisons of Molecular Simulation Packages:
+### Comparisons of Molecular Simulation Packages
 Simulation comparison papers describe attempts to perform the same
 calculation with a range of different simulation programs. 
 Such comparison should be updated periodically with different versions of
@@ -178,7 +178,7 @@ Reviews will also consider the following factors according to manuscript categor
     * Are the methods applied to systems which for which reliable independent data are available?  Are the systems considered of sufficient complexity that readers will find the results convincing and generalizable?
     * Have the authors addressed whether a naive user could expect similar performance and why or why not?
 
-* **Tutorials**:
+* **Tutorials**
     * Are files to run the simulations posted online in a permanent (or nearly so) way?
     * Are the tutorials suitable for students with only basic knowledge?
     * Do they include enough information on how to generalize the approach to handle other cases, and highlight major issues to consider?
