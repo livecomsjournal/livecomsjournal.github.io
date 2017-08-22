@@ -1,3 +1,5 @@
+# Guide to Submitting a Paper to LiveCoMS
+
 
 # Table of Contents
 
