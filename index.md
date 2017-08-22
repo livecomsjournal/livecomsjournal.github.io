@@ -98,9 +98,9 @@ Our goal is to encourage the highest quality tutorials by providing some degree 
 ## Presubmission Letter
 
 Authors should first send a presubmission letter to the [lead editor in the relevant area](http://www.livecomsjournal.org/editorial-board).  The letter should be no more than one page, and should:
-* Outline the scope of their best practice document or review.
-* Explain how the proposed manuscript is different from existing best practices articles or reviews. 
-* Note whether it is adapted from a previous article (and identify the article if so).
+* Outline the scope of the proposed contribution.
+* Explain how the proposed manuscript is different from existing published work. 
+* Note whether the manuscript is adapted from a previous article (and identify the article if so).
 * Explain the expertise that the proposed authors have on the subject.
 * Describe the license that the authors will use that will enable the article to be released freely to the public.
 
@@ -113,8 +113,8 @@ The authors should prepare the document using
 [LaTeX](https://www.latex-project.org/) in a public repository owned
 by one of the authors (or their organization/group) on [GitHub](http://wwww.github.com). 
 LiveCoMS [provides template LaTeX files to start from](http://www.github.com/livecoms/author_templates), and instructions for exactly how to structure the documents. 
-We require that articles that are submitted to LiveCoMS use the provided templates for the articles so that the journal has a consistent visual presentation.
-Additionally, articles should include clear links to and mention of the relevant GitHub repository and encourage community participation/feedback via GitHub. 
+We require that articles submitted to LiveCoMS use the provided templates so that the journal has a consistent visual presentation.
+Additionally, articles should include clear links to, and mention of, the relevant GitHub repository and encourage community participation/feedback via GitHub. 
 
 For an example of an article hosted on GitHub in this style (though not a LiveCoMS article), see [the following perpetual review](https://github.com/MobleyLab/benchmarksets). 
 
@@ -151,7 +151,7 @@ This open revision approach may be particularly suitable for articles which will
 ## Review criteria 
 A key purpose of the articles is that they should be useful to a range of researchers, but
 especially beginning researchers. 
-Thus, all best practices and review articles will be reviewed by a member of the student review board, which consists of graduate students and postdocs invited by the editorial board.
+Thus, all submitted manuscripts will be reviewed by a member of the student review board, which consists of graduate students and postdocs invited by the editorial board.
 
 Authors are also encouraged to have other researchers review their
 content, with comments and responses handled via the article's GitHub issue
@@ -172,19 +172,20 @@ Reviews will also consider the following factors according to manuscript categor
     * (If a revision) Have the authors removed data that is out of date, and qualified information that has been disproven or contradicted?
 
 * **Comparisons of molecular simulation programs**
-    * Does the paper include developers or advanced users of all programs being compared to ensure that comparisons are fair?
+    * Does the manuscript include developers or advanced users of all programs being compared to ensure that comparisons are fair?
     * Are best practices being used in the simulation comparisons?
+    * Are the methods applied to systems which for which reliable independent data are available?  Are the systems considered of sufficient complexity that readers will find the results convincing and generalizable?
     * Have the authors addressed whether a naive user could expect similar performance and why or why not?
 
 * **Tutorials**:
     * Are files to run the simulations posted online in a permanent (or nearly so) way?
-    * Are the tutorials helpful and educational?
+    * Are the tutorials suitable for students with only basic knowledge?
     * Do they include enough information on how to generalize the approach to handle other cases, and highlight major issues to consider?
     * Do the tutorials use commonly agreed on best practices?
 
 ## The Revision Process
 
-If manuscript revision is requested, authors will be asked to re-submit within 14 days for minor revisions and 30 days for major revisions. 
+If manuscript revision is requested, authors will be asked to re-submit within 30 days for minor revisions and 60 days for major revisions. 
 After this time, a revised manuscript may be handled as a new submission.
 
 # Updating LiveCoMS Articles
@@ -212,9 +213,8 @@ Authorship for "living" documents, LiveCoMS' focus, can become complicated as th
 Our key principle is that participants should get credit for their contributions, which can come in a variety of forms such as actually writing the work, providing feedback and filing issues, etc.
 However, different types of credit may be warranted. 
 In general, changes which constitute writing a significant part of the article merit authorship, but not those which only modify small portions.
-These smaller changes, however, should still be acknowledged.
 
-In order to acknowledge these contributors, people who offer comments/citations that are used in the paper should be listed listed on the relevant GitHub repository README Markdown file, and should be listed in the acknowledgment section of the paper. 
+In order to acknowledge more minor contributors, people who offer comments/citations that are used in the paper should be listed listed on the relevant GitHub repository README Markdown file, and should be listed in the acknowledgment section of the paper. 
 However, if the current authors feel that the contributions rise to the level of authorship, they can add new authors when the next major version is submitted.
 
 Exactly what constitutes a "significant" contribution is by necessity subjective, and authors should endeavor to be generous. In the process of reviewing revisions, the editors may examine the history of the GitHub repository to ensure appropriate credit is being given. 
