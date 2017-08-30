@@ -96,6 +96,12 @@ Tutorials for specific software packages must provide instructions and files for
 **Pre-existing tutorials**: The submission of existing tutorials, so long as they meet journal standards, is explicitly welcomed.
 Our goal is to encourage the highest quality tutorials by providing some degree of academic credit for these important and time-consuming efforts.
 
+### "Lessons Learned" (Negative Results)
+Research inherently involves failure, but without documentation of negative results, investigators are doomed to repeat prior mistakes.
+The "Lessons Learned" category will address this gap in the literature in a topic-based way - e.g., "Lessons Learned in Potential of Mean Force Computation."
+Authors will be encouraged to add to an existing topic when possible and appropriate (and receive formal authorship credit, as dicsussed elsewhere).
+"Lessons learned" articles must conform to standard scientific practices for documentation to ensure a reader could reproduce the reported results, and data analysis should conform to [best practices](https://github.com/dmzuckerman/Sampling-Uncertainty).
+
 # Before Submission
 
 ## Presubmission Letter
@@ -185,6 +191,12 @@ Reviews will also consider the following factors according to manuscript categor
     * Are the tutorials suitable for students with only basic knowledge?
     * Do they include enough information on how to generalize the approach to handle other cases, and highlight major issues to consider?
     * Do the tutorials use commonly agreed on best practices?
+    
+* **"Lessons Learned"/negative results article**
+    * Is the motivation for the approach clearly described and reasonable given existing literature?
+    * Is the procedure used fully described (and derived mathematically if appropriate) to enable a reader to reproduce the results?
+    * Are any needed supported files provided?
+    * Has data analysis been performed in conformance with best practices?
 
 ## The Revision Process
 
