@@ -209,6 +209,8 @@ Certain categories of article may need revision at different frequencies:
 
 * **Tutorials**: Authors should generally update tutorials as the software involved changes; these tutorials are expected to be kept functioning and if they do not, they may be indicated as out-of-date on LiveCoMS' site.
 
+* **"Lessons Learned" articles**: Once published, unless subsequently there are recognized flaws with or important updates to an already-published negative-result discussion, such article or article section may not require updating.  However, for new authors wishing to add to an existing topic-appropriate "Lessons Learned" article, the new authors should work with authors of the existing article, in consultation with editors as needed.  
+
 ## Engaging the Community in Improving Articles
 
 We require GitHub use for papers to provide an easy mechanism for community feedback on the paper, allowing questions, comments, or additions.
