@@ -135,7 +135,7 @@ Authors are encouraged to make updates to articles in their GitHub repositories 
 
 The review process for an update to a LiveCoMS article is similar to the review process for the initial version.  Additional review criteria will include whether or not issues the community raised on the article's issue tracker were responded to, and whether the revision includes sufficient new material.
 
-Certain categories of article may need revision at different frequencies. For information on the review frequencies, see [autthor information for each of the types of articles](#types-of-articles)
+Certain categories of article may need revision at different frequencies. For information on the review frequencies, see [author information for each of the types of articles](#types-of-articles).
 
 ## Engaging the Community in Improving Articles
 
@@ -186,4 +186,5 @@ Some journals, for example, *Annual Reviews* lets the authors retain the right t
 
 If an article is an adaptation of a previously published article, it must be noted in the cover letter, and major changes noted. 
 Evaluating whether such changes constitute a significant revision will be part of the review process.
+
 

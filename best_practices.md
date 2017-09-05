@@ -39,3 +39,4 @@ Reviewers will consider the following factors in reviewing best practices guides
 
 ## Revision schedule for best practices guides
 Best practices guides  may start with more frequent versions, as initial rounds of community input are solicited. As always, authors are encouraged to update their private GitHub versions as frequently as desired, and if the document changes rapidly, more frequent new versions on LiveCoMS may be needed; consultation with your editor is encouraged. 
+
