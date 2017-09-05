@@ -39,68 +39,17 @@ Articles do not need to contain original research, but may contain it.
 
 ## Types of Articles
 
-### Best Practices Manuscripts
-The goal of best practices manuscripts are to improve the quality of simulation research by providing advice that can eliminate the most common errors. 
-These documents consist of:
+Click each type of article for more information for submitting an article of that type.
 
-A. **A checklist**: A succinct list of steps that people should follow when carrying out the task in question. This is effectively a *checklist*, provided to ensure certain basic standards are followed and common but 
-critical major errors are avoided.
+- [Best Practices Guides](best_practices.md)
 
-B. **The rationale**: A much more detailed section with the necessary rationale for the checklist, which would act as more complete *best practices* description, with significant detail as to the possible alternative ways to accomplish a given task, when one would be better than another, and significant literature documentation about reasons for choices.
+- [Perpetual Reviews](perpetual_reviews.md)
 
-The inspiration for Best practices guides can be found in the Atul
-Gawande article [The
-Checklist](http://www.newyorker.com/magazine/2007/12/10/the-checklist),
-later expanded in his bestseller [The Checklist
-Manifesto](http://atulgawande.com/book/the-checklist-manifesto/). The
-main goal of these documents is to reduce common errors by ensuring
-appropriate choices are made throughout a difficult task. 
+- [Comparisons of Molecular Simulation Packages](compare_simulations.md)
 
-For our purposes, simulation checklists should help users avoid the
-most common reasons for failure or incorrect results. Checklists will
-typically also be accompanied by a detailed explanation with sources and references (the rationale mentioned above), and this rationale
-can go into more detail on best practices and
-cover more possible failure modes and how to avoid them. 
+- [Tutorials](tutorials.md)
 
-One can divide the types of errors that are made performing molecular
-simulations into (a) mistakes experienced researchers often make, and (b)
-mistakes new users often make, even after having received solid
-training in fundamentals of molecular simulation. Most checklists will
-be focused on these types of failures.  Potentially, authors might also be interested in helping to prevent the mistakes of naive users who do not understand the
-basic principles of molecular simulation. However, normal best practices documents can assume a basic familiarity with the fundamentals of molecular simulations; a separate class of documents can be targeted at introducing novice users to the field, and these will serve as prerequisites for more detailed documents. 
-
-### Perpetual Reviews
- 
-Perpetual reviews, like standard reviews, seek to provide an overview of an area of the field; however, they can be updated as needed, thus serving as living documents that remain current.
-Perpetual reviews change both in response to community input, and in response to new developments in the field.
-An example of this process can be found in the [Mobley et
-al. review](https://github.com/MobleyLab/benchmarksets), which was
-originally an *Annual Reviews in Biophysics* article, but is now being
-updated regularly on GitHub.
-
-### Comparisons of Molecular Simulation Packages
-Simulation comparison papers describe attempts to perform the same
-calculation with a range of different simulation programs. 
-Such comparison should be updated periodically with different versions of
-the same programs (or potentially additional programs).
-
-### Tutorials 
-Tutorials are articles that come accompanied by web pages with walkthroughs or instructional materials and downloadable files to work with; e.g. an explanatory article accompanied by a website with training information and downloadable Jupyter notebooks teaching users how to perform a challenging modeling task may be an ideal tutorial.  
-Tutorials take users through specific tasks or sequences of tasks to help them learn how to do these tasks on their own for other applications or purposes. 
-
-
-**Scope of tutorials**: Tutorials should endeavor to not just cover the specific task at hand, but also highlight how the steps might need to be modified (or additional care might need to be taken at particular points) to handle more general cases. 
-Tutorials for specific software packages must provide instructions and files for the current version of the software.  
-
-
-**Pre-existing tutorials**: The submission of existing tutorials, so long as they meet journal standards, is explicitly welcomed.
-Our goal is to encourage the highest quality tutorials by providing some degree of academic credit for these important and time-consuming efforts.
-
-### "Lessons Learned" (Negative Results)
-Research inherently involves failure, but without documentation of negative results, investigators are doomed to repeat prior mistakes.
-The "Lessons Learned" category will address this gap in the literature in a topic-based way - e.g., "Lessons Learned in Potential of Mean Force Computation."
-Authors will be encouraged to add to an existing topic when possible and appropriate (and receive formal authorship credit, as dicsussed elsewhere).
-"Lessons learned" articles must conform to standard scientific practices for documentation to ensure a reader could reproduce the reported results, and data analysis should conform to [best practices](https://github.com/dmzuckerman/Sampling-Uncertainty).
+- ["Lessons Learned"](lessons_learned.md)
 
 # Before Submission
 
@@ -167,36 +116,8 @@ content, with comments and responses handled via the article's GitHub issue
 tracker. 
 A history of revisions in response to community concerns will impact the review process favorably.
 
-Reviews will also consider the following factors according to manuscript category:
+Reviews will also consider the additional factors according to manuscript category: [please see the individual category links](#types-of-articles) for more information on these review criteria.
 
-* **Best practices guides**
-    * Would following the provided checklist help users avoid significant potential errors in simulation? Will the errors be profound and/or frequent? 
-    * Are all assertions well-sourced in published data (which may, in some cases, include data created for the paper)?
-    * Are the explanations clear enough for researchers with only moderate training in simulation?
-
-* **Perpetual reviews**
-    * Do the authors properly include information from the recent literature, including last 6 to 12 months?
-    * Is this a good summary of its area which will be valuable to the field?
-    * Do the authors include data and viewpoints that are contradictory to their own, if these exist?
-    * (If a revision) Have the authors removed data that is out of date, and qualified information that has been disproven or contradicted?
-
-* **Comparisons of molecular simulation programs**
-    * Does the manuscript include developers or advanced users of all programs being compared to ensure that comparisons are fair?
-    * Are best practices being used in the simulation comparisons?
-    * Are the methods applied to systems which for which reliable independent data are available?  Are the systems considered of sufficient complexity that readers will find the results convincing and generalizable?
-    * Have the authors addressed whether a naive user could expect similar performance and why or why not?
-
-* **Tutorials**
-    * Are files to run the simulations posted online in a permanent (or nearly so) way?
-    * Are the tutorials suitable for students with only basic knowledge?
-    * Do they include enough information on how to generalize the approach to handle other cases, and highlight major issues to consider?
-    * Do the tutorials use commonly agreed on best practices?
-    
-* **"Lessons Learned"/negative results article**
-    * Is the motivation for the approach clearly described and reasonable given existing literature?
-    * Is the procedure used fully described (and derived mathematically if appropriate) to enable a reader to reproduce the results?
-    * Are any needed supported files provided?
-    * Has data analysis been performed in conformance with best practices?
 
 ## The Revision Process
 
@@ -213,15 +134,8 @@ This allows authors to receive credit for ongoing work they do on their articles
 Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted. However, release of new peer-reviewed versions via LiveCoMS is warranted only when changes become particularly extensive or important. Thus, versioning should typically be done no more frequently than every 12 months.  
 
 The review process for an update to a LiveCoMS article is similar to the review process for the initial version.  Additional review criteria will include whether or not issues the community raised on the article's issue tracker were responded to, and whether the revision includes sufficient new material.
-Certain categories of article may need revision at different frequencies: 
 
-* **Best practices guides**: These articles may start with more frequent versions, as initial rounds of community input are solicited. As always, authors are encouraged to update their private GitHub versions as frequently as desired, and if the document changes rapidly, more frequent new versions on LiveCoMS may be needed; consultation with your editor is encouraged. 
-
-* **Perpetual Reviews**: Authors will be asked to update reviews at least once every 36 months, and will be encouraged to ensure continuity of authorship (e.g. if one author retires or loses interest) so the review can be maintained, or else the review will be “made emeritus” and indicated as out-of-date on the site.  We recommend updating at least every 24 months.  However, authors decide when it is time to re-version based on feedback they receive. 
-
-* **Tutorials**: Authors should generally update tutorials as the software involved changes; these tutorials are expected to be kept functioning and if they do not, they may be indicated as out-of-date on LiveCoMS' site.
-
-* **"Lessons Learned" articles**: Once published, unless subsequently there are recognized flaws with or important updates to an already-published negative-result discussion, such article or article section may not require updating.  However, for new authors wishing to add to an existing topic-appropriate "Lessons Learned" article, the new authors should work with authors of the existing article, in consultation with editors as needed.  
+Certain categories of article may need revision at different frequencies. For information on the review frequencies, see [author information for each of the types of articles](#types-of-articles).
 
 ## Engaging the Community in Improving Articles
 
@@ -272,4 +186,5 @@ Some journals, for example, *Annual Reviews* lets the authors retain the right t
 
 If an article is an adaptation of a previously published article, it must be noted in the cover letter, and major changes noted. 
 Evaluating whether such changes constitute a significant revision will be part of the review process.
+
 
