@@ -1,6 +1,6 @@
-# "Lessons Learned" (Negative Results)
+# "Lessons Learned"
 
-## Waht is a "lesson learned" document
+## What is a "lesson learned" (i.e. negative results) document?
 Research inherently involves failure, but without documentation of negative results, investigators are doomed to repeat prior mistakes.
 The "Lessons Learned" category will address this gap in the literature in a topic-based way - e.g., "Lessons Learned in Potential of Mean Force Computation."
 Authors will be encouraged to add to an existing topic when possible and appropriate (and receive formal authorship credit, as dicsussed elsewhere).

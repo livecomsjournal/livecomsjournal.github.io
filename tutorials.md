@@ -7,15 +7,14 @@ Tutorials take users through specific tasks or sequences of tasks to help them l
 **Scope of tutorials**: Tutorials should endeavor to not just cover the specific task at hand, but also highlight how the steps might need to be modified (or additional care might need to be taken at particular points) to handle more general cases. 
 Tutorials for specific software packages must provide instructions and files for the current version of the software.  
 
-
 **Pre-existing tutorials**: The submission of existing tutorials, so long as they meet journal standards, is explicitly welcomed.
 Our goal is to encourage the highest quality tutorials by providing some degree of academic credit for these important and time-consuming efforts.
 
 ## Additional factors considered in review of tutorials
-    * Are files to run the simulations posted online in a permanent (or nearly so) way?
-    * Are the tutorials suitable for students with only basic knowledge?
-    * Do they include enough information on how to generalize the approach to handle other cases, and highlight major issues to consider?
-    * Do the tutorials use commonly agreed on best practices?
+* Are files to run the simulations posted online in a permanent (or nearly so) way?
+* Are the tutorials suitable for students with only basic knowledge?
+* Do they include enough information on how to generalize the approach to handle other cases, and highlight major issues to consider?
+* Do the tutorials use commonly agreed on best practices?
 
 ## Revision schedule for tutorials
 

@@ -41,7 +41,7 @@ Articles do not need to contain original research, but may contain it.
 
 Click each type of article for more information for submitting an article of that type.
 
-- [Best Practices Manuscripts](best_practices.md)
+- [Best Practices Guides](best_practices.md)
 
 - [Perpetual Reviews](perpetual_reviews.md)
 
