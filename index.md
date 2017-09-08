@@ -140,8 +140,13 @@ Certain categories of article may need revision at different frequencies. For in
 ## Engaging the Community in Improving Articles
 
 We require GitHub use for papers to provide an easy mechanism for community feedback on the paper, allowing questions, comments, or additions.
-Community members can easily [file issues](https://help.github.com/articles/about-issues/) on these topics, and then these can be incorporated into new versions of the article.  
+Community members can easily [file issues](https://help.github.com/articles/about-issues/) on these topics, and then these can be incorporated into new versions of the article.
 This can help LiveCoMS articles truly become living documents.
+Please note: The issue tracker for these documents is not just for *problems* with the articles, but also for general discussion, feedback, questions, and so on -- really, for any type of discussion about the article.
+
+We are sympathetic to the fact that some commenters may wish to provide feedback to authors outside of GitHub.
+This can be done via conventional means, such as contacting the relevant authors directly.
+
 
 ## Paper Writing as Code Development
 
