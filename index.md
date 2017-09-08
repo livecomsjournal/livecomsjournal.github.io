@@ -1,34 +1,8 @@
 ---
 layout: default
 ---
-This article describes how [LiveCoMS](http://www.livecomsjournal.org) article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects.
-
-# Table of Contents
-
-- [Submission Process](#the-process-of-submitting-an-article-to-livecoms)
-  - [Article types](#types-of-articles)
-  - [General guidelines](#general-article-guidelines)
-- [Before Submission](#before-submission)
-  - [Presubmission letter](#presubmission-letter)
-  - [Article preparation](#preparation-of-your-article-for-submission)
-- [Submission and the Review Process](#submission-and-the-review-process)
-  - [Article submission](#article-submission)
-  - [The review process](#the-review-process)
-  - [Review criteria](#review-criteria)
-  - [The revision process](#the-revision-process)
-- [Updating LiveCoMS Articles](#updating-livecoms-articles)
-  - [Getting community help with updates](#engaging-the-community-in-improving-articles)
-  - [Paper writing as code development](#paper-writing-as-code-development)
-- [Authorship and Changes to Authorship](#authorship-and-changes-to-authorship)
-- [Other Policies for Submitted Articles](#other-policies-for-submitted-articles)
-  - [Funding Compliance](#funding-compliance)
-  - [Licensing](#licensing)
-  - [Prior publication](#prior-publication)
-  - [Author Order](#author-order)
-  - [Abandoned Documents](#abandoned-documents)
-
-
 # The Process of Submitting an Article to LiveCoMS
+This article describes how [LiveCoMS](http://www.livecomsjournal.org) article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects.
 
 ## Introduction
 
