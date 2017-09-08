@@ -1,6 +1,6 @@
-#Policies About the Editorial Boards
+# Policies About the Editorial Boards
 
-## Policies on Decisions}
+## Policies on Decisions
 Issues regarding governance structure, editorial board membership, leadership, and financial
 model must be decided by a 2/3 majority vote of the voting members of the editorial
 board.
