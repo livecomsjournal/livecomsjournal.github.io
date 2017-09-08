@@ -189,7 +189,7 @@ commercially.  Making it available to all of course makes it possible
 for LiveCoMS to publish it, and for the community to edit and
 contribute.  We highly recommend the CC-BY license in order to ensure
 your work can reach and help the broadest audience possible, and
-suggest that when considering the appropriate license you [read this analysis](http://openaccess.ox.ac.uk/2013/06/13/cc-by-what-does-it-mean-for-scholarly-articles-3/)
+suggest that when considering the appropriate license you [read this analysis](http://openaccess.ox.ac.uk/2013/06/13/cc-by-what-does-it-mean-for-scholarly-articles-3/).
 
 Other more restrictive licenses may be permissible as long as LiveCoMS
 has the permission to publish and excerpt from the document; this
@@ -203,11 +203,11 @@ For employees of the U.S. Government, their work products are under
 public domain, and thus CC-BY is not appropriate. We recommend the
 license language: "As a work of the United States Government, this
 package is in the public domain within the United
-States. Additionally, \\\[Agency Name\\\] waives copyright and related
+States. Additionally, \[Agency Name\] waives copyright and related
 rights in the work worldwide through the CC0 1.0 Universal Public
 Domain Dedication (which can be found at
 https://creativecommons.org/publicdomain/zero/1.0/)."
-[See the analysis of this language here](https://theunitedstates.io/licensing/)
+[See the analysis of this language here](https://theunitedstates.io/licensing/).
 
 ## Prior Publication
 
@@ -220,7 +220,7 @@ Some journals, for example, *Annual Reviews* lets the authors retain the right t
 If an article is an adaptation of a previously published article, it must be noted in the cover letter, and major changes noted. 
 Evaluating whether such changes constitute a significant revision will be part of the review process.
 
-##Author Order
+## Author Order
 Authors should, to the extent possible, determine the author order
 among themselves.  Each work must have a section describing the actual
 contributions of authors (and of those acknowledged) to provide
@@ -233,7 +233,7 @@ notions of author order (first author, corresponding author, etc.) may
 still be relevant and the authors will need to coordinate who should
 occupy these positions.
 
-##Abandoned Documents
+## Abandoned Documents
 
 By the submission of their paper, document, or materials, all the
 authors consent that if they no longer are willing or able to maintain
@@ -264,6 +264,3 @@ LiveCoMS may accept revised versions of papers which have amended
 authorship in such circumstances.
 
 
- LocalWords:  LiveCoMS livecoms Presubmission presubmission md GitHub PDF ArXiv
- LocalWords:  BioRxiv ChemRxiv engrXiv website postdocs DOI versioning curated
- LocalWords:  updatable Markdown CC remix
