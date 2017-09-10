@@ -234,7 +234,7 @@ templates include such a section.  Please note, since this is an
 electronic-only journal, there is no length limit when you describe
 the authors' contributions, so we recommend describing what they
 actually did rather than simply categorizing them in a small number of
-roles as might be done in more conventional journals.
+predefined roles as might be done in more conventional journals.
 <!-- MRS: still need to add that section of the templates somewhat -->  
 
 ## Abandoned Documents
