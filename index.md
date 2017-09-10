@@ -192,8 +192,8 @@ your work can reach and help the broadest audience possible, and
 suggest that when considering the appropriate license you [read this analysis](http://openaccess.ox.ac.uk/2013/06/13/cc-by-what-does-it-mean-for-scholarly-articles-3/).
 
 Other more restrictive licenses may be permissible as long as LiveCoMS
-has the permission to publish and excerpt from the document; this
-might be required if someone other than the authors has some rights to
+has the permission to publish and excerpt from the document; 
+another license might be needed if someone other than the authors has some rights to
 the material (for example, if it was previously published in some
 other journal). Generally, we only allow a more restrictive license in
 these cases, but are happy to discuss. Please ask the managing editors
@@ -222,16 +222,20 @@ Evaluating whether such changes constitute a significant revision will be part o
 
 ## Author Order
 Authors should, to the extent possible, determine the author order
-among themselves.  Each work must have a section describing the actual
-contributions of authors (and of those acknowledged) to provide
-clarity, and journal templates include such a section.  
-<!-- MRS: still need to add that section of the templates.  We should also likely provide more explicit instructions here as to how finely to divide the contributions. -->
+among themselves.  However, we acknowledge that institutions
+evaluating for merit, promotion, tenure or other cases may not read
+this level of detail, so traditional notions of author order (first
+author, corresponding author, etc.) may still be relevant and the
+authors will need to coordinate who should occupy these positions.
 
-However, we acknowledge that institutions evaluating for merit, promotion, tenure
-or other cases may not read this level of detail, so traditional
-notions of author order (first author, corresponding author, etc.) may
-still be relevant and the authors will need to coordinate who should
-occupy these positions.
+Each work must have a section describing the actual contributions of
+authors (and of those acknowledged) to provide clarity, and journal
+templates include such a section.  Please note, since this is an
+electronic-only journal, there is no length limit when you describe
+the authors' contributions, so we recommend describing what they
+actually did rather than simply categorizing them in a small number of
+roles as might be done in more conventional journals.
+<!-- MRS: still need to add that section of the templates somewhat -->  
 
 ## Abandoned Documents
 
@@ -242,11 +246,11 @@ do so, with appropriate modifications to the authors list. Authors
 would be given written notice (by e-mail and formal letter) if this
 were to happen and would have a period of six months to respond and/or
 designate a successor before LiveCoMS would do so for them. Typically,
-authors are _implicitly_ giving a right to do this via licensing under
+authors are *implicitly* giving a right to do this via licensing under
 [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) or
 similar licenses which give others the right to create derivative
-works (potentially allowing others to ``resurrect'' a document which
-has been abandoned); however, we expect all authors to explicitly
+works (potentially allowing others to "resurrect" a document which
+has been abandoned); however, we expect all authors to *explicitly*
 consent to this policy to avoid any confusion. Ordinarily, we expect
 this policy will be relevant only in unusual or extreme cases where an
 author or authors dies or leaves the field; in most other cases
@@ -262,5 +266,3 @@ appropriate acknowledgment/recognition of the original authors) if
 they have abandoned their article as described above, and that
 LiveCoMS may accept revised versions of papers which have amended
 authorship in such circumstances.
-
-
