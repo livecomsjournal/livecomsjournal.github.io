@@ -16,7 +16,8 @@ markdown_files = [
     {'title': 'Simulation Comparisons', 'file': 'compare_simulations.md'},
     {'title': 'Tutorials', 'file': 'tutorials.md'},
     {'title': 'Lessons Learned', 'file': 'lessons_learned.md'},
-    {'title': 'Paper Writing', 'file': 'paper_code.md'} ]
+    {'title': 'Paper Writing', 'file': 'paper_code.md'},
+    {'title': 'Editorial Board', 'file': 'editorial_board.md'} ]
 
 def print_subtoc(headings, level, file_location):
     for h in headings:

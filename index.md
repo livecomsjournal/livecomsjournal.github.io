@@ -32,6 +32,9 @@ feature_row:
   - title: Paper Writing
     url: /paper_code/
     excerpt: "Learn more about writing papers as code development."
+  - title: Editorial Board
+    url: /editorial_board/
+    excerpt: "Learn more about the editorial board policies."
 ---
 
 {% include feature_row id="intro" type="center" %}
