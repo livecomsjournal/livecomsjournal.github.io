@@ -10,16 +10,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LiveCoMS -- Submission, review, and editorial policies"
+title                    : "LiveCoMS" # -- Submission, review, and editorial policies"
 title_separator          : "|"
-name                     : "Your Name"
+name                     : # "Your Name"
 description              : "LiveCoMS: Submission, review, and editorial policies -- a guide to submitting a paper to LiveCoMS."
 url                      : "https://livecomsjournal.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : # 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
