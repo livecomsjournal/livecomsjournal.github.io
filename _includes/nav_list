@@ -30,12 +30,8 @@
               {% assign domain = site.url | append: site.baseurl %}
             {% endif %}
 
-            {% comment %} set "active" class on current page {% endcomment %}
-            {% if child.url == page.url %}
-              {% assign active = "active" %}
-            {% else %}
-              {% assign active = "" %}
-            {% endif %}
+            {% comment %} we're using this for on-page navigation - don't use "active" class {% endcomment %}
+            {% assign active = "" %}
 
             <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
           {% endfor %}
