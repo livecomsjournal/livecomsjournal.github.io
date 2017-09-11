@@ -1,4 +1,9 @@
-# "Lessons Learned"
+---
+layout: single
+sidebar:
+  nav: lessons_learned.md
+title: "Lessons Learned"
+---
 
 ## What is a "lesson learned" (i.e. negative results) document?
 Research inherently involves failure, but without documentation of negative results, investigators are doomed to repeat prior mistakes.

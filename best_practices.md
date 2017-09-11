@@ -1,4 +1,9 @@
-# Best Practices Guides
+---
+layout: single
+sidebar:
+  nav: best_practices.md
+title: Best Practices Guides
+---
 
 ## What is a best practices guide?
 The goal of best practices manuscripts are to improve the quality of simulation research by providing advice that can eliminate the most common errors. 

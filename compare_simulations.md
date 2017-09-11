@@ -1,4 +1,9 @@
-# Comparisons of Molecular Simulation Packages
+---
+layout: single
+sidebar:
+  nav: compare_simulations.md
+title: Comparisons of Molecular Simulation Packages
+---
 
 ## What is a publishable comparison for molecular simulation packages?
 

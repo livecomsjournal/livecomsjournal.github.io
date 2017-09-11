@@ -1,4 +1,9 @@
-# Perpetual Reviews
+---
+layout: single
+sidebar:
+  nav: perpetual_reviews.md
+title: Perpetual Reviews
+---
 
 ## What is a perpetual review?
 Perpetual reviews, like standard reviews, seek to provide an overview of an area of the field; however, they can be updated as needed, thus serving as living documents that remain current.

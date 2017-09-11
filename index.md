@@ -1,7 +1,10 @@
 ---
-layout: default
+layout: single
+sidebar:
+  nav: "index.md"
+title: The Process of Submitting an Article to LiveCoMS
 ---
-# The Process of Submitting an Article to LiveCoMS
+
 This article describes how [LiveCoMS](http://www.livecomsjournal.org) article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects.
 
 ## Introduction
