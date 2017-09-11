@@ -1,4 +1,9 @@
-# Tutorials 
+---
+layout: single
+sidebar:
+  nav: tutorials.md
+title: Tutorials
+---
 
 ## What is a publishable tutorial?
 Tutorials are articles that come accompanied by web pages with walkthroughs or instructional materials and downloadable files to work with; e.g. an explanatory article accompanied by a website with training information and downloadable Jupyter notebooks teaching users how to perform a challenging modeling task may be an ideal tutorial.  
