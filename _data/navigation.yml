@@ -1,0 +1,128 @@
+main:
+  - title: Policies
+    url: /
+  - title: Best Practices
+    url: /best_practices/
+  - title: Reviews
+    url: /perpetual_reviews/
+  - title: Simulation Comparisons
+    url: /compare_simulations/
+  - title: Tutorials
+    url: /tutorials/
+  - title: Lessons Learned
+    url: /lessons_learned/
+  - title: Paper Writing
+    url: /paper_code/
+
+index.md:
+  - title: The Process of Submitting an Article to LiveCoMS
+    url: /index.html#
+    children:
+    - title: Introduction
+      url: /index.html#introduction
+    - title: General Article Guidelines
+      url: /index.html#general-article-guidelines
+    - title: Types of Articles
+      url: /index.html#types-of-articles
+  - title: Before Submission
+    url: /index.html#before-submission
+    children:
+    - title: Presubmission Letter
+      url: /index.html#presubmission-letter
+    - title: Preparation of Your Article For Submission
+      url: /index.html#preparation-of-your-article-for-submission
+  - title: Submission and the Review Process
+    url: /index.html#submission-and-the-review-process
+    children:
+    - title: Article submission
+      url: /index.html#article-submission
+    - title: The review process
+      url: /index.html#the-review-process
+    - title: Review criteria
+      url: /index.html#review-criteria
+    - title: The Revision Process
+      url: /index.html#the-revision-process
+  - title: Updating LiveCoMS Articles
+    url: /index.html#updating-livecoms-articles
+    children:
+    - title: Engaging the Community in Improving Articles
+      url: /index.html#engaging-the-community-in-improving-articles
+    - title: Paper Writing as Code Development
+      url: /index.html#paper-writing-as-code-development
+  - title: Authorship and Changes to Authorship
+    url: /index.html#authorship-and-changes-to-authorship
+  - title: Other Policies for Submitted Articles
+    url: /index.html#other-policies-for-submitted-articles
+    children:
+    - title: Funding Compliance
+      url: /index.html#funding-compliance
+    - title: Licensing
+      url: /index.html#licensing
+    - title: Policy on Prior Publication
+      url: /index.html#policy-on-prior-publication
+
+best_practices.md:
+  - title: Best Practices Guides
+    url: /best_practices/index.html#
+    children:
+    - title: What is a best practices guide?
+      url: /best_practices/index.html#what-is-a-best-practices-guide
+    - title: Additional factors considered in review of best practices guides
+      url: /best_practices/index.html#additional-factors-considered-in-review-of-best-practices-guides
+    - title: Revision schedule for best practices guides
+      url: /best_practices/index.html#revision-schedule-for-best-practices-guides
+
+perpetual_reviews.md:
+  - title: Perpetual Reviews
+    url: /perpetual_reviews/index.html#
+    children:
+    - title: What is a perpetual review?
+      url: /perpetual_reviews/index.html#what-is-a-perpetual-review
+    - title: Additional review criteria for perpetual reviews
+      url: /perpetual_reviews/index.html#additional-review-criteria-for-perpetual-reviews
+    - title: Revision schedule for best practices guides
+      url: /perpetual_reviews/index.html#revision-schedule-for-best-practices-guides
+
+compare_simulations.md:
+  - title: Comparisons of Molecular Simulation Packages
+    url: /compare_simulations/index.html#
+    children:
+    - title: What is a publishable comparison for molecular simulation packages?
+      url: /compare_simulations/index.html#what-is-a-publishable-comparison-for-molecular-simulation-packages
+    - title: Additional factors considered in review of comparisons of molecular simulation programs
+      url: /compare_simulations/index.html#additional-factors-considered-in-review-of-comparisons-of-molecular-simulation-programs
+    - title: Revision schedule for comparisons of molecular simulation programs
+      url: /compare_simulations/index.html#revision-schedule-for-comparisons-of-molecular-simulation-programs
+
+tutorials.md:
+  - title: Tutorials
+    url: /tutorials/index.html#
+    children:
+    - title: What is a publishable tutorial?
+      url: /tutorials/index.html#what-is-a-publishable-tutorial
+    - title: Additional factors considered in review of tutorials
+      url: /tutorials/index.html#additional-factors-considered-in-review-of-tutorials
+    - title: Revision schedule for tutorials
+      url: /tutorials/index.html#revision-schedule-for-tutorials
+
+lessons_learned.md:
+  - title: "Lessons Learned"
+    url: /lessons_learned/index.html#
+    children:
+    - title: What is a "lesson learned" (i.e. negative results) document?
+      url: /lessons_learned/index.html#what-is-a-lesson-learned-ie-negative-results-document
+    - title: Additional factors considered in review of "lessons learned" documents
+      url: /lessons_learned/index.html#additional-factors-considered-in-review-of-lessons-learned-documents
+    - title: Revision schedule for "lessons learned" documents
+      url: /lessons_learned/index.html#revision-schedule-for-lessons-learned-documents
+
+paper_code.md:
+  - title: Paper writing as code development
+    url: /paper_code/index.html#
+    children:
+    - title: Incentives
+      url: /paper_code/index.html#incentives
+    - title: Tools for paper writing/code development
+      url: /paper_code/index.html#tools-for-paper-writingcode-development
+    - title: How it works in practice
+      url: /paper_code/index.html#how-it-works-in-practice
