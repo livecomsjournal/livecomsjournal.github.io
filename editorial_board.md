@@ -1,4 +1,9 @@
-# Policies About the Editorial Board
+---
+layout: single
+sidebar:
+  nav: editorial_board.md
+title: Policies About the Editorial Board
+---
 
 These policies are currently a draft, and not yet in force.
 

@@ -13,6 +13,8 @@ main:
     url: /lessons_learned/
   - title: Paper Writing
     url: /paper_code/
+  - title: Editorial Board
+    url: /editorial_board/
 
 policies.md:
   - title: The Process of Submitting an Article to LiveCoMS
@@ -58,8 +60,12 @@ policies.md:
       url: /policies/index.html#funding-compliance
     - title: Licensing
       url: /policies/index.html#licensing
-    - title: Policy on Prior Publication
-      url: /policies/index.html#policy-on-prior-publication
+    - title: Prior Publication
+      url: /policies/index.html#prior-publication
+    - title: Author Order
+      url: /policies/index.html#author-order
+    - title: Abandoned Documents
+      url: /policies/index.html#abandoned-documents
 
 best_practices.md:
   - title: Best Practices Guides
@@ -126,3 +132,10 @@ paper_code.md:
       url: /paper_code/index.html#tools-for-paper-writingcode-development
     - title: How it works in practice
       url: /paper_code/index.html#how-it-works-in-practice
+
+editorial_board.md:
+  - title: Policies About the Editorial Board
+    url: /editorial_board/index.html#
+    children:
+    - title: Policies on Decisions Issues regarding governance structure,
+      url: /editorial_board/index.html#policies-on-decisions-issues-regarding-governance-structure
