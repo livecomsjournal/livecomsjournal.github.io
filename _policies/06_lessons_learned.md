@@ -3,6 +3,8 @@ layout: single
 sidebar:
   nav: lessons_learned.md
 title: "Lessons Learned"
+excerpt: What is a "lesson learned" (i.e. negative results) document?
+permalink: /lessons_learned/
 ---
 
 ## What is a "lesson learned" (i.e. negative results) document?

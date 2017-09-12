@@ -3,6 +3,8 @@ layout: single
 sidebar:
   nav: compare_simulations.md
 title: Comparisons of Molecular Simulation Packages
+excerpt: What is a publishable comparison for molecular simulation packages?
+permalink: /compare_simulations/
 ---
 
 ## What is a publishable comparison for molecular simulation packages?

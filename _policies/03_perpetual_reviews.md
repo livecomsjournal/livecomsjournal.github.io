@@ -3,6 +3,8 @@ layout: single
 sidebar:
   nav: perpetual_reviews.md
 title: Perpetual Reviews
+excerpt: What are perpetual reviews?
+permalink: /perpetual_reviews/
 ---
 
 ## What is a perpetual review?

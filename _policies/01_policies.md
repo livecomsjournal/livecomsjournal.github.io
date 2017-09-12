@@ -1,8 +1,10 @@
 ---
 layout: single
 sidebar:
-  nav: "index.md"
+  nav: "policies.md"
 title: The Process of Submitting an Article to LiveCoMS
+excerpt: This article describes how LiveCoMS article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects.
+permalink: /policies/
 ---
 
 This article describes how [LiveCoMS](http://www.livecomsjournal.org) article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects.
@@ -21,15 +23,15 @@ Articles do not need to contain original research, but may contain it.
 
 Click each type of article for more information for submitting an article of that type.
 
-- [Best Practices Guides](best_practices.md)
+- [Best Practices Guides](/best_practices/)
 
-- [Perpetual Reviews](perpetual_reviews.md)
+- [Perpetual Reviews](/perpetual_reviews/)
 
-- [Comparisons of Molecular Simulation Packages](compare_simulations.md)
+- [Comparisons of Molecular Simulation Packages](/compare_simulations/)
 
-- [Tutorials](tutorials.md)
+- [Tutorials](/tutorials/)
 
-- ["Lessons Learned"](lessons_learned.md)
+- ["Lessons Learned"](/lessons_learned/)
 
 # Before Submission
 

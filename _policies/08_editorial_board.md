@@ -3,6 +3,8 @@ layout: single
 sidebar:
   nav: editorial_board.md
 title: Policies About the Editorial Board
+excerpt: A draft of the policies of the editorial board.
+permalink: /editorial_board/
 ---
 
 These policies are currently a draft, and not yet in force.

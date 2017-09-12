@@ -10,14 +10,14 @@ import string
 #   - be referred to in the list of links on the top of the page
 #   - have a sidebar navigation item
 markdown_files = [
-    {'title': 'Policies', 'file': 'policies.md'},
-    {'title': 'Best Practices', 'file': 'best_practices.md'},
-    {'title': 'Reviews', 'file': 'perpetual_reviews.md'},
-    {'title': 'Simulation Comparisons', 'file': 'compare_simulations.md'},
-    {'title': 'Tutorials', 'file': 'tutorials.md'},
-    {'title': 'Lessons Learned', 'file': 'lessons_learned.md'},
-    {'title': 'Paper Writing', 'file': 'paper_code.md'},
-    {'title': 'Editorial Board', 'file': 'editorial_board.md'} ]
+    {'title': 'Policies', 'file': '_policies/01_policies.md'},
+    {'title': 'Best Practices', 'file': '_policies/02_best_practices.md'},
+    {'title': 'Reviews', 'file': '_policies/03_perpetual_reviews.md'},
+    {'title': 'Simulation Comparisons', 'file': '_policies/04_compare_simulations.md'},
+    {'title': 'Tutorials', 'file': '_policies/05_tutorials.md'},
+    {'title': 'Lessons Learned', 'file': '_policies/06_lessons_learned.md'},
+    {'title': 'Paper Writing', 'file': '_policies/07_paper_code.md'},
+    {'title': 'Editorial Board', 'file': '_policies/08_editorial_board.md'} ]
 
 def print_subtoc(headings, level, file_location):
     for h in headings:
@@ -28,10 +28,7 @@ def print_subtoc(headings, level, file_location):
             print_subtoc(h['sub'], level + 1, file_location)
 
 def get_folder_from_filename(filename):
-    if filename == 'index.md':
-        return '/'
-    else:
-        return '/' +  filename.replace('.md', '') + '/'
+    return '/' +  filename.replace('_policies/','').replace('.md', '')[3:] + '/'
 
 def make_link_from_heading(heading):
     translator = str.maketrans('', '', string.punctuation)
@@ -83,7 +80,7 @@ def create_toc(md_file):
                            'ref': heading_ref,
                            'sub': []})
         
-    print(os.path.basename(md_file.name) + ':')
+    print(os.path.basename(md_file.name)[3:] + ':')
     print_subtoc(headings, 1, file_location)
 
 # argparse might be overkill, but at least we have a little help file
