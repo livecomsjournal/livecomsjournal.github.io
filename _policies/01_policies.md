@@ -18,6 +18,7 @@ In this article, we lay out the process by which authors create an article, subm
 
 There are no explicit length limits on any manuscript. 
 Articles do not need to contain original research, but may contain it.
+Currently, articles in LiveCoMS must be submitted as one of the following types: 
 
 ## Types of Articles
 
@@ -31,13 +32,14 @@ Click each type of article for more information for submitting an article of tha
 
 - [Tutorials](/tutorials/)
 
-- ["Lessons Learned"](/lessons_learned/)
+- [Lessons Learned](/lessons_learned/)
 
 # Before Submission
 
 ## Presubmission Letter
 
-Authors should first send a presubmission letter to the [lead editor in the relevant area](http://www.livecomsjournal.org/editorial-board).  The letter should be no more than one page, and should:
+Authors should first send a presubmission letter to the [lead editor in the relevant area](http://www.livecomsjournal.org/editorial-board).
+The letter should be no more than one page, and should:
 * Outline the scope of the proposed contribution.
 * Explain how the proposed manuscript is different from existing published work. 
 * Note whether the manuscript is adapted from a previous article (and identify the article if so).
@@ -45,7 +47,7 @@ Authors should first send a presubmission letter to the [lead editor in the rele
 * Describe the license that the authors will use that will enable the article to be released freely to the public.
 
 Potential authors submitting a presubmission letter will typically receive an answer within two weeks with either encouragement for a full submission, suggestion to work with previous authors on existing articles, or discouragement.
-Articles should be received within six months of a notification of encouragement.
+Articles should be submitted within six months of a notification of encouragement.
 
 ## Preparation of Your Article For Submission
 
