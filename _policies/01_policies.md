@@ -59,15 +59,6 @@ Additionally, articles should include clear links to, and mention of, the releva
 For an example of an article hosted on GitHub in this style (though not a LiveCoMS article), see [the following perpetual review](https://github.com/MobleyLab/benchmarksets). 
 
 
-One written, the authors post the resulting PDF document to a preprint server of their choice, which can be any one of:
-* [ArXiv](https://arxiv.org)
-* [BioRxiv](http://www.bioarxiv.org)
-* [ChemRxiv](https://chemrxiv.org/)
-* [Faculty of 1000 Research](https://f1000research.com)
-* Any of the [Open Science Framework preprint servers](https://osf.io/preprints/) (engrXiv, etc.)
-
-Posting to the preprint server can be done at any time prior to submission. 
-
 ### Writing style and editing
 
 Articles for LiveCoMS should aim to be as clear as possible, as they are intended to aid the community, not just an expert in the field.
@@ -81,6 +72,28 @@ We also find Plaxco's [The Art of Writing Science](http://dx.doi.org/10.1002/pro
 It is particularly important to note that **LiveCoMS does not edit articles in detail, so it is important to arrange for your own editing**.
 You may receive some comments from your editor and/or the peer reviewers that point out typos or other issues, but you should not **rely** on this for your editing process. 
 In order to keep costs to authors at a minimum, we do not employ copy editors, so be sure to arrange for your own editing.
+
+### Article layout
+
+You are responsible for preparing your article PDF and materials in the way you want them to appear in LiveCoMS, so it is important to take some care as to how these look.
+LiveCoMS will not be separately typesetting your article for you, so be careful that your materials are laid out well.
+Be sure to pay particular attention to:
+- Place your figures and tables appropriately in the document, rather than collecting them at the end
+- Number figures and tables in the order in which they are referenced in the text
+- Use consistent (and legible) font sizes in figures and tables; our LaTeX template uses OpenSans; we recommend its use if possible in figures as well.
+
+
+### Preprints
+
+One written, the authors post the resulting PDF document to a preprint server of their choice, which can be any one of:
+* [ArXiv](https://arxiv.org)
+* [BioRxiv](http://www.bioarxiv.org)
+* [ChemRxiv](https://chemrxiv.org/)
+* [Faculty of 1000 Research](https://f1000research.com)
+* Any of the [Open Science Framework preprint servers](https://osf.io/preprints/) (engrXiv, etc.)
+
+Posting to the preprint server can be done at any time prior to submission. 
+
 
 # Submission and the Review Process
 
