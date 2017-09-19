@@ -73,6 +73,8 @@ It is particularly important to note that **LiveCoMS does not edit articles in d
 You may receive some comments from your editor and/or the peer reviewers that point out typos or other issues, but you should not **rely** on this for your editing process. 
 In order to keep costs to authors at a minimum, we do not employ copy editors, so be sure to arrange for your own editing.
 
+Articles can have any length; however, you should be as concise as possible.
+
 ### Article layout
 
 You are responsible for preparing your article PDF and materials in the way you want them to appear in LiveCoMS, so it is important to take some care as to how these look.
