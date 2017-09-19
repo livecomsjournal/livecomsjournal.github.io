@@ -73,7 +73,7 @@ However, you are also free to post your article to standard preprint servers, su
 
 ## Article submission 
 
-After posting to the preprint server, the author uploads the final
+When ready for submission, the author uploads the final
 article PDF (created using the [LiveCoMS
 templates](http://www.github.com/livecoms/author_templates), discussed above) and a link to the GitHub site for the article.
 
@@ -83,7 +83,7 @@ reviewers, and note any deviations from the presubmission letter.
 
 ## The review process
 
-The editors will choose reviewers, which may include the editors themselves.  
+The editors will choose reviewers, which may include the editors themselves.
 Reviews will generally be anonymous, though reviewers will be allowed to become known if they desire, and can participate directly in revisions through the GitHub website, whether or not they remain anonymous.
 For example, a reviewer could choose to submit a very brief review addressing only suitability, but provide extensive feedback to the authors on the GitHub issue tracker, allowing discussion of how the article should be revised to be done openly.
 This open revision approach may be particularly suitable for articles which will become community resources. 
@@ -103,7 +103,7 @@ Reviews will also consider the additional factors according to manuscript catego
 
 ## The Revision Process
 
-If manuscript revision is requested, authors will be asked to re-submit within 30 days for minor revisions and 60 days for major revisions. 
+If manuscript revision is requested, authors will typically be asked to re-submit within 30 days for minor revisions and 60 days for major revisions. 
 After this time, a revised manuscript may be handled as a new submission.
 
 # Updating LiveCoMS Articles
@@ -113,15 +113,19 @@ A unique aspect of LiveCoMS is article versions, where new, updated versions of 
 Once peer reviewed, articles receive new DOI’s and are published on the LiveCoMS site as new versions. 
 This allows authors to receive credit for ongoing work they do on their articles.
 
-Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted. However, release of new peer-reviewed versions via LiveCoMS is warranted only when changes become particularly extensive or important. Thus, versioning should typically be done no more frequently than every 12 months.  
+Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted.
+However, release of new peer-reviewed versions via LiveCoMS is warranted only when changes become particularly extensive or important.
+Thus, versioning should typically be done no more frequently than every 12 months.  
 
-The review process for an update to a LiveCoMS article is similar to the review process for the initial version.  Additional review criteria will include whether or not issues the community raised on the article's issue tracker were responded to, and whether the revision includes sufficient new material.
+The review process for an update to a LiveCoMS article is similar to the review process for the initial version.
+Additional review criteria will include whether or not issues the community raised on the article's issue tracker were responded to, and whether the revision includes sufficient new material.
 
-Certain categories of article may need revision at different frequencies. For information on the review frequencies, see [author information for each of the types of articles](#types-of-articles).
+Certain categories of article may need revision at different frequencies.
+For information on suggested revision frequencies, see the [author information for each of the types of articles](#types-of-articles).
 
 ## Engaging the Community in Improving Articles
 
-We require GitHub use for papers to provide an easy mechanism for community feedback on the paper, allowing questions, comments, or additions.
+We require GitHub use for papers as it provides an easy mechanism for community feedback on the paper, allowing questions, comments, or additions.
 Community members can easily [file issues](https://help.github.com/articles/about-issues/) on these topics, and then these can be incorporated into new versions of the article.
 This can help LiveCoMS articles truly become living documents.
 Please note: The issue tracker for these documents is not just for *problems* with the articles, but also for general discussion, feedback, questions, and so on -- really, for any type of discussion about the article.
@@ -132,23 +136,24 @@ This can be done via conventional means, such as contacting the relevant authors
 
 ## Paper Writing as Code Development
 
-This model of updatable papers, curated with community input, allows paper-writing to become much more like code development -- a process of iterative improvement. This approach can be called [paper writing as code development](paper_code.md), and allows authors to benefit from well-established practices and tools which help code developers.
+This model of updatable papers, curated with community input, allows paper-writing to become much more like code development -- a process of iterative improvement. This approach can be called [paper writing as code development](07_paper_code.md), and allows authors to benefit from well-established practices and tools which help code developers.
 
 # Authorship and Changes to Authorship
 
-Authorship for "living" documents, LiveCoMS' focus, can become complicated as the document involves and more people contribute.
-Our key principle is that participants should get credit for their contributions, which can come in a variety of forms such as actually writing the work, providing feedback and filing issues, etc.
+Authorship for "living" documents, LiveCoMS' focus, can become complicated as the document evolves and more people contribute.
+Our key principle is that participants should get credit for their contributions, whether they actually write the work, provide feedback, file issues, or participate in other ways.
 However, different types of credit may be warranted. 
 In general, changes which constitute writing a significant part of the article merit authorship, but not those which only modify small portions.
 
-In order to acknowledge more minor contributors, people who offer comments/citations that are used in the paper should be listed listed on the relevant GitHub repository README Markdown file, and should be listed in the acknowledgment section of the paper. 
+In order to acknowledge more minor contributors, people who offer comments/citations that are used in the paper should be listed listed on the relevant GitHub repository README Markdown file, and should be listed in the acknowledgments section of the paper. 
 However, if the current authors feel that the contributions rise to the level of authorship, they can add new authors when the next major version is submitted.
 
-Exactly what constitutes a "significant" contribution is by necessity subjective, and authors should endeavor to be generous. In the process of reviewing revisions, the editors may examine the history of the GitHub repository to ensure appropriate credit is being given. 
-If contributors feel that they should be given authorship based on the number of accepted commits, the editors will help resolve any disputes. 
-If contributors feel that their commits are not being accepted by the authors they should first strive to convince the authors and the community through well documented, convincing arguments. 
-If authors do not engage with substantial issues that have been raised, they may be asked to address these issues in the review process. 
-If authors do not substantively engage in the discussions on issues that are raised, this may prevent new updates of the review from being accepted.
+Exactly what constitutes a "significant" contribution is by necessity subjective, and authors should endeavor to be generous.
+In general LiveCoMS hopes that authors and contributors will be able to sort out these issues amicably, but we may in some cases be able to help resolve disputes. 
+We expect the following situations may deserve particular attention:
+- *Contributors who deserve authorship*: If contributions are particularly significant, addition to authorship may be warranted. Ideally, contributors concerned about authorship should sort out whether their contribution will merit authorship with the existing authors before contributing to avoid problems.
+- *Contributions not being accepted*: If contributors are making suggestions or proposing changes which are being ignored or rejected, the contributors should first strive to convince the authors and community by providing sufficiently compelling data and arguments. If this fails, the lack of engagement with issues raised may become a factor in the review process of subsequent versions of the paper. 
+- *Review of subsequent versions*: GitHub provides an automatic mechanism for tracking contributions, via the GitHub repository's history. This may be examined when revised versions of the article are being considered for publication both to ensure appropriate credit is being given, and to check that authors are engaging with and addressing substantial issues raised by the community. A failure to substantively engage in discussions on issues raised may prevent new updates of the work from being accepted.
 
 # Other Policies for Submitted Articles
 
@@ -198,7 +203,7 @@ https://creativecommons.org/publicdomain/zero/1.0/)."
 Documents should not have been submitted in the current form to another journal, or be simultaneously under consideration for publication another journal. 
 Preprints do not count as prior publication. 
 Documents that are major revisions of previously published articles are welcomed. 
-However, authors should ensure that material they develop for the journal does not have rights reserved by other journals from such previous publication that impede release under open licenses. 
+However, authors should ensure that any material they publish in LiveCoMS is not subject to licensing restrictions (such as from another journal) which impedes its release under the selected license.
 Some journals, for example, *Annual Reviews* lets the authors retain the right to create derivative works, which could perhaps be exercised in preparing a review to be published in LiveCoMS. 
 
 If an article is an adaptation of a previously published article, it must be noted in the cover letter, and major changes noted. 
@@ -206,7 +211,8 @@ Evaluating whether such changes constitute a significant revision will be part o
 
 ## Author Order
 Authors should, to the extent possible, determine the author order
-among themselves.  However, we acknowledge that institutions
+among themselves.
+However, we acknowledge that institutions
 evaluating for merit, promotion, tenure or other cases may not read
 this level of detail, so traditional notions of author order (first
 author, corresponding author, etc.) may still be relevant and the
@@ -215,8 +221,8 @@ authors will need to coordinate who should occupy these positions.
 Each work must have a section describing the actual contributions of
 authors (and of those acknowledged) to provide clarity, and journal
 templates include such a section.  Please note, since this is an
-electronic-only journal, there is no length limit when you describe
-the authors' contributions, so we recommend describing what they
+electronic-only journal, there is no length limit when describing
+the authors' contributions, so we recommend describing what authors
 actually did rather than simply categorizing them in a small number of
 predefined roles as might be done in more conventional journals.
 <!-- MRS: still need to add that section of the templates somewhat -->  
