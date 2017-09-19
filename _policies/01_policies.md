@@ -80,6 +80,8 @@ templates](http://www.github.com/livecoms/author_templates), discussed above) an
 The authors must also submit a cover letter with suggestions for 4--5
 reviewers, and note any deviations from the presubmission letter.
 
+Article submission also involves paying a nominal charge of of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
+
 
 ## The review process
 
