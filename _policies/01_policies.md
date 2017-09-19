@@ -60,15 +60,13 @@ Additionally, articles should include clear links to, and mention of, the releva
 
 For an example of an article hosted on GitHub in this style (though not a LiveCoMS article), see [the following perpetual review](https://github.com/MobleyLab/benchmarksets). 
 
-
-One written, the authors post the resulting PDF document to a preprint server of their choice, which can be any one of:
+Ultimately, assuming your article passes peer review, LiveCoMS will be hosting a published version of your article, and you will have what essentially constitutes a preprint available on GitHub as well.
+However, you are also free to post your article to standard preprint servers, such as:
 * [ArXiv](https://arxiv.org)
 * [BioRxiv](http://www.bioarxiv.org)
 * [ChemRxiv](https://chemrxiv.org/)
 * [Faculty of 1000 Research](https://f1000research.com)
 * Any of the [Open Science Framework preprint servers](https://osf.io/preprints/) (engrXiv, etc.)
-
-Posting to the preprint server can be done at any time prior to submission. 
 
 # Submission and the Review Process
 
