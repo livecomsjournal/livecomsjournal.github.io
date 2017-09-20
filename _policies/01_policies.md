@@ -52,7 +52,7 @@ Articles should be received within six months of a notification of encouragement
 The authors should prepare the document using
 [LaTeX](https://www.latex-project.org/) in a public repository owned
 by one of the authors (or their organization/group) on [GitHub](http://wwww.github.com). 
-LiveCoMS [provides template LaTeX files to start from](http://www.github.com/livecoms/author_templates), and instructions for exactly how to structure the documents. 
+LiveCoMS [provides template LaTeX files to start from](https://github.com/livecomsjournal/article_templates), and instructions for exactly how to structure the documents.
 We require that articles submitted to LiveCoMS use the provided templates so that the journal has a consistent visual presentation.
 Additionally, articles should include clear links to, and mention of, the relevant GitHub repository and encourage community participation/feedback via GitHub. 
 
@@ -75,7 +75,7 @@ Posting to the preprint server can be done at any time prior to submission.
 
 After posting to the preprint server, the author uploads the final
 article PDF (created using the [LiveCoMS
-templates](http://www.github.com/livecoms/author_templates), discussed above) and a link to the GitHub site for the article.
+templates](https://github.com/livecomsjournal/article_templates), discussed above) and a link to the GitHub site for the article.
 
 The authors must also submit a cover letter with suggestions for 4--5
 reviewers, and note any deviations from the presubmission letter.
