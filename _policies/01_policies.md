@@ -106,11 +106,13 @@ Posting to a preprint server can be done at any time prior to submission.
 When ready for submission, the author uploads the final
 article PDF (created using the [LiveCoMS
 templates](https://github.com/livecomsjournal/article_templates), discussed above) and a link to the GitHub site for the article.
+[Full submission instructions are available through Scholastica](http://help.scholasticahq.com/customer/portal/articles/1218626), our journal management system.  
 
 The authors must also submit a cover letter with suggestions for 4--5
 reviewers, and note any deviations from the presubmission letter.
 
 Article submission also involves paying a nominal charge of of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
+This is handled through Stripe Connect and can be paid via any major credit card.
 
 
 ## The review process
