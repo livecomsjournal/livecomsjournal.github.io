@@ -59,6 +59,34 @@ Additionally, articles should include clear links to, and mention of, the releva
 For an example of an article hosted on GitHub in this style (though not a LiveCoMS article), see [the following perpetual review](https://github.com/MobleyLab/benchmarksets). 
 
 
+### Writing style and editing
+
+Articles for LiveCoMS should aim to be as clear as possible, as they are intended to aid the community, not just an expert in the field.
+In general we recommend authors follow the [ACS Style Guide](http://pubs.acs.org/isbn/9780841239999) and especially the sections on:
+- [Writing and word usage](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch004), noting the advice to use direct, declarative sentences, often in active voice
+- [Editorial style](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch010)
+- [Grammar, spelling, and punctuation](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch009)
+
+We also find Plaxco's [The Art of Writing Science](http://dx.doi.org/10.1002/pro.514) to be a particularly helpful concise summary of our desired style.
+
+It is particularly important to note that **LiveCoMS does not edit articles in detail, so it is important to arrange for your own editing**.
+You may receive some comments from your editor and/or the peer reviewers that point out typos or other issues, but you should not **rely** on this for your editing process. 
+In order to keep costs to authors at a minimum, we do not employ copy editors, so be sure to arrange for your own editing.
+
+Articles can have any length; however, you should be as concise as possible.
+
+### Article layout
+
+You are responsible for preparing your article PDF and materials in the way you want them to appear in LiveCoMS [using our templates](http://www.github.com/livecoms/author_templates), so it is important to take some care as to how your submitted materials look.
+LiveCoMS will not be separately typesetting your article for you, so be careful that your materials are laid out well.
+Be sure to pay particular attention to:
+- Place your figures and tables appropriately in the document, rather than collecting them at the end
+- Number figures and tables in the order in which they are referenced in the text
+- Use consistent (and legible) font sizes in figures and tables; our LaTeX template uses OpenSans; we recommend its use if possible in figures as well.
+
+
+### Preprints
+
 One written, the authors post the resulting PDF document to a preprint server of their choice, which can be any one of:
 * [ArXiv](https://arxiv.org)
 * [BioRxiv](http://www.bioarxiv.org)
@@ -67,6 +95,7 @@ One written, the authors post the resulting PDF document to a preprint server of
 * Any of the [Open Science Framework preprint servers](https://osf.io/preprints/) (engrXiv, etc.)
 
 Posting to the preprint server can be done at any time prior to submission. 
+
 
 # Submission and the Review Process
 
@@ -97,6 +126,9 @@ Authors are also encouraged to have other researchers review their
 content, with comments and responses handled via the article's GitHub issue
 tracker. 
 A history of revisions in response to community concerns will impact the review process favorably.
+
+Reviewers will also be asked to assess whether articles are well edited and clearly written.
+Authors whose article uses inconsistent style or poor grammar, or is poorly edited, may be asked to revise and address these issues. 
 
 Reviews will also consider the additional factors according to manuscript category: [please see the individual category links](#types-of-articles) for more information on these review criteria.
 
