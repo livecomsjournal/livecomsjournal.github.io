@@ -77,7 +77,7 @@ Articles can have any length; however, you should be as concise as possible.
 
 ### Article layout
 
-You are responsible for preparing your article PDF and materials in the way you want them to appear in LiveCoMS, so it is important to take some care as to how these look.
+You are responsible for preparing your article PDF and materials in the way you want them to appear in LiveCoMS [using our templates](http://www.github.com/livecoms/author_templates), so it is important to take some care as to how your submitted materials look.
 LiveCoMS will not be separately typesetting your article for you, so be careful that your materials are laid out well.
 Be sure to pay particular attention to:
 - Place your figures and tables appropriately in the document, rather than collecting them at the end
