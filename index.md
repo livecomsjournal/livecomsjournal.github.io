@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/livecoms-splash.jpg
 excerpt: "Submission, review, and editorial policies"
 intro: 
-  - excerpt: 'This website details the submission, review, and editorial policies of LiveCoMS, the Living Journal of Computational Molecular Science. Please visit [www.livecomsjournal.org](www.livecomsjournal.org) for more information.'
+  - excerpt: 'This website details the submission, review, and editorial policies of LiveCoMS, the Living Journal of Computational Molecular Science. Please visit [www.livecomsjournal.org](http://www.livecomsjournal.org) for more information.'
 ---
 
 {% include feature_row id="intro" type="center" %}
