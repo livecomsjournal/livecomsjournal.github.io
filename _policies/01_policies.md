@@ -86,6 +86,12 @@ Be sure to pay particular attention to:
 - Use consistent (and legible) font sizes in figures and tables; our LaTeX template uses OpenSans; we recommend its use if possible in figures as well.
 
 
+### Representative image
+
+Each article is posted alongside a key graphic or representative image; as part of the submission process you must upload a representative image of your choice.
+This should be something which graphically portrays a key point from your article in a stand-alone manner, or represents the area you are focusing on.
+
+
 ### Preprints
 
 Ultimately, assuming your article passes peer review, LiveCoMS will be hosting a published version of your article, and you will have what essentially constitutes a preprint available on GitHub as well.
@@ -110,6 +116,7 @@ templates](https://github.com/livecomsjournal/article_templates), discussed abov
 
 The authors must also submit a cover letter with suggestions for 4--5
 reviewers, and note any deviations from the presubmission letter.
+Additionally, you must upload a representative image as noted above.
 
 Article submission also involves paying a nominal charge of of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
 This is handled through Stripe Connect and can be paid via any major credit card.
