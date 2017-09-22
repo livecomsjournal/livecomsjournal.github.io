@@ -1,10 +1,10 @@
 ---
 layout: single
 sidebar:
-  nav: "policies.md"
-title: The Process of Submitting an Article to LiveCoMS
+  nav: authors_policies.md
+title: General Author Instructions
 excerpt: This article describes how LiveCoMS article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects.
-permalink: /policies/
+permalink: /authors/policies/
 ---
 
 This article describes how [LiveCoMS](http://www.livecomsjournal.org) article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects.

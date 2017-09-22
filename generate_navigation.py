@@ -3,21 +3,31 @@
 import argparse
 import re
 import os
+import sys
 import string
+import yaml
+
+# Categories
+# Dict containing category name (keys) and short name used for url
+categories = {
+    'Author Instructions': 'authors',
+    'Editorial Policies': 'policies',
+    'About LiveCoMS': 'about'
+}
 
 
-# List of Markdown files that will 
-#   - be referred to in the list of links on the top of the page
-#   - have a sidebar navigation item
-markdown_files = [
-    {'title': 'Policies', 'file': '_policies/01_policies.md'},
-    {'title': 'Best Practices', 'file': '_policies/02_best_practices.md'},
-    {'title': 'Reviews', 'file': '_policies/03_perpetual_reviews.md'},
-    {'title': 'Simulation Comparisons', 'file': '_policies/04_compare_simulations.md'},
-    {'title': 'Tutorials', 'file': '_policies/05_tutorials.md'},
-    {'title': 'Lessons Learned', 'file': '_policies/06_lessons_learned.md'},
-    {'title': 'Paper Writing', 'file': '_policies/07_paper_code.md'},
-    {'title': 'Editorial Board', 'file': '_policies/08_editorial_board.md'} ]
+def get_category_folder(category):
+    return '_' + category.lower().replace(' ', '_')
+
+
+def get_permalink(filename, category):
+    return categories[category] + '/' + os.path.basename(filename).replace('.md', '')[3:] + '/'
+
+
+def make_link_from_heading(heading):
+    translator = str.maketrans('', '', string.punctuation)
+    return heading.translate(translator).lower().replace(' ', '-')
+
 
 def print_subtoc(headings, level, file_location):
     for h in headings:
@@ -27,37 +37,66 @@ def print_subtoc(headings, level, file_location):
             print(level*2*' ' + '  children:')
             print_subtoc(h['sub'], level + 1, file_location)
 
-def get_folder_from_filename(filename):
-    return '/' +  filename.replace('_policies/','').replace('.md', '')[3:] + '/'
 
-def make_link_from_heading(heading):
-    translator = str.maketrans('', '', string.punctuation)
-    return heading.translate(translator).lower().replace(' ','-')
-
-def create_toc(md_file):
-    file_location = get_folder_from_filename(md_file.name) + 'index.html'
+def create_toc(md_file, category):
     find_heading = re.compile('^(#+) (.*)')
     headings = []
 
+    file_contents = open(os.path.join(get_category_folder(category), md_file)).read().split('\n')
+
+    header = []
+    if file_contents[0] == '---':
+        n = 0
+        for n, line in enumerate(file_contents[1:]):
+            if line == '---':
+                n += 1
+                break
+        header = file_contents[1:n]
+        file_contents = file_contents[n+1:]
+
     # Process front matter
     title = ''
-    line = md_file.readline()
-    if line == '---\n':
-        line = md_file.readline()
-        while line != '---\n':
-            line = [l.strip() for l in line.split(':', maxsplit=1)]
-            if line and line[0] == 'title' and len(line) == 2:
-                title = line[1]
-            line = md_file.readline()
+
+    header_string = '\n'.join(header)
+
+    front_matter = yaml.load(header_string)
+
+    rewrite_frontmatter = False
+
+    if 'title' in front_matter:
+        title = front_matter['title']
+
+    if 'permalink' in front_matter:
+        permalink = front_matter['permalink']
     else:
-        md_file.seek(0)
+        permalink = get_permalink(md_file.name, category)
+        header.append('permalink: ' + permalink)
+        rewrite_frontmatter = True
+    permalink += 'index.html'
+
+    if 'sidebar' not in front_matter or 'nav' not in front_matter['sidebar']:
+        nav = categories[category] + '_' + os.path.basename(md_file.name)[3:-3]
+        header.append('sidebar:')
+        header.append('  nav: ' + nav)
+        rewrite_frontmatter = True
+    else:
+        nav = front_matter['sidebar']['nav']
+
+    if rewrite_frontmatter:
+        with open(os.path.join(get_category_folder(category), md_file)) as f:
+            f.write('---\n')
+            for line in header:
+                f.write(line + '\n')
+            f.write('---\n')
+            for line in file_contents:
+                f.write(line + '\n')
 
     headings.append({'title': title,
                      'ref': '#',
                      'sub': []})
 
     # Read remaining file
-    for line in md_file:
+    for line in file_contents:
         match = find_heading.match(line)
         if match is None:
             continue
@@ -80,26 +119,34 @@ def create_toc(md_file):
                            'ref': heading_ref,
                            'sub': []})
         
-    print(os.path.basename(md_file.name)[3:] + ':')
-    print_subtoc(headings, 1, file_location)
+    print(nav + ':')
+    print_subtoc(headings, 1, permalink)
 
-# argparse might be overkill, but at least we have a little help file
-parser = argparse.ArgumentParser(description=('Generate YAML table of content ' +
-                                              'from markdown files ' +
-                                              '(hardcoded at the top of this script)\n' +
-                                              'Output of this script should be redirected to ' +
-                                              '_data/navigation.yml'),
-                                 formatter_class=argparse.RawTextHelpFormatter)
 
-args = parser.parse_args()
+def main(args):
+    # argparse might be overkill, but at least we have a little help file
+    parser = argparse.ArgumentParser(description=('Generate YAML table of content ' +
+                                                  'from markdown files located in category-folders' +
+                                                  '(hardcoded at the top of this script)\n' +
+                                                  'Output of this script should be redirected to ' +
+                                                  '_data/navigation.yml'),
+                                     formatter_class=argparse.RawTextHelpFormatter)
 
-# print main navigation
-print('main:')
-for f in markdown_files:
-    print('  - title: ' + f['title'])
-    print('    url: ' + get_folder_from_filename(f['file']))
+    parser.parse_args(args)
 
-# print sidebar navigation for files
-for f in markdown_files:
-    print()
-    create_toc(open(f['file']))
+    # print main navigation
+    print('main:')
+    for c in categories:
+        print('  - title: ' + c)
+        print('    url: /' + categories[c] + '/')
+
+    # print sidebar navigation for files
+    for c in categories:
+        for f in os.listdir(get_category_folder(c)):
+            if f.endswith('.md') and f != 'index.md':
+                print()
+                create_toc(f, c)
+
+
+if __name__ == "__main__":
+    main(sys.argv[1:])
