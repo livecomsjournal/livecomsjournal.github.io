@@ -189,7 +189,7 @@ This can be done via conventional means, such as contacting the relevant authors
 
 ## Paper Writing as Code Development
 
-This model of updatable papers, curated with community input, allows paper-writing to become much more like code development -- a process of iterative improvement. This approach can be called [paper writing as code development](https://livecomsjournal.github.io/about/paper_code.md), and allows authors to benefit from well-established practices and tools which help code developers.
+This model of updatable papers, curated with community input, allows paper-writing to become much more like code development -- a process of iterative improvement. This approach can be called [paper writing as code development](https://livecomsjournal.github.io/about/paper_code), and allows authors to benefit from well-established practices and tools which help code developers.
 
 # Authorship and Changes to Authorship
 
