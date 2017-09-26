@@ -166,7 +166,6 @@ A unique aspect of LiveCoMS is article versions, where new, updated versions of 
 Once peer reviewed, articles receive new DOI’s and are published on the LiveCoMS site as new versions. 
 This allows authors to receive credit for ongoing work they do on their articles.
 
-<<<<<<< HEAD:_author_instructions/01_policies.md
 Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted. 
 However, release of new peer-reviewed versions via LiveCoMS is warranted only when changes become particularly extensive or important.
 Thus, versioning should typically be done no more frequently than every 12 months.
@@ -190,7 +189,7 @@ This can be done via conventional means, such as contacting the relevant authors
 
 ## Paper Writing as Code Development
 
-This model of updatable papers, curated with community input, allows paper-writing to become much more like code development -- a process of iterative improvement. This approach can be called [paper writing as code development](07_paper_code.md), and allows authors to benefit from well-established practices and tools which help code developers.
+This model of updatable papers, curated with community input, allows paper-writing to become much more like code development -- a process of iterative improvement. This approach can be called [paper writing as code development](../_about_livecoms/01_paper_code.md), and allows authors to benefit from well-established practices and tools which help code developers.
 
 # Authorship and Changes to Authorship
 
