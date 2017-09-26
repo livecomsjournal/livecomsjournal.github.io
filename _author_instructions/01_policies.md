@@ -1,10 +1,10 @@
 ---
 layout: single
 sidebar:
-  nav: "policies.md"
-title: The Process of Submitting an Article to LiveCoMS
+  nav: authors_policies.md
+title: General Author Instructions
 excerpt: This article describes how LiveCoMS article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects.
-permalink: /policies/
+permalink: /authors/policies/
 ---
 
 This article describes how [LiveCoMS](http://www.livecomsjournal.org) article preparation and submission work, as well as giving details of the review process, revisions, authorship, and other aspects.
@@ -85,6 +85,11 @@ Be sure to pay particular attention to:
 - Number figures and tables in the order in which they are referenced in the text
 - Use consistent (and legible) font sizes in figures and tables; our LaTeX template uses OpenSans; we recommend its use if possible in figures as well.
 
+### Representative image
+
+Each article is posted alongside a key graphic or representative image; as part of the submission process you must upload a representative image of your choice.
+This should be something which graphically portrays a key point from your article in a stand-alone manner, or represents the area you are focusing on.
+
 
 ### Representative image
 
@@ -112,7 +117,7 @@ Posting to a preprint server can be done at any time prior to submission.
 When ready for submission, the author uploads the final
 article PDF (created using the [LiveCoMS
 templates](https://github.com/livecomsjournal/article_templates), discussed above) and a link to the GitHub site for the article.
-[Full submission instructions are available through Scholastica](http://help.scholasticahq.com/customer/portal/articles/1218626), our journal management system.  
+[Full submission instructions are available through Scholastica](http://help.scholasticahq.com/customer/portal/articles/1218626), our journal management system.
 
 The authors must also submit a cover letter with suggestions for 4--5
 reviewers, and note any deviations from the presubmission letter.
@@ -121,6 +126,10 @@ Additionally, you must upload a representative image as noted above.
 Article submission also involves paying a nominal charge of of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
 This is handled through Stripe Connect and can be paid via any major credit card.
 
+Additionally, you must upload a representative image as noted above.
+
+Article submission also involves paying a nominal charge of of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
+This is handled through Stripe Connect and can be paid via any major credit card.
 
 ## The review process
 
@@ -157,15 +166,15 @@ A unique aspect of LiveCoMS is article versions, where new, updated versions of 
 Once peer reviewed, articles receive new DOI’s and are published on the LiveCoMS site as new versions. 
 This allows authors to receive credit for ongoing work they do on their articles.
 
-Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted.
+Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted. 
 However, release of new peer-reviewed versions via LiveCoMS is warranted only when changes become particularly extensive or important.
-Thus, versioning should typically be done no more frequently than every 12 months.  
+Thus, versioning should typically be done no more frequently than every 12 months.
 
-The review process for an update to a LiveCoMS article is similar to the review process for the initial version.
+The review process for an update to a LiveCoMS article is similar to the review process for the initial version.  
 Additional review criteria will include whether or not issues the community raised on the article's issue tracker were responded to, and whether the revision includes sufficient new material.
 
 Certain categories of article may need revision at different frequencies.
-For information on suggested revision frequencies, see the [author information for each of the types of articles](#types-of-articles).
+For information on the review frequencies, see [author information for each of the types of articles](#types-of-articles).
 
 ## Engaging the Community in Improving Articles
 
@@ -180,7 +189,7 @@ This can be done via conventional means, such as contacting the relevant authors
 
 ## Paper Writing as Code Development
 
-This model of updatable papers, curated with community input, allows paper-writing to become much more like code development -- a process of iterative improvement. This approach can be called [paper writing as code development](07_paper_code.md), and allows authors to benefit from well-established practices and tools which help code developers.
+This model of updatable papers, curated with community input, allows paper-writing to become much more like code development -- a process of iterative improvement. This approach can be called [paper writing as code development](../_about_livecoms/01_paper_code.md), and allows authors to benefit from well-established practices and tools which help code developers.
 
 # Authorship and Changes to Authorship
 
@@ -253,9 +262,7 @@ Some journals, for example, *Annual Reviews* lets the authors retain the right t
 If an article is an adaptation of a previously published article, it must be noted in the cover letter, and major changes noted. 
 Evaluating whether such changes constitute a significant revision will be part of the review process.
 
-## Author Order
-Authors should, to the extent possible, determine the author order
-among themselves.
+Authors should, to the extent possible, determine the author order among themselves.  
 However, we acknowledge that institutions
 evaluating for merit, promotion, tenure or other cases may not read
 this level of detail, so traditional notions of author order (first

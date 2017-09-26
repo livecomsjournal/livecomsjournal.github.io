@@ -237,9 +237,12 @@ compress_html:
 
 # Collections
 collections:
-  policies:
+  author_instructions:
     output: true
-    permalink: /:path/
+  editorial_policies:
+    output: true
+  about_livecoms:
+    output: true
 
 
 # Defaults

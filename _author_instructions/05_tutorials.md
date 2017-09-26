@@ -1,10 +1,10 @@
 ---
 layout: single
 sidebar:
-  nav: tutorials.md
+  nav: authors_tutorials.md
 title: Tutorials
 excerpt: What is a publishable tutorial?
-permalink: /tutorials/
+permalink: /authors/tutorials/
 ---
 
 ## What is a publishable tutorial?

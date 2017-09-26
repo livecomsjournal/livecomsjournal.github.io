@@ -1,10 +1,10 @@
 ---
 layout: single
 sidebar:
-  nav: perpetual_reviews.md
+  nav: authors_perpetual_reviews.md
 title: Perpetual Reviews
 excerpt: What are perpetual reviews?
-permalink: /perpetual_reviews/
+permalink: /authors/perpetual_reviews/
 ---
 
 ## What is a perpetual review?
