@@ -9,9 +9,8 @@ permalink: /editorial_board/
 
 These policies are currently a draft, and not yet in force.
 
-## Policies on Decisions Issues regarding governance structure,
-editorial board membership, leadership, and financial model must be
-decided by a 2/3 majority vote of those members of the editorial board
+## Policies on Decisions 
+Issues regarding governance structure, editorial board membership, leadership, and financial model must be decided by a 2/3 majority vote of those members of the editorial board
 who vote on the issue.
 
 Other issues, such as editorial policy, licensing policy, can be
