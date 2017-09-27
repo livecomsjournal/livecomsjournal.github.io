@@ -92,12 +92,6 @@ Each article is posted alongside a key graphic or representative image; as part 
 This should be something which graphically portrays a key point from your article in a stand-alone manner, or represents the area you are focusing on.
 
 
-### Representative image
-
-Each article is posted alongside a key graphic or representative image; as part of the submission process you must upload a representative image of your choice.
-This should be something which graphically portrays a key point from your article in a stand-alone manner, or represents the area you are focusing on.
-
-
 ### Preprints
 
 Ultimately, assuming your article passes peer review, LiveCoMS will be hosting a published version of your article, and you will have what essentially constitutes a preprint available on GitHub as well.
@@ -187,8 +181,8 @@ This model of updatable papers, curated with community input, allows paper-writi
 
 # Authorship and Changes to Authorship
 
-Authorship for "living" documents, LiveCoMS' focus, can become complicated as the document evolves and more people contribute.
-Our key principle is that participants should get credit for their contributions, whether they actually write the work, provide feedback, file issues, or participate in other ways.
+LiveCoMS' focus on "living" documents, can make authorship attribution complicated as the document evolves and more people contribute.
+Our key principle is that participants should get credit for their contributions, whether they write the document, provide feedback, file issues, or participate in other ways.
 However, different types of credit may be warranted. 
 In general, changes which constitute writing a significant part of the article merit authorship, but not those which only modify small portions.
 
@@ -196,11 +190,14 @@ In order to acknowledge more minor contributors, people who offer comments/citat
 However, if the current authors feel that the contributions rise to the level of authorship, they can add new authors when the next major version is submitted.
 
 Exactly what constitutes a "significant" contribution is by necessity subjective, and authors should endeavor to be generous.
-In general LiveCoMS hopes that authors and contributors will be able to sort out these issues amicably, but we may in some cases be able to help resolve disputes. 
-We expect the following situations may deserve particular attention:
-- *Contributors who deserve authorship*: If contributions are particularly significant, addition to authorship may be warranted. Ideally, contributors concerned about authorship should sort out whether their contribution will merit authorship with the existing authors before contributing to avoid problems.
-- *Contributions not being accepted*: If contributors are making suggestions or proposing changes which are being ignored or rejected, the contributors should first strive to convince the authors and community by providing sufficiently compelling data and arguments. If this fails, the lack of engagement with issues raised may become a factor in the review process of subsequent versions of the paper. 
-- *Review of subsequent versions*: GitHub provides an automatic mechanism for tracking contributions, via the GitHub repository's history. This may be examined when revised versions of the article are being considered for publication both to ensure appropriate credit is being given, and to check that authors are engaging with and addressing substantial issues raised by the community. A failure to substantively engage in discussions on issues raised may prevent new updates of the work from being accepted.
+In general, LiveCoMS hopes that authors and contributors will be able to sort out these issues amicably. In some cases, editors may be able to help resolve disputes. 
+We offer the following guidelines for contributors:
+- *Contributors who deserve authorship*: If contributions are particularly significant (e.g., resulting in a new section added the manuscript),
+ addition to authorship may be warranted. Ideally, contributors concerned about authorship should, before contributing, discuss with existing authors whether their contribution will merit authorship.
+- *Contributions not being accepted*: If contributors are making suggestions or proposing changes which are being 
+ignored or rejected, the contributors should first strive to convince the authors and community of the contributions' merit 
+by providing sufficiently compelling data and arguments. If this fails, the lack of engagement with issues raised may become a factor considered by the editors during the review process of subsequent versions of the paper. 
+- *Review of subsequent versions*: GitHub provides an automatic mechanism for tracking contributions via the GitHub repository's history. This should be examined when revised versions of the article are being considered for publication both to ensure appropriate credit is being given, and to check that authors are engaging with and addressing substantial issues raised by the community. A failure to substantively engage in discussions on issues raised may prevent new updates of the work from being accepted.
 
 # Other Policies for Submitted Articles
 
@@ -217,22 +214,20 @@ However, in order to submit to LiveCoMS, authors must provide, at
 minimum, a license for LiveCoMS to publish the article and distribute
 it free of charge. We recommend that the authors release the article
 under an open source license such as [Creative Commons
-  Attribution](https://creativecommons.org/licenses/by/4.0/}{Creative Commons
-  Attribution) (also known as CC-BY) releasing the document for anyone to copy and
+  Attribution](https://creativecommons.org/licenses/by/4.0/) (also known as CC-BY) releasing the document for anyone to copy and
 redistribute the material in any medium or format, and remix,
 transform, and build upon the material for any purpose, even
-commercially.  Making it available to all of course makes it possible
+commercially.  Making it available to all makes it possible
 for LiveCoMS to publish it, and for the community to edit and
 contribute.  We highly recommend the CC-BY license in order to ensure
 your work can reach and help the broadest audience possible, and
 suggest that when considering the appropriate license you [read this analysis](http://openaccess.ox.ac.uk/2013/06/13/cc-by-what-does-it-mean-for-scholarly-articles-3/).
 
 Other more restrictive licenses may be permissible as long as LiveCoMS
-has the permission to publish and excerpt from the document; 
-another license might be needed if someone other than the authors has some rights to
-the material (for example, if it was previously published in some
-other journal). Generally, we only allow a more restrictive license in
-these cases, but are happy to discuss. Please ask the managing editors
+has the permission to publish and excerpt from the document. 
+A different license might be needed if someone other than the authors has some rights to
+the material (for example, if it was previously published in another journal). Generally, we only allow a more restrictive license in
+these cases, but are happy to discuss any licensing concerns. Please ask the managing editors
 if you require some other licensing regime.
 
 For employees of the U.S. Government, their work products are under
@@ -251,21 +246,15 @@ Documents should not have been submitted in the current form to another journal,
 Preprints do not count as prior publication. 
 Documents that are major revisions of previously published articles are welcomed. 
 However, authors should ensure that any material they publish in LiveCoMS is not subject to licensing restrictions (such as from another journal) which impedes its release under the selected license.
-Some journals, for example, *Annual Reviews* lets the authors retain the right to create derivative works, which could perhaps be exercised in preparing a review to be published in LiveCoMS. 
+Some journals, e.g. *Annual Reviews*, lets the authors retain the right to create derivative works, which could perhaps be exercised in preparing a review to be published in LiveCoMS. 
 
-If an article is an adaptation of a previously published article, it must be noted in the cover letter, and major changes noted. 
+If an article is an adaptation of a previously published article, it must be noted in the submission cover letter and major changes noted. 
 Evaluating whether such changes constitute a significant revision will be part of the review process.
 
 Authors should, to the extent possible, determine the author order among themselves.  
-However, we acknowledge that institutions
-evaluating for merit, promotion, tenure or other cases may not read
-this level of detail, so traditional notions of author order (first
-author, corresponding author, etc.) may still be relevant and the
-authors will need to coordinate who should occupy these positions.
-
 Each work must have a section describing the actual contributions of
 authors (and of those acknowledged) to provide clarity, and journal
-templates include such a section.  Please note, since this is an
+templates include such a section.  Please note: since this is an
 electronic-only journal, there is no length limit when describing
 the authors' contributions, so we recommend describing what authors
 actually did rather than simply categorizing them in a small number of
@@ -285,15 +274,14 @@ authors are *implicitly* giving a right to do this via licensing under
 [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) or
 similar licenses which give others the right to create derivative
 works (potentially allowing others to "resurrect" a document which
-has been abandoned); however, we expect all authors to *explicitly*
+has been abandoned). However, we expect all authors to *explicitly*
 consent to this policy to avoid any confusion. Ordinarily, we expect
 this policy will be relevant only in unusual or extreme cases where an
-author or authors dies or leaves the field; in most other cases
+author or authors leaves the field; in most other cases
 authors will presumably be available to designate their own successors
 or succession plan if a work is valuable to the field and will
 continue to need maintenance and the original author(s) are no longer
-willing or able to do so. However, we want to plan for the possibility
-of unusual events, hence our need for this policy.
+willing or able to do so. 
 
 Thus, for these reasons, authors submitting to LiveCoMS are agreeing
 that others may take over authorship of their article (with
