@@ -4,7 +4,7 @@ sidebar:
   nav: authors_best_practices.md
 title: Best Practices Guides
 excerpt: "What are best practices guides?"
-permalink: /best_practices/
+permalink: /authors_best_practices/
 ---
 
 ## What is a best practices guide?
