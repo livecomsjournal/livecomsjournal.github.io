@@ -18,7 +18,7 @@ In this article, we lay out the process by which authors create an article, subm
 
 There are no explicit length limits on any manuscript. 
 Articles do not need to contain original research, but may contain it.
-Currently, articles in LiveCoMS must be submitted as one of the following types: 
+Currently, articles in LiveCoMS must be submitted as one of the article types noted below.
 
 ## Types of Articles
 
@@ -54,7 +54,7 @@ Articles should be submitted within six months of a notification of encouragemen
 The authors should prepare the document using
 [LaTeX](https://www.latex-project.org/) in a public repository owned
 by one of the authors (or their organization/group) on [GitHub](http://wwww.github.com). 
-LiveCoMS [provides template LaTeX files to start from](https://github.com/livecomsjournal/article_templates), and instructions for exactly how to structure the documents.
+LiveCoMS [provides template LaTeX files to start from](https://github.com/livecomsjournal/article_templates), and instructions for how to structure the documents.
 We require that articles submitted to LiveCoMS use the provided templates so that the journal has a consistent visual presentation.
 Additionally, articles should include clear links to, and mention of, the relevant GitHub repository and encourage community participation/feedback via GitHub. 
 
@@ -62,16 +62,17 @@ For an example of an article hosted on GitHub in this style (though not a LiveCo
 
 ### Writing style and editing
 
-Articles for LiveCoMS should aim to be as clear as possible, as they are intended to aid the community, not just an expert in the field.
+Articles for LiveCoMS should aim to be as clear as possible, as they are intended to aid new members of the community, not just experts in the field.
 In general we recommend authors follow the [ACS Style Guide](http://pubs.acs.org/isbn/9780841239999) and especially the sections on:
 - [Writing and word usage](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch004), noting the advice to use direct, declarative sentences, often in active voice
 - [Editorial style](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch010)
 - [Grammar, spelling, and punctuation](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch009)
+- References: in the BibTex file, enter journals with their standard abbreviations (per [CASSI](http://cassi.cas.org/search.jsp)) and titles in Title Case. As with the main text, check that any special characters are rendered correctly in the final PDF.
 
 We also find Plaxco's [The Art of Writing Science](http://dx.doi.org/10.1002/pro.514) to be a particularly helpful concise summary of our desired style.
 
 It is particularly important to note that **LiveCoMS does not edit articles in detail, so it is important to arrange for your own editing**.
-You may receive some comments from your editor and/or the peer reviewers that point out typos or other issues, but you should not **rely** on this for your editing process. 
+You may receive some comments from your editor and/or the peer reviewers that point out typos or other issues, but you **should not rely** on this for your editing process. 
 In order to keep costs to authors at a minimum, we do not employ copy editors, so be sure to arrange for your own editing.
 
 Articles can have any length; however, you should be as concise as possible.
@@ -81,9 +82,9 @@ Articles can have any length; however, you should be as concise as possible.
 You are responsible for preparing your article PDF and materials in the way you want them to appear in LiveCoMS [using our templates](http://www.github.com/livecoms/author_templates), so it is important to take some care as to how your submitted materials look.
 LiveCoMS will not be separately typesetting your article for you, so be careful that your materials are laid out well.
 Be sure to pay particular attention to:
-- Place your figures and tables appropriately in the document, rather than collecting them at the end
-- Number figures and tables in the order in which they are referenced in the text
+- Place your figures and tables appropriately in the document (following the paragraph that first references them), rather than collecting them at the end. Do not not move the figures and tables in the LaTex document to change where they appear. Instead, use the [LaTex placement options](https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions) to adjust positioning.
 - Use consistent (and legible) font sizes in figures and tables; our LaTeX template uses OpenSans; we recommend its use if possible in figures as well.
+- Check that all special characters appear correctly in the rendered PDF.
 
 ### Representative image
 
@@ -126,27 +127,20 @@ Additionally, you must upload a representative image as noted above.
 Article submission also involves paying a nominal charge of of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
 This is handled through Stripe Connect and can be paid via any major credit card.
 
-Additionally, you must upload a representative image as noted above.
-
-Article submission also involves paying a nominal charge of of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
-This is handled through Stripe Connect and can be paid via any major credit card.
-
 ## The review process
 
 The editors will choose reviewers, which may include the editors themselves.
-Reviews will generally be anonymous, though reviewers will be allowed to become known if they desire, and can participate directly in revisions through the GitHub website, whether or not they remain anonymous.
+Reviews will generally be anonymous, though reviewers will be allowed to become known if they desire. Reviewers can also participate directly in revisions through the GitHub website, whether or not they remain anonymous.
 For example, a reviewer could choose to submit a very brief review addressing only suitability, but provide extensive feedback to the authors on the GitHub issue tracker, allowing discussion of how the article should be revised to be done openly.
 This open revision approach may be particularly suitable for articles which will become community resources. 
 
 ## Review criteria 
-A key purpose of the articles is that they should be useful to a range of researchers, but
-especially beginning researchers. 
+
+A key purpose of the articles is that they should be useful to a range of researchers, but especially beginning researchers. 
 Thus, all submitted manuscripts will be reviewed by a member of the student review board, which consists of graduate students and postdocs invited by the editorial board.
 
-Authors are also encouraged to have other researchers review their
-content, with comments and responses handled via the article's GitHub issue
-tracker. 
-A history of revisions in response to community concerns will impact the review process favorably.
+Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue
+tracker.  A history of revisions in response to community concerns will impact the review process favorably.
 
 Reviewers will also be asked to assess whether articles are well edited and clearly written.
 Authors whose article uses inconsistent style or poor grammar, or is poorly edited, may be asked to revise and address these issues. 
@@ -181,10 +175,10 @@ For information on the review frequencies, see [author information for each of t
 We require GitHub use for papers as it provides an easy mechanism for community feedback on the paper, allowing questions, comments, or additions.
 Community members can easily [file issues](https://help.github.com/articles/about-issues/) on these topics, and then these can be incorporated into new versions of the article.
 This can help LiveCoMS articles truly become living documents.
-Please note: The issue tracker for these documents is not just for *problems* with the articles, but also for general discussion, feedback, questions, and so on -- really, for any type of discussion about the article.
+Please note: The issue tracker for these documents is not just for *problems* with the articles, but also for general discussion, feedback, questions, and so on -- basically, for any type of discussion about the article.
 
 We are sympathetic to the fact that some commenters may wish to provide feedback to authors outside of GitHub.
-This can be done via conventional means, such as contacting the relevant authors directly.
+This can be done via any suitable means, such as contacting the relevant authors directly.
 
 
 ## Paper Writing as Code Development
