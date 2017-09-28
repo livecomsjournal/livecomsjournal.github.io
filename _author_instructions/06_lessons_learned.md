@@ -7,11 +7,15 @@ excerpt: What is a "lesson learned" (i.e. negative results) document?
 permalink: /authors/lessons_learned/
 ---
 
-## What is a "lesson learned" (i.e. negative results) document?
+## What is a "lesson learned" (i.e., negative results) document?
 Research inherently involves failure, but without documentation of negative results, investigators are doomed to repeat prior mistakes.
 The "Lessons Learned" category will address this gap in the literature in a topic-based way - e.g., "Lessons Learned in Potential of Mean Force Computation."
 Authors will be encouraged to add to an existing topic when possible and appropriate (and receive formal authorship credit, as dicsussed elsewhere).
-"Lessons learned" articles must conform to standard scientific practices for documentation to ensure a reader could reproduce the reported results, and data analysis should conform to [best practices](https://github.com/dmzuckerman/Sampling-Uncertainty).
+
+## Manuscript preparation instructions
+Quite simply, a "Lessons Learned" manuscript is a regular scientific article and hence should be prepared with the standard high level of care and documentation.
+The article should contain the usual sections: Introduction, including background, motivation and a brief discussion of related work; Methods/Theory, with all information required for a reader to reproduce the results, including software version numbers and links to any in-house files or scripts; Results; Discussion, highlighting the lessons learned and tips for avoiding future mistakes; and Conclusions.
+Data analysis should conform to [best practices](https://github.com/dmzuckerman/Sampling-Uncertainty).
 
 
 ## Additional factors considered in review of "lessons learned" documents
