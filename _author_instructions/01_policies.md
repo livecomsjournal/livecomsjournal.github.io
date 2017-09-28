@@ -18,7 +18,7 @@ In this article, we lay out the process by which authors create an article, subm
 
 There are no explicit length limits on any manuscript. 
 Articles do not need to contain original research, but may contain it.
-Currently, articles in LiveCoMS must be submitted as one of the following types: 
+Currently, articles in LiveCoMS must be submitted as one of the article types noted below.
 
 ## Types of Articles
 
@@ -54,7 +54,7 @@ Articles should be submitted within six months of a notification of encouragemen
 The authors should prepare the document using
 [LaTeX](https://www.latex-project.org/) in a public repository owned
 by one of the authors (or their organization/group) on [GitHub](http://wwww.github.com). 
-LiveCoMS [provides template LaTeX files to start from](https://github.com/livecomsjournal/article_templates), and instructions for exactly how to structure the documents.
+LiveCoMS [provides template LaTeX files to start from](https://github.com/livecomsjournal/article_templates), and instructions for how to structure the documents.
 We require that articles submitted to LiveCoMS use the provided templates so that the journal has a consistent visual presentation.
 Additionally, articles should include clear links to, and mention of, the relevant GitHub repository and encourage community participation/feedback via GitHub. 
 
@@ -62,16 +62,17 @@ For an example of an article hosted on GitHub in this style (though not a LiveCo
 
 ### Writing style and editing
 
-Articles for LiveCoMS should aim to be as clear as possible, as they are intended to aid the community, not just an expert in the field.
+Articles for LiveCoMS should aim to be as clear as possible, as they are intended to aid new members of the community, not just experts in the field.
 In general we recommend authors follow the [ACS Style Guide](http://pubs.acs.org/isbn/9780841239999) and especially the sections on:
 - [Writing and word usage](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch004), noting the advice to use direct, declarative sentences, often in active voice
 - [Editorial style](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch010)
 - [Grammar, spelling, and punctuation](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch009)
+- References: in the BibTex file, enter journals with their standard abbreviations (per [CASSI](http://cassi.cas.org/search.jsp)) and titles in Title Case. As with the main text, check that any special characters are rendered correctly in the final PDF.
 
 We also find Plaxco's [The Art of Writing Science](http://dx.doi.org/10.1002/pro.514) to be a particularly helpful concise summary of our desired style.
 
 It is particularly important to note that **LiveCoMS does not edit articles in detail, so it is important to arrange for your own editing**.
-You may receive some comments from your editor and/or the peer reviewers that point out typos or other issues, but you should not **rely** on this for your editing process. 
+You may receive some comments from your editor and/or the peer reviewers that point out typos or other issues, but you **should not rely** on this for your editing process. 
 In order to keep costs to authors at a minimum, we do not employ copy editors, so be sure to arrange for your own editing.
 
 Articles can have any length; however, you should be as concise as possible.
@@ -81,15 +82,9 @@ Articles can have any length; however, you should be as concise as possible.
 You are responsible for preparing your article PDF and materials in the way you want them to appear in LiveCoMS [using our templates](http://www.github.com/livecoms/author_templates), so it is important to take some care as to how your submitted materials look.
 LiveCoMS will not be separately typesetting your article for you, so be careful that your materials are laid out well.
 Be sure to pay particular attention to:
-- Place your figures and tables appropriately in the document, rather than collecting them at the end
-- Number figures and tables in the order in which they are referenced in the text
+- Place your figures and tables appropriately in the document (following the paragraph that first references them), rather than collecting them at the end. Do not not move the figures and tables in the LaTex document to change where they appear. Instead, use the [LaTex placement options](https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions) to adjust positioning.
 - Use consistent (and legible) font sizes in figures and tables; our LaTeX template uses OpenSans; we recommend its use if possible in figures as well.
-
-### Representative image
-
-Each article is posted alongside a key graphic or representative image; as part of the submission process you must upload a representative image of your choice.
-This should be something which graphically portrays a key point from your article in a stand-alone manner, or represents the area you are focusing on.
-
+- Check that all special characters appear correctly in the rendered PDF.
 
 ### Representative image
 
@@ -126,27 +121,20 @@ Additionally, you must upload a representative image as noted above.
 Article submission also involves paying a nominal charge of of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
 This is handled through Stripe Connect and can be paid via any major credit card.
 
-Additionally, you must upload a representative image as noted above.
-
-Article submission also involves paying a nominal charge of of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
-This is handled through Stripe Connect and can be paid via any major credit card.
-
 ## The review process
 
 The editors will choose reviewers, which may include the editors themselves.
-Reviews will generally be anonymous, though reviewers will be allowed to become known if they desire, and can participate directly in revisions through the GitHub website, whether or not they remain anonymous.
+Reviews will generally be anonymous, though reviewers will be allowed to become known if they desire. Reviewers can also participate directly in revisions through the GitHub website, whether or not they remain anonymous.
 For example, a reviewer could choose to submit a very brief review addressing only suitability, but provide extensive feedback to the authors on the GitHub issue tracker, allowing discussion of how the article should be revised to be done openly.
 This open revision approach may be particularly suitable for articles which will become community resources. 
 
 ## Review criteria 
-A key purpose of the articles is that they should be useful to a range of researchers, but
-especially beginning researchers. 
+
+A key purpose of the articles is that they should be useful to a range of researchers, but especially beginning researchers. 
 Thus, all submitted manuscripts will be reviewed by a member of the student review board, which consists of graduate students and postdocs invited by the editorial board.
 
-Authors are also encouraged to have other researchers review their
-content, with comments and responses handled via the article's GitHub issue
-tracker. 
-A history of revisions in response to community concerns will impact the review process favorably.
+Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue
+tracker.  A history of revisions in response to community concerns will impact the review process favorably.
 
 Reviewers will also be asked to assess whether articles are well edited and clearly written.
 Authors whose article uses inconsistent style or poor grammar, or is poorly edited, may be asked to revise and address these issues. 
@@ -181,10 +169,10 @@ For information on the review frequencies, see [author information for each of t
 We require GitHub use for papers as it provides an easy mechanism for community feedback on the paper, allowing questions, comments, or additions.
 Community members can easily [file issues](https://help.github.com/articles/about-issues/) on these topics, and then these can be incorporated into new versions of the article.
 This can help LiveCoMS articles truly become living documents.
-Please note: The issue tracker for these documents is not just for *problems* with the articles, but also for general discussion, feedback, questions, and so on -- really, for any type of discussion about the article.
+Please note: The issue tracker for these documents is not just for *problems* with the articles, but also for general discussion, feedback, questions, and so on -- basically, for any type of discussion about the article.
 
 We are sympathetic to the fact that some commenters may wish to provide feedback to authors outside of GitHub.
-This can be done via conventional means, such as contacting the relevant authors directly.
+This can be done via any suitable means, such as contacting the relevant authors directly.
 
 
 ## Paper Writing as Code Development
@@ -193,8 +181,8 @@ This model of updatable papers, curated with community input, allows paper-writi
 
 # Authorship and Changes to Authorship
 
-Authorship for "living" documents, LiveCoMS' focus, can become complicated as the document evolves and more people contribute.
-Our key principle is that participants should get credit for their contributions, whether they actually write the work, provide feedback, file issues, or participate in other ways.
+LiveCoMS' focus on "living" documents, can make authorship attribution complicated as the document evolves and more people contribute.
+Our key principle is that participants should get credit for their contributions, whether they write the document, provide feedback, file issues, or participate in other ways.
 However, different types of credit may be warranted. 
 In general, changes which constitute writing a significant part of the article merit authorship, but not those which only modify small portions.
 
@@ -202,11 +190,14 @@ In order to acknowledge more minor contributors, people who offer comments/citat
 However, if the current authors feel that the contributions rise to the level of authorship, they can add new authors when the next major version is submitted.
 
 Exactly what constitutes a "significant" contribution is by necessity subjective, and authors should endeavor to be generous.
-In general LiveCoMS hopes that authors and contributors will be able to sort out these issues amicably, but we may in some cases be able to help resolve disputes. 
-We expect the following situations may deserve particular attention:
-- *Contributors who deserve authorship*: If contributions are particularly significant, addition to authorship may be warranted. Ideally, contributors concerned about authorship should sort out whether their contribution will merit authorship with the existing authors before contributing to avoid problems.
-- *Contributions not being accepted*: If contributors are making suggestions or proposing changes which are being ignored or rejected, the contributors should first strive to convince the authors and community by providing sufficiently compelling data and arguments. If this fails, the lack of engagement with issues raised may become a factor in the review process of subsequent versions of the paper. 
-- *Review of subsequent versions*: GitHub provides an automatic mechanism for tracking contributions, via the GitHub repository's history. This may be examined when revised versions of the article are being considered for publication both to ensure appropriate credit is being given, and to check that authors are engaging with and addressing substantial issues raised by the community. A failure to substantively engage in discussions on issues raised may prevent new updates of the work from being accepted.
+In general, LiveCoMS hopes that authors and contributors will be able to sort out these issues amicably. In some cases, editors may be able to help resolve disputes. 
+We offer the following guidelines for contributors:
+- *Contributors who deserve authorship*: If contributions are particularly significant (e.g., resulting in a new section added the manuscript),
+ addition to authorship may be warranted. Ideally, contributors concerned about authorship should, before contributing, discuss with existing authors whether their contribution will merit authorship.
+- *Contributions not being accepted*: If contributors are making suggestions or proposing changes which are being 
+ignored or rejected, the contributors should first strive to convince the authors and community of the contributions' merit 
+by providing sufficiently compelling data and arguments. If this fails, the lack of engagement with issues raised may become a factor considered by the editors during the review process of subsequent versions of the paper. 
+- *Review of subsequent versions*: GitHub provides an automatic mechanism for tracking contributions via the GitHub repository's history. This should be examined when revised versions of the article are being considered for publication both to ensure appropriate credit is being given, and to check that authors are engaging with and addressing substantial issues raised by the community. A failure to substantively engage in discussions on issues raised may prevent new updates of the work from being accepted.
 
 # Other Policies for Submitted Articles
 
@@ -223,22 +214,20 @@ However, in order to submit to LiveCoMS, authors must provide, at
 minimum, a license for LiveCoMS to publish the article and distribute
 it free of charge. We recommend that the authors release the article
 under an open source license such as [Creative Commons
-  Attribution](https://creativecommons.org/licenses/by/4.0/}{Creative Commons
-  Attribution) (also known as CC-BY) releasing the document for anyone to copy and
+  Attribution](https://creativecommons.org/licenses/by/4.0/) (also known as CC-BY) releasing the document for anyone to copy and
 redistribute the material in any medium or format, and remix,
 transform, and build upon the material for any purpose, even
-commercially.  Making it available to all of course makes it possible
+commercially.  Making it available to all makes it possible
 for LiveCoMS to publish it, and for the community to edit and
 contribute.  We highly recommend the CC-BY license in order to ensure
 your work can reach and help the broadest audience possible, and
 suggest that when considering the appropriate license you [read this analysis](http://openaccess.ox.ac.uk/2013/06/13/cc-by-what-does-it-mean-for-scholarly-articles-3/).
 
 Other more restrictive licenses may be permissible as long as LiveCoMS
-has the permission to publish and excerpt from the document; 
-another license might be needed if someone other than the authors has some rights to
-the material (for example, if it was previously published in some
-other journal). Generally, we only allow a more restrictive license in
-these cases, but are happy to discuss. Please ask the managing editors
+has the permission to publish and excerpt from the document. 
+A different license might be needed if someone other than the authors has some rights to
+the material (for example, if it was previously published in another journal). Generally, we only allow a more restrictive license in
+these cases, but are happy to discuss any licensing concerns. Please ask the managing editors
 if you require some other licensing regime.
 
 For employees of the U.S. Government, their work products are under
@@ -257,21 +246,15 @@ Documents should not have been submitted in the current form to another journal,
 Preprints do not count as prior publication. 
 Documents that are major revisions of previously published articles are welcomed. 
 However, authors should ensure that any material they publish in LiveCoMS is not subject to licensing restrictions (such as from another journal) which impedes its release under the selected license.
-Some journals, for example, *Annual Reviews* lets the authors retain the right to create derivative works, which could perhaps be exercised in preparing a review to be published in LiveCoMS. 
+Some journals, e.g. *Annual Reviews*, lets the authors retain the right to create derivative works, which could perhaps be exercised in preparing a review to be published in LiveCoMS. 
 
-If an article is an adaptation of a previously published article, it must be noted in the cover letter, and major changes noted. 
+If an article is an adaptation of a previously published article, it must be noted in the submission cover letter and major changes noted. 
 Evaluating whether such changes constitute a significant revision will be part of the review process.
 
 Authors should, to the extent possible, determine the author order among themselves.  
-However, we acknowledge that institutions
-evaluating for merit, promotion, tenure or other cases may not read
-this level of detail, so traditional notions of author order (first
-author, corresponding author, etc.) may still be relevant and the
-authors will need to coordinate who should occupy these positions.
-
 Each work must have a section describing the actual contributions of
 authors (and of those acknowledged) to provide clarity, and journal
-templates include such a section.  Please note, since this is an
+templates include such a section.  Please note: since this is an
 electronic-only journal, there is no length limit when describing
 the authors' contributions, so we recommend describing what authors
 actually did rather than simply categorizing them in a small number of
@@ -291,15 +274,14 @@ authors are *implicitly* giving a right to do this via licensing under
 [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) or
 similar licenses which give others the right to create derivative
 works (potentially allowing others to "resurrect" a document which
-has been abandoned); however, we expect all authors to *explicitly*
+has been abandoned). However, we expect all authors to *explicitly*
 consent to this policy to avoid any confusion. Ordinarily, we expect
 this policy will be relevant only in unusual or extreme cases where an
-author or authors dies or leaves the field; in most other cases
+author or authors leaves the field; in most other cases
 authors will presumably be available to designate their own successors
 or succession plan if a work is valuable to the field and will
 continue to need maintenance and the original author(s) are no longer
-willing or able to do so. However, we want to plan for the possibility
-of unusual events, hence our need for this policy.
+willing or able to do so. 
 
 Thus, for these reasons, authors submitting to LiveCoMS are agreeing
 that others may take over authorship of their article (with
