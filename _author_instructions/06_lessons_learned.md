@@ -15,7 +15,6 @@ Authors will be encouraged to add to an existing topic when possible and appropr
 ## Manuscript preparation instructions
 Quite simply, a "Lessons Learned" manuscript is a regular scientific article and hence should be prepared with the standard high level of care and documentation.
 The article should contain the usual sections: Introduction, including background, motivation and a brief discussion of related work; Methods/Theory, with all information required for a reader to reproduce the results, including software version numbers and links to any in-house files or scripts; Results; Discussion, highlighting the lessons learned and tips for avoiding future mistakes; and Conclusions.
-software versions
 Data analysis should conform to [best practices](https://github.com/dmzuckerman/Sampling-Uncertainty).
 
 
