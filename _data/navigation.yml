@@ -6,7 +6,7 @@ main:
   - title: About LiveCoMS
     url: /about/
 
-policies.md:
+authors_policies.md:
   - title: General Author Instructions
     url: /authors/policies/index.html#
     children:
@@ -28,6 +28,8 @@ policies.md:
         url: /authors/policies/index.html#writing-style-and-editing
       - title: Article layout
         url: /authors/policies/index.html#article-layout
+      - title: Representative image
+        url: /authors/policies/index.html#representative-image
       - title: Preprints
         url: /authors/policies/index.html#preprints
   - title: Submission and the Review Process
@@ -59,12 +61,10 @@ policies.md:
       url: /authors/policies/index.html#licensing
     - title: Prior Publication
       url: /authors/policies/index.html#prior-publication
-    - title: Author Order
-      url: /authors/policies/index.html#author-order
     - title: Abandoned Documents
       url: /authors/policies/index.html#abandoned-documents
 
-best_practices.md:
+authors_best_practices.md:
   - title: Best Practices Guides
     url: /authors/best_practices/index.html#
     children:
@@ -75,7 +75,7 @@ best_practices.md:
     - title: Revision schedule for best practices guides
       url: /authors/best_practices/index.html#revision-schedule-for-best-practices-guides
 
-perpetual_reviews.md:
+authors_perpetual_reviews.md:
   - title: Perpetual Reviews
     url: /authors/perpetual_reviews/index.html#
     children:
@@ -83,10 +83,10 @@ perpetual_reviews.md:
       url: /authors/perpetual_reviews/index.html#what-is-a-perpetual-review
     - title: Additional review criteria for perpetual reviews
       url: /authors/perpetual_reviews/index.html#additional-review-criteria-for-perpetual-reviews
-    - title: Revision schedule for best practices guides
-      url: /authors/perpetual_reviews/index.html#revision-schedule-for-best-practices-guides
+    - title: Revision schedule for perpetual reviews
+      url: /authors/perpetual_reviews/index.html#revision-schedule-for-perpetual-reviews
 
-compare_simulations.md:
+authors_compare_simulations.md:
   - title: Comparisons of Molecular Simulation Packages
     url: /authors/compare_simulations/index.html#
     children:
@@ -97,7 +97,7 @@ compare_simulations.md:
     - title: Revision schedule for comparisons of molecular simulation programs
       url: /authors/compare_simulations/index.html#revision-schedule-for-comparisons-of-molecular-simulation-programs
 
-tutorials.md:
+authors_tutorials.md:
   - title: Tutorials
     url: /authors/tutorials/index.html#
     children:
@@ -108,25 +108,27 @@ tutorials.md:
     - title: Revision schedule for tutorials
       url: /authors/tutorials/index.html#revision-schedule-for-tutorials
 
-lessons_learned.md:
+authors_lessons_learned.md:
   - title: Lessons Learned
     url: /authors/lessons_learned/index.html#
     children:
-    - title: What is a "lesson learned" (i.e. negative results) document?
+    - title: What is a "lesson learned" (i.e., negative results) document?
       url: /authors/lessons_learned/index.html#what-is-a-lesson-learned-ie-negative-results-document
+    - title: Manuscript preparation instructions
+      url: /authors/lessons_learned/index.html#manuscript-preparation-instructions
     - title: Additional factors considered in review of "lessons learned" documents
       url: /authors/lessons_learned/index.html#additional-factors-considered-in-review-of-lessons-learned-documents
     - title: Revision schedule for "lessons learned" documents
       url: /authors/lessons_learned/index.html#revision-schedule-for-lessons-learned-documents
 
-editorial_board.md:
+policies_editorial_board.md:
   - title: Policies About the Editorial Board
     url: /policies/editorial_boardindex.html#
     children:
-    - title: Policies on Decisions Issues regarding governance structure,
-      url: /policies/editorial_boardindex.html#policies-on-decisions-issues-regarding-governance-structure
+    - title: Policies on Decisions
+      url: /policies/editorial_boardindex.html#policies-on-decisions
 
-paper_code.md:
+about_paper_code.md:
   - title: Paper writing as code development
     url: /about/paper_codeindex.html#
     children:

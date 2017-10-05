@@ -5,15 +5,15 @@ import re
 import os
 import sys
 import string
-import yaml
+import yaml # depends on PyYAML
+from collections import OrderedDict
 
 # Categories
 # Dict containing category name (keys) and short name used for url
-categories = {
-    'Author Instructions': 'authors',
-    'Editorial Policies': 'policies',
-    'About LiveCoMS': 'about'
-}
+categories = OrderedDict()
+categories['Author Instructions'] = 'authors'
+categories['Editorial Policies'] = 'policies'
+categories['About LiveCoMS'] = 'about'
 
 
 def get_category_folder(category):
