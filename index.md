@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/livecoms-splash.jpg
+  overlay_image: /assets/images/fuzzy-molecules-cropped.jpg
 excerpt: "Author instructions and journal information"
 intro: 
   - excerpt: 'This website provides author instructions and policy and journal information for LiveCoMS, the Living Journal of Computational Molecular Science. Please visit [www.livecomsjournal.org](http://www.livecomsjournal.org) for more information.'

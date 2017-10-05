@@ -5,7 +5,7 @@ permalink: /authors/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/livecoms-splash.jpg
+  overlay_image: /assets/images/fuzzy-molecules-cropped.jpg
 excerpt: "Author instructions"
 ---
 
