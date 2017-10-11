@@ -123,8 +123,10 @@ This is handled through Stripe Connect and can be paid via any major credit card
 
 ## The review process
 
-The editors will choose reviewers, which may include the editors themselves.
-Reviews will generally be anonymous, though reviewers will be allowed to become known if they desire. Reviewers can also participate directly in revisions through the GitHub website, whether or not they remain anonymous.
+The review process generally begins with an editor reviewing your document to check that it is ready for review (e.g. that it uses suitable English, is laid out appropriately and legibly, etc.) and then selecting reviewers.
+If there are major issues at this stage, your article may be returned for revision prior to review.
+Reviews will generally be anonymous, though reviewers will be allowed to make themselves known if they desire.
+Reviewers can also participate directly in revisions through the GitHub website, whether or not they remain anonymous.
 For example, a reviewer could choose to submit a very brief review addressing only suitability, but provide extensive feedback to the authors on the GitHub issue tracker, allowing discussion of how the article should be revised to be done openly.
 This open revision approach may be particularly suitable for articles which will become community resources. 
 
