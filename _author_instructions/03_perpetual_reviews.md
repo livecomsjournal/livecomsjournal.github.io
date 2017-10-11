@@ -23,10 +23,11 @@ updated regularly on GitHub.
 
 ## Revision schedule for perpetual reviews
 Authors should update reviews at least once every 36 months, and will be encouraged to ensure continuity of authorship (e.g. if one author retires or loses interest) so the review can be maintained, or else the review will be “made emeritus” and indicated as out-of-date on the site. 
+(Out-of-date reviews will still be retained on the journal website and remain valid publications.)
 We recommend updating at least every 24 months. 
 However, authors decide when it is time to re-version based on feedback they receive, with help from the Lead Editor for Perpetual Reviews as needed. 
 
-We recommend that authors take a two-prong approach to updates:
+We recommend that authors take a two-pronged approach to updates:
 - Regularly make updates on their GitHub repository as they become aware of new material, developments, etc., issuing minor "releases" of their work when these changes warrant
 - Submit a new version of their work for peer review and additional publication when either (a) a larger change to the work is needed, or (b) enough incremental updates have accrued that the work has become significantly different. 
 
