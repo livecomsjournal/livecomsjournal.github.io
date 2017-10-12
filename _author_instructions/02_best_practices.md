@@ -33,8 +33,8 @@ cover more possible failure modes and how to avoid them.
 One can divide the types of errors that are made performing molecular
 simulations into (a) mistakes experienced researchers often make, (b)
 mistakes new users often make despite having received solid
-training in the fundamentals of molecular simulation, and (c) mistakes made due to lack of or poor training. Checklists in this journal will
-focus errors that are likely to be made by users with training and experience in molecular simulations, i.e., errors of type (a) and (b).
+training in the fundamentals of molecular simulation, and (c) mistakes made due to lack of or poor training.
+Checklists in this journal will typically focus on errors that are likely to be made by users with training and experience in molecular simulations, i.e., errors of type (a) and (b).
 As such, normal best practices documents can and should assume a basic familiarity with the fundamentals of molecular simulations.
 
 ## Additional factors considered in review of best practices guides
