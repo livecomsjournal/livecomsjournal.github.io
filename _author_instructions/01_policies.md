@@ -38,15 +38,15 @@ Click each type of article for more information for submitting an article of tha
 
 ## Presubmission Letter
 
-Authors should first send a presubmission letter to the [lead editor in the relevant area](http://www.livecomsjournal.org/editorial-board).
-The letter should be no more than one page, and should:
-* Outline the scope of the proposed contribution.
-* Explain how the proposed manuscript is different from existing published work.
-* Note whether the manuscript is adapted from a previous article (and identify the article if so).
-* Explain the expertise that the proposed authors have on the subject.
-* Describe the license that the authors will use that will enable the article to be released freely to the public.
+Before drafting an article, authors should send a presubmission inquiry letter to the [Lead Editor for the relevant area](http://www.livecomsjournal.org/editorial-board).
+The presubmission inquiry letter should be no more than **one page** in length, and should include:
+* An outline the scope of the proposed contribution
+* An explanation how the proposed manuscript differs from existing published work
+* Whether the manuscript is adapted from a previous article (and identify the article if so)
+* A summary of the expertise that the proposed authors have on the subject
+* The proposed license enabling the article to be released freely to the public (see [Licensing](https://livecomsjournal.github.io/authors/policies/index.html#licensing) below for recommendations)
 
-Potential authors submitting a presubmission letter will typically receive an answer within two weeks with either encouragement for a full submission, suggestion to work with previous authors on existing articles, or discouragement.
+Potential authors submitting a presubmission letter will typically receive an answer within two weeks with either encouragement for a full submission, a suggestion to engage with previous authors to extend an existing articles, or a suggestion that the proposed article would be more suitable for a different journal.
 Articles should be submitted within six months of a notification of encouragement.
 
 ## Preparation of Your Article For Submission
@@ -54,7 +54,7 @@ Articles should be submitted within six months of a notification of encouragemen
 The authors should prepare the document using
 [LaTeX](https://www.latex-project.org/) in a public repository owned
 by one of the authors (or their organization/group) on [GitHub](http://wwww.github.com).
-LiveCoMS [provides template LaTeX files to start from](https://github.com/livecomsjournal/article_templates), and instructions for how to structure the documents.
+LiveCoMS [provides template LaTeX files to start from](https://github.com/livecomsjournal/article_templates) and instructions for how to structure the documents.
 We require that articles submitted to LiveCoMS use the provided templates so that the journal has a consistent visual presentation.
 Additionally, articles should include clear links to, and mention of, the relevant GitHub repository and encourage community participation/feedback via GitHub.
 
@@ -63,7 +63,7 @@ For an example of an article hosted on GitHub in this style (though not a LiveCo
 ### Writing style and editing
 
 Articles for LiveCoMS should aim to be as clear as possible, as they are intended to aid new members of the community, not just experts in the field.
-In general we recommend authors follow the [ACS Style Guide](http://pubs.acs.org/isbn/9780841239999) and especially the sections on:
+In general we recommend authors follow the [ACS Style Guide](http://pubs.acs.org/isbn/9780841239999), especially the sections covering:
 - [Writing and word usage](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch004), noting the advice to use direct, declarative sentences, often in active voice
 - [Editorial style](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch010)
 - [Grammar, spelling, and punctuation](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch009)
@@ -88,13 +88,13 @@ Be sure to pay particular attention to:
 
 ### Representative image
 
-Each article is posted alongside a key graphic or representative image; as part of the submission process you must upload a representative image of your choice.
-This should be something which graphically portrays a key point from your article in a stand-alone manner, or represents the area you are focusing on.
+Each article is posted alongside a key graphic or representative image; as part of the submission process, you must upload a representative image of your choice.
+This should be something which graphically portrays a key point from your article in a stand-alone manner or represents the area you are focusing on.
 
 
 ### Preprints
 
-Ultimately, assuming your article passes peer review, LiveCoMS will be hosting a published version of your article, and you will have what essentially constitutes a preprint available on GitHub as well.
+Ultimately, assuming your article passes peer review, LiveCoMS will host a published version of your article, and you will have what essentially constitutes a preprint available on GitHub as well.
 However, you are also free to post your article to standard preprint servers, such as:
 
 * [ArXiv](https://arxiv.org)
@@ -109,13 +109,10 @@ Posting to a preprint server can be done at any time prior to submission.
 
 ## Article submission
 
-When ready for submission, the author uploads the final
-article PDF (created using the [LiveCoMS
-templates](https://github.com/livecomsjournal/article_templates), discussed above) and a link to the GitHub site for the article.
+When ready for submission, the author uploads the final article PDF (created using the [LiveCoMS templates](https://github.com/livecomsjournal/article_templates), discussed above) and a link to the GitHub site for the article.
 [Full submission instructions are available through Scholastica](http://help.scholasticahq.com/customer/portal/articles/1218626), our journal management system.
 
-The authors must also submit a cover letter with suggestions for 4--5
-reviewers, and note any deviations from the presubmission letter.
+The authors must also submit a cover letter with suggestions for 4--5 reviewers and note any deviations from the presubmission letter.
 Additionally, you must upload a representative image as noted above.
 
 Article submission also involves paying a nominal charge of of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
@@ -123,7 +120,7 @@ This is handled through Stripe Connect and can be paid via any major credit card
 
 ## The review process
 
-The review process generally begins with an editor reviewing your document to check that it is ready for review (e.g. that it uses suitable English, is laid out appropriately and legibly, etc.) and then selecting reviewers.
+The review process generally begins with an editor reviewing your document to check that it is ready for review (e.g., that it uses suitable English, is laid out appropriately and legibly, etc.) and subsequently selecting reviewers.
 If there are major issues at this stage, your article may be returned for revision prior to review.
 Reviews will generally be anonymous, though reviewers will be allowed to make themselves known if they desire.
 Reviewers can also participate directly in revisions through the GitHub website, whether or not they remain anonymous.
@@ -135,8 +132,8 @@ This open revision approach may be particularly suitable for articles which will
 A key purpose of the articles is that they should be useful to a range of researchers, but especially beginning researchers.
 Thus, all submitted manuscripts will be reviewed by a member of the student review board, which consists of graduate students and postdocs invited by the editorial board.
 
-Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue
-tracker.  A history of revisions in response to community concerns will impact the review process favorably.
+Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue tracker.  
+A history of revisions in response to community concerns will impact the review process favorably.
 
 Reviewers will also be asked to assess whether articles are well edited and clearly written.
 Authors whose article uses inconsistent style or poor grammar, or is poorly edited, may be asked to revise and address these issues.
@@ -153,7 +150,7 @@ After this time, a revised manuscript may be handled as a new submission.
 
 A unique aspect of LiveCoMS is article versions, where new, updated versions of articles can be re-reviewed and treated as new publications.
 
-Once peer reviewed, articles receive new DOI’s and are published on the LiveCoMS site as new versions.
+Once peer reviewed, articles receive new [digital object identifiers (DOIs)](https://www.doi.org/) and are published on the LiveCoMS site as new versions.
 This allows authors to receive credit for ongoing work they do on their articles.
 
 Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted.
@@ -179,7 +176,8 @@ This can be done via any suitable means, such as contacting the relevant authors
 
 ## Paper Writing as Code Development
 
-This model of updatable papers, curated with community input, allows paper-writing to become much more like code development -- a process of iterative improvement. This approach can be called [paper writing as code development](https://livecomsjournal.github.io/about/paper_code), and allows authors to benefit from well-established practices and tools which help code developers.
+This model of updatable papers, curated with community input, allows paper-writing to become much more like code development -- a process of iterative improvement.
+This approach can be called [paper writing as code development](https://livecomsjournal.github.io/about/paper_code), and allows authors to benefit from well-established practices and tools which help code developers.
 
 # Authorship and Changes to Authorship
 
@@ -245,13 +243,15 @@ https://creativecommons.org/publicdomain/zero/1.0/)."
 ## Prior Publication
 
 Documents should not have been submitted in the current form to another journal, or be simultaneously under consideration for publication another journal.
-Preprints do not count as prior publication.
+Preprints are not considered prior publication.
 Documents that are major revisions of previously published articles are welcomed.
 However, authors should ensure that any material they publish in LiveCoMS is not subject to licensing restrictions (such as from another journal) which impedes its release under the selected license.
-Some journals, e.g. *Annual Reviews*, lets the authors retain the right to create derivative works, which could perhaps be exercised in preparing a review to be published in LiveCoMS.
+Some journals, e.g., *Annual Reviews*, lets the authors retain the right to create derivative works, which could perhaps be exercised in preparing a review to be published in LiveCoMS.
 
 If an article is an adaptation of a previously published article, it must be noted in the submission cover letter and major changes noted.
 Evaluating whether such changes constitute a significant revision will be part of the review process.
+
+## Author contributions and order
 
 Authors should, to the extent possible, determine the author order among themselves.  
 Each work must have a section describing the actual contributions of
