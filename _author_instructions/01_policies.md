@@ -67,7 +67,7 @@ In general we recommend authors follow the [ACS Style Guide](http://pubs.acs.org
 - [Writing and word usage](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch004), noting the advice to use direct, declarative sentences, often in active voice
 - [Editorial style](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch010)
 - [Grammar, spelling, and punctuation](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch009)
-- References: in the BibTex file, enter journals with their standard abbreviations (per [CASSI](http://cassi.cas.org/search.jsp)) and titles in Title Case. As with the main text, check that any special characters are rendered correctly in the final PDF.
+- References: in the BibTeX file, enter journals with their standard abbreviations (per [CASSI](http://cassi.cas.org/search.jsp)) and titles in Title Case. As with the main text, check that any special characters are rendered correctly in the final PDF.
 
 We also find Plaxco's [The Art of Writing Science](http://dx.doi.org/10.1002/pro.514) to be a particularly helpful concise summary of our desired style.
 
@@ -82,7 +82,7 @@ Articles can have any length; however, you should be as concise as possible.
 You are responsible for preparing your article PDF and materials in the way you want them to appear in LiveCoMS [using our templates](http://www.github.com/livecoms/author_templates), so it is important to take some care as to how your submitted materials look.
 LiveCoMS will not be separately typesetting your article for you, so be careful that your materials are laid out well.
 Be sure to pay particular attention to:
-- Place your figures and tables appropriately in the document (following the paragraph that first references them), rather than collecting them at the end. Do not not move the figures and tables in the LaTex document to change where they appear. Instead, use the [LaTex placement options](https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions) to adjust positioning.
+- Place your figures and tables appropriately in the document (following the paragraph that first references them), rather than collecting them at the end. Do not not move the figures and tables in the LaTeX document to change where they appear. Instead, use the [LaTeX placement options](https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions) to adjust positioning.
 - Use consistent (and legible) font sizes in figures and tables; our LaTeX template uses OpenSans; we recommend its use if possible in figures as well.
 - Check that all special characters appear correctly in the rendered PDF.
 
