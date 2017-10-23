@@ -46,7 +46,7 @@ The presubmission inquiry letter should be no more than **one page** in length, 
 * A summary of the expertise that the proposed authors have on the subject
 * The proposed license enabling the article to be released freely to the public (see [Licensing](https://livecomsjournal.github.io/authors/policies/index.html#licensing) below for recommendations)
 
-Potential authors submitting a presubmission letter will typically receive an answer within two weeks with either encouragement for a full submission, a suggestion to engage with previous authors to extend an existing articles, or a suggestion that the proposed article would be more suitable for a different journal.
+Potential authors submitting a presubmission letter will typically receive an answer within two weeks with either encouragement for a full submission, a suggestion to engage with previous authors to extend an existing articles, or suggestions for more suitable publication routes.
 Articles should be submitted within six months of a notification of encouragement.
 
 ## Preparation of Your Article For Submission
