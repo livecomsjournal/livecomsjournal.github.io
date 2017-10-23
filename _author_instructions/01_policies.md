@@ -63,17 +63,18 @@ For an example of an article hosted on GitHub in this style (though not a LiveCo
 ### Writing style and editing
 
 Articles for LiveCoMS should aim to be as clear as possible, as they are intended to aid new members of the community, not just experts in the field.
-In general we recommend authors follow the [ACS Style Guide](http://pubs.acs.org/isbn/9780841239999), especially the sections covering:
+
+It is particularly important to note that **LiveCoMS does not edit articles in detail, so it is important to arrange for your own editing**.
+In order to keep costs to authors at a minimum, we do not employ copy editors, so be sure to arrange for your own editing.
+You may receive some comments from your editor and/or the peer reviewers that point out typos or other issues, but you **should not rely** on this for your editing process.
+
+In general we recommend authors follow the [ACS Style Guide](http://pubs.acs.org/isbn/9780841239999) and especially the sections on:
 - [Writing and word usage](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch004), noting the advice to use direct, declarative sentences, often in active voice
 - [Editorial style](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch010)
 - [Grammar, spelling, and punctuation](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch009)
 - References: in the BibTeX file, enter journals with their standard abbreviations (per [CASSI](http://cassi.cas.org/search.jsp)) and titles in Title Case. As with the main text, check that any special characters are rendered correctly in the final PDF.
 
 We also find Plaxco's [The Art of Writing Science](http://dx.doi.org/10.1002/pro.514) to be a particularly helpful concise summary of our desired style.
-
-It is particularly important to note that **LiveCoMS does not edit articles in detail, so it is important to arrange for your own editing**.
-You may receive some comments from your editor and/or the peer reviewers that point out typos or other issues, but you **should not rely** on this for your editing process.
-In order to keep costs to authors at a minimum, we do not employ copy editors, so be sure to arrange for your own editing.
 
 Articles can have any length; however, you should be as concise as possible.
 
@@ -183,14 +184,15 @@ This approach can be called [paper writing as code development](https://livecoms
 
 LiveCoMS' focus on "living" documents, can make authorship attribution complicated as the document evolves and more people contribute.
 Our key principle is that participants should get credit for their contributions, whether they write the document, provide feedback, file issues, or participate in other ways.
+
 However, different types of credit may be warranted.
 In general, changes which constitute writing a significant part of the article merit authorship, but not those which only modify small portions.
 
-In order to acknowledge more minor contributors, people who offer comments/citations that are used in the paper should be listed listed on the relevant GitHub repository README Markdown file, and should be listed in the acknowledgments section of the paper.
+In order to acknowledge more minor contributors, people who offer comments/citations that are used in the paper should be listed on the relevant GitHub repository README Markdown file, and should be listed in the acknowledgments section of the paper.
 However, if the current authors feel that the contributions rise to the level of authorship, they can add new authors when the next major version is submitted.
 
 Exactly what constitutes a "significant" contribution is by necessity subjective, and authors should endeavor to be generous.
-In general, LiveCoMS hopes that authors and contributors will be able to sort out these issues amicably. In some cases, editors may be able to help resolve disputes.
+In general, LiveCoMS expects that authors and contributors will be able to sort out these issues amicably. Authors should determine the author order among themselves.
 We offer the following guidelines for contributors:
 - *Contributors who deserve authorship*: If contributions are particularly significant (e.g., resulting in a new section added the manuscript),
  addition to authorship may be warranted. Ideally, contributors concerned about authorship should, before contributing, discuss with existing authors whether their contribution will merit authorship.
@@ -246,7 +248,7 @@ Documents should not have been submitted in the current form to another journal,
 Preprints are not considered prior publication.
 Documents that are major revisions of previously published articles are welcomed.
 However, authors should ensure that any material they publish in LiveCoMS is not subject to licensing restrictions (such as from another journal) which impedes its release under the selected license.
-Some journals, e.g., *Annual Reviews*, lets the authors retain the right to create derivative works, which could perhaps be exercised in preparing a review to be published in LiveCoMS.
+Some journals let the authors retain the right to create derivative works, which could perhaps be exercised in preparing a review to be published in LiveCoMS.
 
 If an article is an adaptation of a previously published article, it must be noted in the submission cover letter and major changes noted.
 Evaluating whether such changes constitute a significant revision will be part of the review process.
@@ -265,25 +267,25 @@ predefined roles as might be done in more conventional journals.
 
 ## Abandoned Documents
 
-By the submission of their paper, document, or materials, all the
+By the submission of their paper, document, or materials, **all the
 authors consent that if they no longer are willing or able to maintain
 their work, LiveCoMS may assign another individual or individuals to
-do so, with appropriate modifications to the authors list. Authors
-would be given written notice (by e-mail and formal letter) if this
+do so**, with appropriate modifications to the authors list. Authors
+will first be given written notice (by e-mail and formal letter) if this
 were to happen and would have a period of six months to respond and/or
 designate a successor before LiveCoMS would do so for them. Typically,
 authors are *implicitly* giving a right to do this via licensing under
 [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) or
 similar licenses which give others the right to create derivative
 works (potentially allowing others to "resurrect" a document which
-has been abandoned). However, we expect all authors to *explicitly*
+has been abandoned). However, all authors must *explicitly*
 consent to this policy to avoid any confusion. Ordinarily, we expect
 this policy will be relevant only in unusual or extreme cases where an
 author or authors leaves the field; in most other cases
 authors will presumably be available to designate their own successors
 or succession plan if a work is valuable to the field and will
 continue to need maintenance and the original author(s) are no longer
-willing or able to do so.
+willing or able to do so in a timely manner.
 
 Thus, for these reasons, authors submitting to LiveCoMS are agreeing
 that others may take over authorship of their article (with
