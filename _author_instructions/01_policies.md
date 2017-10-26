@@ -53,7 +53,7 @@ Articles should be submitted within six months of a notification of encouragemen
 
 The authors should prepare the document using
 [LaTeX](https://www.latex-project.org/) in a public repository owned
-by one of the authors (or their organization/group) on [GitHub](http://wwww.github.com).
+by one of the authors (or their organization/group) on [GitHub](https://www.github.com).
 LiveCoMS [provides template LaTeX files to start from](https://github.com/livecomsjournal/article_templates) and instructions for how to structure the documents.
 We require that articles submitted to LiveCoMS use the provided templates so that the journal has a consistent visual presentation.
 Additionally, articles should include clear links to, and mention of, the relevant GitHub repository and encourage community participation/feedback via GitHub.
@@ -99,7 +99,7 @@ Ultimately, assuming your article passes peer review, LiveCoMS will host a publi
 However, you are also free to post your article to standard preprint servers, such as:
 
 * [ArXiv](https://arxiv.org)
-* [BioRxiv](http://www.bioarxiv.org)
+* [BioRxiv](https://www.biorxiv.org)
 * [ChemRxiv](https://chemrxiv.org/)
 * [Faculty of 1000 Research](https://f1000research.com)
 * Any of the [Open Science Framework preprint servers](https://osf.io/preprints/) (engrXiv, etc.)
