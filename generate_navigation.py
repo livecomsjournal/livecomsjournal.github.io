@@ -5,8 +5,9 @@ import re
 import os
 import sys
 import string
-import yaml # depends on PyYAML
+import yaml  # depends on PyYAML
 from collections import OrderedDict
+
 
 # Categories
 # Dict containing category name (keys) and short name used for url
