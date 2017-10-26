@@ -72,11 +72,39 @@ In general we recommend authors follow the [ACS Style Guide](http://pubs.acs.org
 - [Writing and word usage](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch004), noting the advice to use direct, declarative sentences, often in active voice
 - [Editorial style](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch010)
 - [Grammar, spelling, and punctuation](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch009)
-- References: in the BibTeX file, enter journals with their standard abbreviations (per [CASSI](http://cassi.cas.org/search.jsp)) and titles in Title Case. As with the main text, check that any special characters are rendered correctly in the final PDF.
+- References: in the BibTeX file, enter journals with their standard abbreviations (per [CASSI](http://cassi.cas.org/search.jsp)) and titles in Title Case. As with the main text, check that any special characters are rendered correctly in the final PDF. 
 
 We also find Plaxco's [The Art of Writing Science](http://dx.doi.org/10.1002/pro.514) to be a particularly helpful concise summary of our desired style.
 
+### References
+Any and all available works can be cited in the reference list. Acceptable sources include:
+
+ - Published or accepted manuscripts
+ - Manuscripts on preprint servers
+ - Websites (include the date of access)
+
+Do not cite the following sources in the reference list:
+
+- Unavailable and unpublished work, including manuscripts that have been submitted but not yet accepted (e.g., "unpublished work," "data not shown"). Instead, include those data as supplementary material or deposit the data in a publicly available database.
+- Personal communications
+
+### Article length
 Articles can have any length; however, you should be as concise as possible.
+
+### Footnotes
+Footnotes are not permitted. If your manuscript contains footnotes,
+move the information into the main text or the reference list,
+depending on the content.
+
+### Language
+
+Articles must be submitted in English.
+
+### Abbreviations
+
+Keep abbreviations to a minimum. Define abbreviations upon first
+appearance in the text. Do not use non-standard abbreviations unless
+they appear at least three times in the text.
 
 ### Article layout
 
@@ -264,6 +292,22 @@ the authors' contributions, so we recommend describing what authors
 actually did rather than simply categorizing them in a small number of
 predefined roles as might be done in more conventional journals.
 <!-- MRS: still need to add that section of the templates somewhat -->  
+
+### Authors names
+
+On the title page, write author names in the following order:
+
+ - First name (or initials, if used)
+ - Middle name (or initials, if used)
+ - Last name (surname, family name)
+
+Each author on the list must have an affiliation. The affiliation
+includes department, university, or organizational affiliation and its
+location, including city, state/province (if applicable), and
+country. Authors have the option to include a current address in
+addition to the address of their affiliation at the time of the study.
+At a minimum, the address must include the author’s current
+institution, city, and country.
 
 ## Abandoned Documents
 
