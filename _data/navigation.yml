@@ -61,6 +61,8 @@ authors_policies.md:
       url: /authors/policies/index.html#licensing
     - title: Prior Publication
       url: /authors/policies/index.html#prior-publication
+    - title: Author contributions and order
+      url: /authors/policies/index.html#author-contributions-and-order
     - title: Abandoned Documents
       url: /authors/policies/index.html#abandoned-documents
 
@@ -123,18 +125,18 @@ authors_lessons_learned.md:
 
 policies_editorial_board.md:
   - title: Policies About the Editorial Board
-    url: /policies/editorial_boardindex.html#
+    url: /policies/editorial_board/index.html#
     children:
     - title: Policies on Decisions
-      url: /policies/editorial_boardindex.html#policies-on-decisions
+      url: /policies/editorial_board/index.html#policies-on-decisions
 
 about_paper_code.md:
   - title: Paper writing as code development
-    url: /about/paper_codeindex.html#
+    url: /about/paper_code/index.html#
     children:
     - title: Incentives
-      url: /about/paper_codeindex.html#incentives
+      url: /about/paper_code/index.html#incentives
     - title: Tools for paper writing/code development
-      url: /about/paper_codeindex.html#tools-for-paper-writingcode-development
+      url: /about/paper_code/index.html#tools-for-paper-writingcode-development
     - title: How it works in practice
-      url: /about/paper_codeindex.html#how-it-works-in-practice
+      url: /about/paper_code/index.html#how-it-works-in-practice

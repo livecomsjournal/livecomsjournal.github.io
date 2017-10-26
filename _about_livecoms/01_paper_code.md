@@ -4,7 +4,7 @@ sidebar:
   nav: about_paper_code.md
 title: Paper writing as code development
 excerpt: Why a code development model can be used to improve paper writing as well.
-permalink: /about/paper_code
+permalink: /about/paper_code/
 ---
 
 Modern code development can be highly collaborative, with authors taking advantage of feedback from peers or experts in their area as their code is reviewed.

@@ -24,15 +24,15 @@ Currently, articles in LiveCoMS must be submitted as one of the article types no
 
 Click each type of article for more information for submitting an article of that type.
 
-- [Best Practices Guides](authors/best_practices/) lay out recommendations for best practices or key issues to consider in a particular area of computational molecular science.
+- [Best Practices Guides](/authors/best_practices/) lay out recommendations for best practices or key issues to consider in a particular area of computational molecular science.
 
-- [Perpetual Reviews](authors/perpetual_reviews/) provide a review of a particular topical area, from the author's/authors' perspective, but are maintained to reflect the latest developments.
+- [Perpetual Reviews](/authors/perpetual_reviews/) provide a review of a particular topical area, from the author's/authors' perspective, but are maintained to reflect the latest developments.
 
-- [Comparisons of Molecular Simulation Packages](authors/compare_simulations/) attempt to perform the same calculation with a range of different simulation programs. 
+- [Comparisons of Molecular Simulation Packages](/authors/compare_simulations/) attempt to perform the same calculation with a range of different simulation programs.
 
-- [Tutorials](authors/tutorials/) provide walkthroughs or instructional materials and are acommpanied by supporting files for use as training material.
+- [Tutorials](/authors/tutorials/) provide walkthroughs or instructional materials and are acommpanied by supporting files for use as training material.
 
-- [Lessons Learned](authors/lessons_learned/) highlight failed studies on a particular topic that are instructive/provide important lessons, helping new authors avoid mistakes encountered previously by others.
+- [Lessons Learned](/authors/lessons_learned/) highlight failed studies on a particular topic that are instructive/provide important lessons, helping new authors avoid mistakes encountered previously by others.
 
 # Before Submission
 
@@ -53,7 +53,7 @@ Articles should be submitted within six months of a notification of encouragemen
 
 The authors should prepare the document using
 [LaTeX](https://www.latex-project.org/) in a public repository owned
-by one of the authors (or their organization/group) on [GitHub](http://wwww.github.com).
+by one of the authors (or their organization/group) on [GitHub](https://www.github.com).
 LiveCoMS [provides template LaTeX files to start from](https://github.com/livecomsjournal/article_templates) and instructions for how to structure the documents.
 We require that articles submitted to LiveCoMS use the provided templates so that the journal has a consistent visual presentation.
 Additionally, articles should include clear links to, and mention of, the relevant GitHub repository and encourage community participation/feedback via GitHub.
@@ -99,7 +99,7 @@ Ultimately, assuming your article passes peer review, LiveCoMS will host a publi
 However, you are also free to post your article to standard preprint servers, such as:
 
 * [ArXiv](https://arxiv.org)
-* [BioRxiv](http://www.bioarxiv.org)
+* [BioRxiv](https://www.biorxiv.org)
 * [ChemRxiv](https://chemrxiv.org/)
 * [Faculty of 1000 Research](https://f1000research.com)
 * Any of the [Open Science Framework preprint servers](https://osf.io/preprints/) (engrXiv, etc.)
