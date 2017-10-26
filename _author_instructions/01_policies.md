@@ -105,6 +105,21 @@ Articles must be submitted in English.
 Keep abbreviations to a minimum. Define abbreviations upon first
 appearance in the text. Do not use non-standard abbreviations unless
 they appear at least three times in the text.
+### Authors names
+
+On the title page, write author names in the following order:
+
+ - First name (or initials, if used)
+ - Middle name (or initials, if used)
+ - Last name (surname, family name)
+
+Each author on the list must have an affiliation. The affiliation
+includes department, university, or organizational affiliation and its
+location, including city, state/province (if applicable), and
+country. Authors have the option to include a current address in
+addition to the address of their affiliation at the time of the study.
+At a minimum, the address must include the author’s current
+institution, city, and country.
 
 ### Article layout
 
@@ -292,22 +307,6 @@ the authors' contributions, so we recommend describing what authors
 actually did rather than simply categorizing them in a small number of
 predefined roles as might be done in more conventional journals.
 <!-- MRS: still need to add that section of the templates somewhat -->  
-
-### Authors names
-
-On the title page, write author names in the following order:
-
- - First name (or initials, if used)
- - Middle name (or initials, if used)
- - Last name (surname, family name)
-
-Each author on the list must have an affiliation. The affiliation
-includes department, university, or organizational affiliation and its
-location, including city, state/province (if applicable), and
-country. Authors have the option to include a current address in
-addition to the address of their affiliation at the time of the study.
-At a minimum, the address must include the author’s current
-institution, city, and country.
 
 ## Abandoned Documents
 
