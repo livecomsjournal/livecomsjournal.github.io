@@ -30,6 +30,7 @@ Editors. Section Lead Editors may be either Managing Editors or
 Associate Editors.
 
   i. Responsibilities
+
      1. The Managing Editors coordinate the operation of the Journal and
   the finances of the journal, maintain the online presence.  Tasks
   may be divided up among managing editors as they see fit, and specific 
