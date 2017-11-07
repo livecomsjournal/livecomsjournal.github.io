@@ -46,19 +46,22 @@ permalink: /policies/livecoms_bylaws/
 
    1. Selection process
       1. Members of the editorial board will be elected as needed by a two-thirds vote of the editorial board.
+
          1. Managing editors and section lead editors will be selected by a two-thirds vote of the 
             entire editorial board from by the other current members of the editorial board when there is a 
             vacancy in either 
          1. Vacancies in the Section Lead editors can be filled on a temporary basis by an associate editor selected unanimously by the managing editors until the position can be filled, for no more than three months.  
          1. Associate editors will be selected based on: 	        
-           1. Demonstrated scholarly expertise in computational molecular science, broadly defined.
-           1. Stated commitment to contributed to decision making and maintenance of LiveCoMS
-           1. Candidates will be favored who have shown excellence in the review process, based on independent evaluations
+
+            1. Demonstrated scholarly expertise in computational molecular science, broadly defined.
+            1. Stated commitment to contributed to decision making and maintenance of LiveCoMS
+            1. Candidates will be favored who have shown excellence in the review process, based on independent evaluations
 of the members of the editorial board, and who have a history of contributions to LiveCoMS
-           1. Diversity in career background, geographical perspectives, life experiences, and any other factors that are seen as beneficial to represent the broader community, provide fairness in decisions, and include a range of viewpoints. 
-	   1. All members on the Editorial Board shall be selected in a fair, impartial, and confidential process without regard to race, nationality, religion, gender or gender identity, sexual orientation, or familial status.
-       1. Managing editors will be selected based on:
-           1. all criteria outlined for associate editors, plus demonstrated excellence serving as an associate editor.
+            1. Diversity in career background, geographical perspectives, life experiences, and any other factors that are seen as beneficial to represent the broader community, provide fairness in decisions, and include a range of viewpoints. 
+	    1. All members on the Editorial Board shall be selected in a fair, impartial, and confidential process without regard to race, nationality, religion, gender or gender identity, sexual orientation, or familial status.
+
+         1. Managing editors will be selected based on:
+            1. all criteria outlined for associate editors, plus demonstrated excellence serving as an associate editor.
        
    1. Appointments Terms
       1. Appointment for all positions are for three years (from the
