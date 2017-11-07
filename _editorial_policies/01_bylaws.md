@@ -23,11 +23,9 @@ permalink: /policies/livecoms_bylaws/
 
 1. Editorial Board
 
-   The editorial board shall consist of three Managing Editors, any
-   number of Associate Editors, and a Section Lead Editor for each type
-   of document published in LiveCoMS, and any number of Associate
-   Editors. Section Lead Editors may be either Managing Editors or
-   Associate Editors.
+   The editorial board shall consist of three Managing Editors, a Section Lead Editor 
+   for each type of document published in LiveCoMS, and any number of Associate Editors. 
+   Section Lead Editors may be either Managing Editors or Associate Editors.
 
    1. Responsibilities
        1. The Managing Editors coordinate the operation of the Journal and
@@ -47,7 +45,7 @@ permalink: /policies/livecoms_bylaws/
    1. Selection process
        1. Members of the editorial board will be elected as needed by a two-thirds vote of the editorial board.
          1. Managing editors and section lead editors will be selected by a two-thirds vote of the
-            entire editorial board from by the other current members of the editorial board when there is a
+            entire editorial board from by the current members of the editorial board when there is a
             vacancy in either capacity.
          1. Vacancies in the Section Lead editors can be filled on a temporary basis by an associate editor selected unanimously by the managing editors until the position can be filled, for no more than three months.
          1. Associate editors will be selected based on:
@@ -77,10 +75,9 @@ of the members of the editorial board, and who have a history of contributions t
 
    1. If later it is discovered that a reviewer has a conflict of interest with an author during the review process, this review will be discarded, and another review will be sought.
 
-   1. If a conflict of interest in a reviewer is found after acceptance, the associate editor will evaluate whether any bias may have affected the acceptance. If the associate editor feels they may be bias, a committee of three associate editors selected by the Section Lead Editor will investigate whether any bias or fraud was intended, and will follow procedures to determine whether admission was fraudulent as outlined by the bylaws on fraud.
+   1. If a conflict of interest in a reviewer is found after acceptance, the associate editor will evaluate whether any bias may have unduly biased the acceptance. If so, a committee of three associate editors selected by the Section Lead Editor will investigate whether any favoritism or fraud was intended, and will follow procedures to determine whether admission was fraudulent as outlined by the bylaws on fraud.
 
-   1. No Section Lead Editor shall assign an Associate Editor if they
-have a conflict of interest with a paper. No Associate Editor may
+   1. No Associate Editor may
 manage a paper if they have a conflict of interest, and shall notify
 the Section Lead Editor if they do have a conflict.
 

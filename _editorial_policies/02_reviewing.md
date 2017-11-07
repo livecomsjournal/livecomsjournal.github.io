@@ -18,7 +18,7 @@ conflict of interest, see the [definition in the LiveCoMS
 bylaws](/policies/livecoms_bylaws/).
 
 
-Reviewers is to evaluate the quality, relevance, and merit of
+Review is to evaluate the quality, relevance, and merit of
 submitted papers. Comments should be as complete and detailed as
 possible and contain clear opinions about strengths, weaknesses,
 relevance, and importance to the field. Comments should be specific
