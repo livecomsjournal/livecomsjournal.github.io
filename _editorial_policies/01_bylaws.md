@@ -21,69 +21,69 @@ permalink: /policies/livecoms_bylaws/
    between software packages, and other documents which aim to improve
    the studies in the field and require ongoing updates.
 
-- Editorial Board
+1. Editorial Board
    The editorial board shall consist of three Managing Editors, any
    number of Associate Editors, and a Section Lead Editor for each type
    of document published in LiveCoMS, and any number of Associate
    Editors. Section Lead Editors may be either Managing Editors or
    Associate Editors.
-  - Responsibilities
-    - The Managing Editors coordinate the operation of the Journal and
+  1. Responsibilities
+    1. The Managing Editors coordinate the operation of the Journal and
         the finances of the journal, maintain the online presence.  Tasks
         may be divided up among managing editors as they see fit, and specific 
         individual tasks may be assigned to individual associate editors.
-    - Section Lead Editors handles submitted manuscripts and assigns
+    1. Section Lead Editors handles submitted manuscripts and assigns
         all manuscripts to associate lead editors. They make decisions on
         presubmission letters on about proposed manuscripts, in which they
         may be advised by the associate editors. They make final decisions
         based on recommendations from the associate editors, and communicate
         them to the authors.
-    - Associate Editors assign manuscripts to reviewers, collect
+    1. Associate Editors assign manuscripts to reviewers, collect
         these reviews, and make recommendations to the Section Lead
         Editors about acceptance, rejection, or requests for revision.
 
-  - Selection process
-    - Members of the editorial board will be elected as needed by a two-thirds vote of the editorial board.
-       - Managing editors and section lead editors will be selected by a two-thirds vote of the 
+  1. Selection process
+    1. Members of the editorial board will be elected as needed by a two-thirds vote of the editorial board.
+       1. Managing editors and section lead editors will be selected by a two-thirds vote of the 
          entire editorial board from by the other current members of the editorial board when there is a 
          vacancy in either 
-       - Vacancies in the Section Lead editors can be filled on a temporary basis by an associate editor selected unanimously by the managing editors until the position can be filled, for no more than three months.  
-       - Associate editors will be selected based on: 	        
-         - Demonstrated scholarly expertise in computational molecular science, broadly defined.
-         - Stated commitment to contributed to decision making and maintenance of LiveCoMS
-         - Candidates will be favored who have shown excellence in the review process, based on independent evaluations
+       1. Vacancies in the Section Lead editors can be filled on a temporary basis by an associate editor selected unanimously by the managing editors until the position can be filled, for no more than three months.  
+       1. Associate editors will be selected based on: 	        
+         1. Demonstrated scholarly expertise in computational molecular science, broadly defined.
+         1. Stated commitment to contributed to decision making and maintenance of LiveCoMS
+         1. Candidates will be favored who have shown excellence in the review process, based on independent evaluations
 of the members of the editorial board, and who have a history of contributions to LiveCoMS
-         - Diversity in career background, geographical perspectives, life experiences, and any other factors that are seen as beneficial to represent the broader community, provide fairness in decisions, and include a range of viewpoints. 
-	 - All members on the Editorial Board shall be selected in a fair, impartial, and confidential process without regard to race, nationality, religion, gender or gender identity, sexual orientation, or familial status.
-     - Managing editors will be selected based on:
-         - all criteria outlined for associate editors, plus demonstrated excellence serving as an associate editor.
+         1. Diversity in career background, geographical perspectives, life experiences, and any other factors that are seen as beneficial to represent the broader community, provide fairness in decisions, and include a range of viewpoints. 
+	 1. All members on the Editorial Board shall be selected in a fair, impartial, and confidential process without regard to race, nationality, religion, gender or gender identity, sexual orientation, or familial status.
+     1. Managing editors will be selected based on:
+         1. all criteria outlined for associate editors, plus demonstrated excellence serving as an associate editor.
        
-  - Appointments Terms
-    - Appointment for all positions are for three years (from the
+  1. Appointments Terms
+    1. Appointment for all positions are for three years (from the
       time of adoption of the bylaws., which may be extended for an
       unlimited number of terms by a vote of two/thirds of the remaining 
       editorial board.
 
-- Conflicts of interest
-   - A 'conflict of interest' is defined as any of
-     - being a co-author on a paper together for up to 48 months after publication
-     - a co-awardee on a grant for up to 48 months after the grant, or that currently have a cooperative pending grant.
-     - if there exists a postdoctoral or graduate advisor relationship at any time in the past.
-     - at the same institution, or if there is a potential change of institution in progress that would result in being at the same institution.
+1. Conflicts of interest
+   1. A 'conflict of interest' is defined as any of
+     1. being a co-author on a paper together for up to 48 months after publication
+     1. a co-awardee on a grant for up to 48 months after the grant, or that currently have a cooperative pending grant.
+     1. if there exists a postdoctoral or graduate advisor relationship at any time in the past.
+     1. at the same institution, or if there is a potential change of institution in progress that would result in being at the same institution.
      -having a business relationship (such as serving as a consultant for or part owner of same company) within 48 months.
 
-   - No associate editor will assign a reviewer who is known to have a conflict of interest with any author.  The explanation of conflict of interest will be explained to the reviewer in their invitation, and the reviewer will affirm that they do not have a conflict of interest.
+   1. No associate editor will assign a reviewer who is known to have a conflict of interest with any author.  The explanation of conflict of interest will be explained to the reviewer in their invitation, and the reviewer will affirm that they do not have a conflict of interest.
 
-   - If later it is discovered that a reviewer has a conflict of interest with an author during the review process, this review will be discarded, and another review will be sought. 
+   1. If later it is discovered that a reviewer has a conflict of interest with an author during the review process, this review will be discarded, and another review will be sought. 
 
-   - If a conflict of interest in a reviewer is found after acceptance, the associate editor will evaluate whether any bias may have affected the acceptance. If the associate editor feels they may be bias, a committee of three associate editors selected by the Section Lead Editor will investigate whether any bias or fraud was intended, and will follow procedures to determine whether admission was fraudulent as outlined by the bylaws on fraud.
+   1. If a conflict of interest in a reviewer is found after acceptance, the associate editor will evaluate whether any bias may have affected the acceptance. If the associate editor feels they may be bias, a committee of three associate editors selected by the Section Lead Editor will investigate whether any bias or fraud was intended, and will follow procedures to determine whether admission was fraudulent as outlined by the bylaws on fraud.
   
-   - No Section Lead Editor shall assign an Associate Editor if they
+   1. No Section Lead Editor shall assign an Associate Editor if they
 have a conflict of interest with a paper. No Associate Editor may
 manage a paper if they have a conflict of interest, and shall notify
 the Section Lead Editor if they do have a conflict.
 
-   - If a Section Lead Editor has a conflict of interest, the
+   1. If a Section Lead Editor has a conflict of interest, the
 assignments to Associate Editors will be made by another Section Lead
 Editor.  The order will be cyclic; if Lead Section Editor A has a
 conflict, it will got to Lead Section Editor B, unless they also have
@@ -93,14 +93,14 @@ editors have conflicts, the Managing Editors will jointly pick an
 Associate Editor who will then assign another Associate Editor to
 manage the manuscript.
 
-     - Comparison of Molecular Simulation Package Editor
-     - Tutorials Editor
-     - Best Practices Editor 
-     - Review Editor 
-     - Lessons Learned Editor
-     - (and further down the alphabet) editors of other sections, in order they are chronologically added to the journal. 
+     1. Comparison of Molecular Simulation Package Editor
+     1. Tutorials Editor
+     1. Best Practices Editor 
+     1. Review Editor 
+     1. Lessons Learned Editor
+     1. (and further down the alphabet) editors of other sections, in order they are chronologically added to the journal. 
 
-- Fraud and Plagiarism.
+1. Fraud and Plagiarism.
 
     1. Definitions:
         a. 'Plagiarism' is defined as including any clearly recognizable
@@ -114,7 +114,7 @@ amount of text from a previous publication without attribution.
    be removed from the journal, and the author will not be allowed to
    submit to LiveCoMS for three years.
 
-- Review Process
+1. Review Process
 
     1. Review criteria that editors use shall be posted on the author
     instructions section of the website. These review criteria will be
@@ -132,7 +132,7 @@ amount of text from a previous publication without attribution.
     a third editor will be selected by the Section Lead Editor, and a
     majority vote will be taken, which will be final.
 
-- Amendments
+1. Amendments
 
    These bylaws may be amended by two thirds of the vote of the entire
    Editorial Board.  Votes will be are tallied based on the fraction
@@ -143,4 +143,3 @@ amount of text from a previous publication without attribution.
    notice that their votes will be needed within a shorter window,
    such as a 12 hour window.
 
- LocalWords:  sidebar nav md LiveCoMS permalink presubmission awardee website
