@@ -7,7 +7,7 @@ excerpt: Bylaws of LiveCoMS.
 permalink: /policies/livecoms_bylaws/
 ---
 
-I) Organization Title and Publication
+I. Organization Title and Publication
 
 The Journal shall be called the Living Journal of Computational
 Molecular Science, hereafter referred to as LiveCoMS.
@@ -21,7 +21,7 @@ and can include living or perpetual reviews, tutorials, comparisons
 between software packages, and other documents which aim to improve
 the studies in the field and require ongoing updates.
 
-II) Editorial Board
+II. Editorial Board
 
 The editorial board shall consist of three Managing Editors, any
 number of Associate Editors, and a Section Lead Editor for each type
@@ -29,24 +29,24 @@ of document published in LiveCoMS, and any number of Associate
 Editors. Section Lead Editors may be either Managing Editors or
 Associate Editors.
 
-  i) Responsibilities
-     1) The Managing Editors coordinate the operation of the Journal and
+  i. Responsibilities
+     1. The Managing Editors coordinate the operation of the Journal and
   the finances of the journal, maintain the online presence.  Tasks
   may be divided up among managing editors as they see fit, and specific 
   individual tasks may be assigned to individual associate editors.
  
-     2) Section Lead Editors handles submitted manuscripts and assigns
+     2. Section Lead Editors handles submitted manuscripts and assigns
   all manuscripts to associate lead editors. They make decisions on
   presubmission letters on about proposed manuscripts, in which they
   may be advised by the associate editors. They make final decisions
   based on recommendations from the associate editors, and communicate
   them to the authors.
 
-     3) Associate Editors assign manuscripts to reviewers, collect
+     3. Associate Editors assign manuscripts to reviewers, collect
      these reviews, and make recommendations to the Section Lead
      Editors about acceptance, rejection, or requests for revision.
 
-   ii) Selection process
+   ii. Selection process
 
        * Members of the editorial board will be elected as needed by a two-thirds vote of the editorial board.
        * Managing editors and section lead editors will be selected by a two-thirds vote of the 
@@ -63,14 +63,14 @@ of the members of the editorial board, and who have a history of contributions t
        * Managing editors will be selected based on:
            a. all criteria outlined for associate editors, plus demonstrated excellence serving as an associate editor.
        
-    iii) Appointments Terms
+    iii. Appointments Terms
 
        * Appointment for all positions are for three years (from the
-         time of adoption of the bylaws), which may be extended for an
+         time of adoption of the bylaws., which may be extended for an
          unlimited number of terms by a vote of two/thirds of the remaining 
 	 editorial board.
 
-V) Conflicts of interest
+V. Conflicts of interest
 
    1. A 'conflict of interest' is defined as any of
      i. being a co-author on a paper together for up to 48 months after publication
@@ -107,7 +107,7 @@ manage the manuscript.
      E. Lessons Learned Editor
      F. (and further down the alphabet) editors of other sections, in order they are chronologically added to the journal. 
 
-VI) Fraud and Plagiarism.
+VI. Fraud and Plagiarism.
 
     1. Definitions:
         a. 'Plagiarism' is defined as including any clearly recognizable
@@ -121,7 +121,7 @@ amount of text from a previous publication without attribution.
    be removed from the journal, and the author will not be allowed to
    submit to LiveCoMS for three years.
 
-VII) Review Process
+VII. Review Process
 
     1. Review criteria that editors use shall be posted on the author
     instructions section of the website. These review criteria will be
@@ -139,7 +139,7 @@ VII) Review Process
     a third editor will be selected by the Section Lead Editor, and a
     majority vote will be taken, which will be final.
 
-VIII) Amendments
+VIII. Amendments
 
    These bylaws may be amended by two thirds of the vote of the entire
    Editorial Board.  Votes will be are tallied based on the fraction
