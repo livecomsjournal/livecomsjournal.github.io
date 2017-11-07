@@ -32,7 +32,7 @@ permalink: /policies/livecoms_bylaws/
    1. Responsibilities
        1. The Managing Editors coordinate the operation of the Journal and
           the finances of the journal, maintain the online presence.  Tasks
-          may be divided up among managing editors as they see fit, and specific 
+          may be divided up among managing editors as they see fit, and specific
           individual tasks may be assigned to individual associate editors.
        1. Section Lead Editors handles submitted manuscripts and assigns
           all manuscripts to associate lead editors. They make decisions on
@@ -46,27 +46,27 @@ permalink: /policies/livecoms_bylaws/
 
    1. Selection process
        1. Members of the editorial board will be elected as needed by a two-thirds vote of the editorial board.
-         1. Managing editors and section lead editors will be selected by a two-thirds vote of the 
-            entire editorial board from by the other current members of the editorial board when there is a 
-            vacancy in either 
-         1. Vacancies in the Section Lead editors can be filled on a temporary basis by an associate editor selected unanimously by the managing editors until the position can be filled, for no more than three months.  
-         1. Associate editors will be selected based on: 	        
+         1. Managing editors and section lead editors will be selected by a two-thirds vote of the
+            entire editorial board from by the other current members of the editorial board when there is a
+            vacancy in either capacity.
+         1. Vacancies in the Section Lead editors can be filled on a temporary basis by an associate editor selected unanimously by the managing editors until the position can be filled, for no more than three months.
+         1. Associate editors will be selected based on:
             1. Demonstrated scholarly expertise in computational molecular science, broadly defined.
-            1. Stated commitment to contributed to decision making and maintenance of LiveCoMS
+            1. Stated commitment to contributed to decision making and maintenance of LiveCoMS.
             1. Candidates will be favored who have shown excellence in the review process, based on independent evaluations
-of the members of the editorial board, and who have a history of contributions to LiveCoMS
-            1. Diversity in career background, geographical perspectives, life experiences, and any other factors that are seen as beneficial to represent the broader community, provide fairness in decisions, and include a range of viewpoints. 
+of the members of the editorial board, and who have a history of contributions to LiveCoMS.
+            1. Diversity in career background, geographical perspectives, life experiences, and any other factors that are seen as beneficial to represent the broader community, provide fairness in decisions, and include a range of viewpoints.
 	    1. All members on the Editorial Board shall be selected in a fair, impartial, and confidential process without regard to race, nationality, religion, gender or gender identity, sexual orientation, or familial status.
          1. Managing editors will be selected based on:
             1. all criteria outlined for associate editors, plus demonstrated excellence serving as an associate editor.
    1. Appointments Terms
       1. Appointment for all positions are for three years (from the
          time of adoption of the bylaws., which may be extended for an
-         unlimited number of terms by a vote of two/thirds of the remaining 
+         unlimited number of terms by a vote of two/thirds of the remaining
          editorial board.
 
 1. Conflicts of interest
-   1. A 'conflict of interest' is defined as any of
+   1. A 'conflict of interest' is defined as any of:
       1. being a co-author on a paper together for up to 48 months after publication
       1. a co-awardee on a grant for up to 48 months after the grant, or that currently have a cooperative pending grant.
       1. if there exists a postdoctoral or graduate advisor relationship at any time in the past.
@@ -75,10 +75,10 @@ of the members of the editorial board, and who have a history of contributions t
 
    1. No associate editor will assign a reviewer who is known to have a conflict of interest with any author.  The explanation of conflict of interest will be explained to the reviewer in their invitation, and the reviewer will affirm that they do not have a conflict of interest.
 
-   1. If later it is discovered that a reviewer has a conflict of interest with an author during the review process, this review will be discarded, and another review will be sought. 
+   1. If later it is discovered that a reviewer has a conflict of interest with an author during the review process, this review will be discarded, and another review will be sought.
 
    1. If a conflict of interest in a reviewer is found after acceptance, the associate editor will evaluate whether any bias may have affected the acceptance. If the associate editor feels they may be bias, a committee of three associate editors selected by the Section Lead Editor will investigate whether any bias or fraud was intended, and will follow procedures to determine whether admission was fraudulent as outlined by the bylaws on fraud.
-  
+
    1. No Section Lead Editor shall assign an Associate Editor if they
 have a conflict of interest with a paper. No Associate Editor may
 manage a paper if they have a conflict of interest, and shall notify
@@ -95,16 +95,20 @@ Associate Editor who will then assign another Associate Editor to
 manage the manuscript.
       1. Comparison of Molecular Simulation Package Editor
       1. Tutorials Editor
-      1. Best Practices Editor 
-      1. Review Editor 
+      1. Best Practices Editor
+      1. Review Editor
       1. Lessons Learned Editor
-      1. continuing with editors of other sections, in order they are chronologically added to the journal. 
+      1. continuing with editors of other sections, in order they are chronologically added to the journal.
 
 1. Fraud and Plagiarism
+
     1. Definitions:
+
        1. 'Plagiarism' is defined as including any clearly recognizable
-amount of text from a previous publication without attribution. 
+amount of text from a previous publication without attribution.
+
        1. 'Fraud' is defined as any false representation of the circumstances of the paper or the data contained in the paper. It could include fraudulent data, or fraudulent reviews.
+
     1. If there is a suspicious or accusation of fraud or plagiarism, a
        committee of three members of the editorial board will be chosen by
        the managing editors to investigate.  If this committee votes
@@ -141,4 +145,5 @@ amount of text from a previous publication without attribution.
    of a rush decision, where the board may be given one week (or more)
    notice that their votes will be needed within a shorter window,
    such as a 12 hour window.
+
 
