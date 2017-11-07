@@ -58,6 +58,8 @@ Associate Editors.
            b. Stated commitment to contributed to decision making and maintenance of LiveCoMS
            c. Candidates will be favored who have shown excellence in the review process, based on independent evaluations
 of the members of the editorial board, and who have a history of contributions to LiveCoMS
+           d. Diversity in career background, geographical perspectives, life experiences, and any other factors that are seen as beneficial to represent the broader community, provide fairness in decisions, and include a range of viewpoints. 
+	   e. All members on the Editorial Board shall be selected in a fair, impartial, and confidential process without regard to race, nationality, religion, gender or gender identity, sexual orientation, or familial status.
        * Managing editors will be selected based on:
            a. all criteria outlined for associate editors, plus demonstrated excellence serving as an associate editor.
        
@@ -65,7 +67,8 @@ of the members of the editorial board, and who have a history of contributions t
 
        * Appointment for all positions are for three years (from the
          time of adoption of the bylaws), which may be extended for an
-         unlimited number of terms.
+         unlimited number of terms by a vote of two/thirds of the remaining 
+	 editorial board.
 
 V) Conflicts of interest
 
@@ -74,7 +77,7 @@ V) Conflicts of interest
      ii. a co-awardee on a grant for up to 48 months after the grant, or that currently have a cooperative pending grant.
      iii. if there exists a postdoctoral or graduate advisor relationship at any time in the past.
      iv. at the same institution, or if there is a potential change of institution in progress that would result in being at the same institution.
-     v. having a business relationship (such as serving as a consultant for the same company) within 48 months.
+     v. having a business relationship (such as serving as a consultant for or part owner of same company) within 48 months.
 
    2. No associate editor will assign a reviewer who is known to have a conflict of interest with any author.  The explanation of conflict of interest will be explained to the reviewer in their invitation, and the reviewer will affirm that they do not have a conflict of interest.
 
