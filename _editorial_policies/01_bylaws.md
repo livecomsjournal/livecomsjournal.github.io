@@ -93,45 +93,43 @@ when the sections are exhausted. In the case that all of the lead
 editors have conflicts, the Managing Editors will jointly pick an
 Associate Editor who will then assign another Associate Editor to
 manage the manuscript.
+      1. Comparison of Molecular Simulation Package Editor
+      1. Tutorials Editor
+      1. Best Practices Editor 
+      1. Review Editor 
+      1. Lessons Learned Editor
+      1. continuing with editors of other sections, in order they are chronologically added to the journal. 
 
-     1. Comparison of Molecular Simulation Package Editor
-     1. Tutorials Editor
-     1. Best Practices Editor 
-     1. Review Editor 
-     1. Lessons Learned Editor
-     1. (and further down the alphabet) editors of other sections, in order they are chronologically added to the journal. 
-
-1. Fraud and Plagiarism.
-
+1. Fraud and Plagiarism
     1. Definitions:
-        a. 'Plagiarism' is defined as including any clearly recognizable
+       1. 'Plagiarism' is defined as including any clearly recognizable
 amount of text from a previous publication without attribution. 
-        b. 'Fraud' is defined as any false representation of the circumstances of the paper or the data contained in the paper. It could include fraudulent data, or fraudulent reviews.
-
-   2. If there is a suspicious or accusation of fraud or plagiarism, a
-   committee of three members of the editorial board will be chosen by
-   the managing editors to investigate.  If this committee votes
-   unanimously that fraud or plagiarism occurred, then the paper will
-   be removed from the journal, and the author will not be allowed to
-   submit to LiveCoMS for three years.
+       1. 'Fraud' is defined as any false representation of the circumstances of the paper or the data contained in the paper. It could include fraudulent data, or fraudulent reviews.
+    1. If there is a suspicious or accusation of fraud or plagiarism, a
+       committee of three members of the editorial board will be chosen by
+       the managing editors to investigate.  If this committee votes
+       unanimously that fraud or plagiarism occurred, then the paper will
+       be removed from the journal, and the author will not be allowed to
+       submit to LiveCoMS for three years.
 
 1. Review Process
 
     1. Review criteria that editors use shall be posted on the author
-    instructions section of the website. These review criteria will be
-    revised for clarity periodically in response to feedback, with the
-    approval of the Section Lead Editor.
+       instructions section of the website. These review criteria will be
+       revised for clarity periodically in response to feedback, with the
+       approval of the Section Lead Editor.
 
     2. Section Lead Editors make the final decision about reviews in
-    consultation with the associate editor assigned to the paper. In
-    case of an appeal on the decision, the Section Lead Editor will
-    select another associate editor to review all materials associated
-    with the decision. All authors must agree to appeal the
-    decision. If the second editor is in agreement with the first
-    editor, the decision will stand and cannot be additionally
-    appealed.  If the second editor disagrees with the first decision,
-    a third editor will be selected by the Section Lead Editor, and a
-    majority vote will be taken, which will be final.
+       consultation with the associate editor assigned to the
+       paper. In case of an appeal on the decision, the Section Lead
+       Editor will select another associate editor to review all
+       materials associated with the decision. All authors must agree
+       to appeal the decision. If the second editor is in agreement
+       with the first editor, the decision will stand and cannot be
+       additionally appealed.  If the second editor disagrees with the
+       first decision, a third editor will be selected by the Section
+       Lead Editor, and a majority vote will be taken, which will be
+       final.
 
 1. Amendments
 
