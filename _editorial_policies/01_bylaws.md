@@ -25,8 +25,8 @@ permalink: /policies/livecoms_bylaws/
 
    The editorial board shall consist of three Managing Editors, any
    number of Associate Editors, and a Section Lead Editor for each type
-   of document published in LiveCoMS, and any number of Associate
-   Editors. Section Lead Editors may be either Managing Editors or
+   of document published in LiveCoMS, any number of Associate
+   Editors, and a Recording Secretary. Section Lead Editors may be either Managing Editors or
    Associate Editors.
 
    1. Responsibilities
@@ -43,6 +43,8 @@ permalink: /policies/livecoms_bylaws/
        1. Associate Editors assign manuscripts to reviewers, collect
           these reviews, and make recommendations to the Section Lead
           Editors about acceptance, rejection, or requests for revision.
+       1. The Recording Secretary will coordinate and maintain confidentiality of
+          votes of the editorial board and record minutes of meetings of the editorial board.
 
    1. Selection process
        1. Members of the editorial board will be elected as needed by a two-thirds vote of the editorial board.
@@ -59,6 +61,7 @@ of the members of the editorial board, and who have a history of contributing ma
 	    1. All members on the Editorial Board shall be selected in a fair, impartial, and confidential process without regard to race, nationality, religion, gender or gender identity, sexual orientation, or familial status.
          1. Managing editors will be selected based on:
             1. all criteria outlined for associate editors, plus demonstrated excellence serving as an associate editor.
+	 1. The Recording Secretary will be nominated by the Managing editors from among the associate editors.
    1. Appointments Terms
       1. Appointment for all positions are for three years (from the
          time of adoption of the bylaws., which may be extended for an
