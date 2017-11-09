@@ -14,8 +14,8 @@ permalink: /policies/livecoms_bylaws/
 
    LiveCoMS shall produce one publication, the Living Journal of
    Computational Molecular Science, with articles released on a rolling
-   basis online. LiveCoMS provides a peer-reviewed home for manuscripts
-   which share best practices in molecular modeling and simulation. These
+   basis online. LiveCoMS provides a home for peer-reviewed home manuscripts
+   which advance best practices in molecular modeling and simulation. These
    works are living documents, regularly updated with community input,
    and can include living or perpetual reviews, tutorials, comparisons
    between software packages, and other documents which aim to improve
@@ -34,10 +34,10 @@ permalink: /policies/livecoms_bylaws/
           the finances of the journal, maintain the online presence.  Tasks
           may be divided up among managing editors as they see fit, and specific
           individual tasks may be assigned to individual associate editors.
-       1. Section Lead Editors handles submitted manuscripts and assigns
-          all manuscripts to associate lead editors. They make decisions on
-          presubmission letters on about proposed manuscripts, in which they
-          may be advised by the associate editors. They make final decisions
+       1. Section Lead Editors handle submitted manuscripts and assign
+          all manuscripts to associate lead editors. Section lead editors make decisions on
+          presubmission letters proposing manuscripts, in which they
+          may be advised by the associate editors. Section lead editors make final decisions
           based on recommendations from the associate editors, and communicate
           them to the authors.
        1. Associate Editors assign manuscripts to reviewers, collect
@@ -47,14 +47,14 @@ permalink: /policies/livecoms_bylaws/
    1. Selection process
        1. Members of the editorial board will be elected as needed by a two-thirds vote of the editorial board.
          1. Managing editors and section lead editors will be selected by a two-thirds vote of the
-            entire editorial board from by the other current members of the editorial board when there is a
+            entire editorial board by the other current members of the editorial board when there is a
             vacancy in either capacity.
          1. Vacancies in the Section Lead editors can be filled on a temporary basis by an associate editor selected unanimously by the managing editors until the position can be filled, for no more than three months.
          1. Associate editors will be selected based on:
             1. Demonstrated scholarly expertise in computational molecular science, broadly defined.
-            1. Stated commitment to contributed to decision making and maintenance of LiveCoMS.
-            1. Candidates will be favored who have shown excellence in the review process, based on independent evaluations
-of the members of the editorial board, and who have a history of contributions to LiveCoMS.
+            1. Stated commitment to contribute to decision making and maintenance of LiveCoMS.
+            1. Candidates will be favored who have shown excellence in reviewing for LiveCoMS, based on independent evaluations
+of the members of the editorial board, and who have a history of contributing manuscripts to LiveCoMS.
             1. Diversity in career background, geographical perspectives, life experiences, and any other factors that are seen as beneficial to represent the broader community, provide fairness in decisions, and include a range of viewpoints.
 	    1. All members on the Editorial Board shall be selected in a fair, impartial, and confidential process without regard to race, nationality, religion, gender or gender identity, sexual orientation, or familial status.
          1. Managing editors will be selected based on:
@@ -77,7 +77,7 @@ of the members of the editorial board, and who have a history of contributions t
 
    1. If later it is discovered that a reviewer has a conflict of interest with an author during the review process, this review will be discarded, and another review will be sought.
 
-   1. If a conflict of interest in a reviewer is found after acceptance, the associate editor will evaluate whether any bias may have affected the acceptance. If the associate editor feels they may be bias, a committee of three associate editors selected by the Section Lead Editor will investigate whether any bias or fraud was intended, and will follow procedures to determine whether admission was fraudulent as outlined by the bylaws on fraud.
+   1. If a conflict of interest in a reviewer is found after acceptance, the associate editor will evaluate whether any bias may have affected the acceptance. If the associate editor feels they themselves may be biased, a committee of three associate editors selected by the Section Lead Editor will investigate whether any bias or fraud was intended, and will follow procedures to determine whether admission was fraudulent as outlined by the bylaws on fraud.
 
    1. No Section Lead Editor shall assign an Associate Editor if they
 have a conflict of interest with a paper. No Associate Editor may
@@ -85,7 +85,7 @@ manage a paper if they have a conflict of interest, and shall notify
 the Section Lead Editor if they do have a conflict.
 
    1. If a Section Lead Editor has a conflict of interest, the
-assignments to Associate Editors will be made by another Section Lead
+assignment to Associate Editors will be made by another Section Lead
 Editor.  The order will be cyclic; if Lead Section Editor A has a
 conflict, it will got to Lead Section Editor B, unless they also have
 a conflict, in which case it will go to C, and so on, returning to A
@@ -109,7 +109,7 @@ amount of text from a previous publication without attribution.
 
        1. 'Fraud' is defined as any false representation of the circumstances of the paper or the data contained in the paper. It could include fraudulent data, or fraudulent reviews.
 
-    1. If there is a suspicious or accusation of fraud or plagiarism, a
+    1. If there is a suspicion or accusation of fraud or plagiarism, a
        committee of three members of the editorial board will be chosen by
        the managing editors to investigate.  If this committee votes
        unanimously that fraud or plagiarism occurred, then the paper will
