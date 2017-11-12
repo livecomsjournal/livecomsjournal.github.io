@@ -49,7 +49,6 @@ permalink: /policies/livecoms_bylaws/
          1. Managing editors and section lead editors will be selected by a two-thirds vote of the
             entire editorial board from by the other current members of the editorial board when there is a
             vacancy in either capacity.
-         1. Vacancies in the Section Lead editors can be filled on a temporary basis by an associate editor selected unanimously by the managing editors until the position can be filled, for no more than three months.
          1. Associate editors will be selected based on:
             1. Demonstrated scholarly expertise in computational molecular science, broadly defined.
             1. Stated commitment to contributed to decision making and maintenance of LiveCoMS.
@@ -60,10 +59,10 @@ of the members of the editorial board, and who have a history of contributions t
          1. Managing editors will be selected based on:
             1. all criteria outlined for associate editors, plus demonstrated excellence serving as an associate editor.
    1. Appointments Terms
-      1. Appointment for all positions are for three years (from the
-         time of adoption of the bylaws., which may be extended for an
-         unlimited number of terms by a vote of two/thirds of the remaining
-         editorial board.
+      1. Appointment for all managing editor positions and section lead positions are for four years (from the
+         time of adoption of the bylaws), and for associate editor positions are for three years, 
+	 which may be extended for an unlimited number of terms by a vote of two/thirds of the remaining
+         editorial board. 
 
 1. Conflicts of interest
    1. A 'conflict of interest' is defined as any of:
