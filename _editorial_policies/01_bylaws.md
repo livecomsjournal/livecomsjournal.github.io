@@ -6,6 +6,14 @@ title: Bylaws of the Living Journal of Computational Molecular Science
 excerpt: Bylaws of LiveCoMS.
 permalink: /policies/livecoms_bylaws/
 ---
+<!-- required to get the labeling right-->
+<style type="text/css">
+    ol { list-style-type: upper-roman; }
+    ol ol { list-style-type: decimal; }
+    ol ol ol { list-style-type: upper-alpha; }
+    ol ol ol ol { list-style-type: lower-roman; }
+    ol ol ol ol ol { list-style-type: lower-alpha; }
+</style>
 
 1. Organization Title and Publication
 
@@ -99,9 +107,9 @@ permalink: /policies/livecoms_bylaws/
 
    1. If a Section Lead Editor has a conflict of interest with a manuscript, the
 assignment to Associate Editors will be made by another Section Lead
-Editor.  The order of reassignment will be cyclic; if Lead Section Editor 1 has a
-conflict, it will got to Lead Section Editor 2, unless they also have
-a conflict, in which case it will go to 3, and so on, returning to 1
+Editor.  The order of reassignment will be cyclic; if Lead Section Editor A has a
+conflict, it will got to Lead Section Editor B, unless they also have
+a conflict, in which case it will go to C, and so on, returning to A
 when the sections are exhausted. In the case that all of the section lead
 editors have conflicts, the Managing Editors will select an associate editor to assign an associate editor.
       1. Comparison of Molecular Simulation Package Editor
