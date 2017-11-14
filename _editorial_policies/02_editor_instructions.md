@@ -23,6 +23,7 @@ The Lead Editor:
 - Handles analysis of presubmission inquiries
 - On article submission, confirms that the article is consistent with the presubmission letter
 - Passes the article and presubmission letter to an appropriate Associate Editor to manage the review process (unless he or she decides to manage the review process directly)
+- Makes a final decision after receiving a recommendation from the Associate Editor and reviewers (see below)
 
 ### Associate Editor
 
@@ -34,11 +35,11 @@ Before assigning manuscripts for review, editors have several main tasks:
 ## Review handling
 
 Once an editor has handled the pre-review steps described above, the review process is largely similar to typical journals. The editor:
-- Contacts suitable reviewers to request reviews, giving them a reasonable but not extended amount of time to provide their reviews and noting our conflict of interest policy
+- Contacts suitable reviewers to request reviews, giving them a reasonable (typically three weeks) but not extended amount of time to provide their reviews and noting our conflict of interest policy
 - Handles any potential conflict of interests disclosed by reviewers consistent with (editorial policy](https://livecomsjournal.github.io/policies/editorial_board/)
 - Makes reviewers aware of the [review criteria](https://livecomsjournal.github.io/authors/policies/), including category-specific review criteria
 - Performs a check that the GitHub repository is in order, or ensure the reviewers do so.
-- Ensures reviews are submitted and analyzed in a timely manner, reaching out to remind reviewers as needed and solicit additional reviews if reviewers are too slow or their analysis conflicts
+- Ensures reviews are submitted and analyzed in a timely manner (all reviews should be submitted in no more than six weeks), reaching out to remind reviewers as needed and solicit additional reviews if reviewers are too slow or their analysis conflicts
 - Potentially helps ensure reviewer feedback is fair
-- Makes a decision relating to acceptance, acceptance with minor or major revision, or rejection (keeping in mind the content of the presubmission letter), and communicates this decision to the authors (involving the Lead Editor as needed depending on the nature of the decision)
-- If the decision is that the authors must revise, provides appropriate direction about which comments to address if needed
+- Makes a recommendation regarding acceptance, acceptance with minor or major revision, or rejection (keeping in mind the content of the presubmission letter), and communicates this recommendation to the Lead Editor who makes a final decision. Normally the Lead Editor will follow the handling editor's recommendations, but this process is helpful since the Lead will have approved the presubmission letter and thus needs to be involved if a less than favorable decision is to be made.
+- If the decision is that the authors must revise, provides appropriate direction (with the Lead Editor) about which comments to address if needed
