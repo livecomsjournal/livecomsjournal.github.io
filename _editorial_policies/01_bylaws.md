@@ -31,9 +31,9 @@ permalink: /policies/livecoms_bylaws/
 
 1. Editorial Board
 
-   The Editorial Board shall consist of three Managing Editors, a Section Lead 
-   Editor for each type of document published in LiveCoMS, any number of 
-   Associate Editors, and a Recording Secretary. Section Lead Editors may be 
+   The Editorial Board shall consist of three Managing Editors, a Section Lead
+   Editor for each type of document published in LiveCoMS, any number of
+   Associate Editors, and a Recording Secretary. Section Lead Editors may be
    either Managing Editors or Associate Editors.
 
    1. Responsibilities
@@ -61,7 +61,7 @@ permalink: /policies/livecoms_bylaws/
          1. Associate editors will be elected based on:
             1. Demonstrated scholarly expertise in computational molecular science, broadly defined.
             1. Stated commitment to contribute to decision making and maintenance of LiveCoMS.
-            1. Candidates will be favored who have shown excellence in reviewing for LiveCoMS, 
+            1. Candidates will be favored who have shown excellence in reviewing for LiveCoMS,
 	    based on independent evaluations
 	    of the members of the Editorial Board, and who have a history of contributing manuscripts to LiveCoMS.
             1. Diversity in career background, geographical perspectives, life experiences, and any other factors that are seen as beneficial to represent the broader community, provide fairness in decisions, and include a range of viewpoints.
@@ -70,10 +70,10 @@ permalink: /policies/livecoms_bylaws/
             1. all criteria outlined for associate editors, plus demonstrated excellence serving as an associate editor.
 	 1. The Recording Secretary will be nominated by the Managing editors from among the associate editors.
    1. Appointments Terms
-      1. Appointment for all positions are for three years, which may be extended for an unlimited 
-	 number of terms by a vote of two/thirds of the remaining Editorial Board. If the terms of more 
-         than one third of the Editorial Board end at the same time, all may remain in their positions for 
-         long enough for additional editors be appointed, or one month, which ever comes first. 
+      1. Appointment for all positions are for three years, which may be extended for an unlimited
+	 number of terms by a vote of two/thirds of the remaining Editorial Board. If the terms of more
+         than one third of the Editorial Board end at the same time, all may remain in their positions for
+         long enough for additional editors be appointed, or one month, which ever comes first.
       2. At the time the bylaws are adopted, the three managing editorial terms will be for two, three, and four years,
          determined by mutual agreement or random chance if no agreement is reached.
    1. Voting
@@ -86,32 +86,33 @@ permalink: /policies/livecoms_bylaws/
          such as a 12 hour window.
 
 1. Conflicts of interest
-   1. A 'conflict of interest' is defined as any of:
-      1. being a close co-author on a paper together for up to 48 months after publication. "Close co-author" is defined as serving as corresponding author and/or first author together, or equivalent close collaboration.  This definition was chosen to avoid overly restrictive limitations for papers with large numbers of loosely-associated contributing authors, and will have some leeway for interpretation as outlined below.
-      1. a co-awardee on a grant for up to 48 months after the grant, or that currently have a cooperative pending grant.
-      1. if there exists a postdoctoral or graduate advisor relationship at any time in the past.
-      1. at the same institution, or if there is a potential change of institution in progress that would result in being at the same institution.
-      1. having a business relationship (such as serving as a consultant for or part owner of same company) within 48 months.
+   1. A potential "conflict of interest" is a circumstance which might affect one's ability to provide a fair and objective evaluation of a work, or which might reasonably be seen as having a likelihood of doing so by an independent outside observer. When in doubt, potential conflicts of interest should always be disclosed. Common causes of conflicts of interest, for reviewers and editors, include:
+      1. being a close co-author on a paper with an author in the previous 48 months. "Close co-author" is defined as serving as corresponding author and/or first author together, or equivalent close collaboration.  This definition was chosen to avoid overly restrictive limitations for papers with large numbers of loosely-associated contributing authors, and will have some leeway for interpretation as outlined below.
+      1. being a co-awardee on a grant at any time in the in the previous 48 months.
+      1. previously serving as a undergraduate, graduate, or postdoctoral supervisor or supervisee.
+      1. serving at the same institution, or if there is a potential change of institution in progress that would result in being at the same institution.
+      1. having a business relationship (such as serving as a consultant for or part owner of same company) within the previous 48 months.
+  1. All reviewers are responsible for reviewing our Conflict of Interest definitions and disclosing any potential conflicts of interest to the editor handling the submission.
 
-   1. Editors will try to avoid conflicts of interest with the authors when assigning manuscripts to reviewers.  If the reviewer notices a conflict of interest, they will report it to the editor so the manuscript may be reassigned. If they have any co-authorships with any author within the last 48 months that they consider not close co-authorship, they will report these to the assigning editor for the associate editor for approval as not being "close co-authorships".
+  1. Editors will try to ensure that they select reviewers who have no potential conflicts of interest.  If the reviewer has or becomes aware of a potential conflict of interest, he or she will report it to the editor so the manuscript may be reassigned. The reviewer should also disclose any co-authorship relationships from the previous 48 months, whether or not these are close co-authorships.
 
-   1. If it is later discovered that a reviewer has a conflict of interest with an author during the review process, this review will be discarded, and another review will be sought.
+     1. If it is later discovered that a reviewer has a potential conflict of interest with an author during the review process, this review will be discarded, and another review will be sought.
 
-   1. If a conflict of interest in a reviewer is found after acceptance, the associate editor will evaluate whether any bias may have unduly affected the acceptance. If the associate editor feels they themselves may be unfairly biased, a committee of three associate editors selected by the Section Lead Editor will investigate whether any favoritism, discrimination, or fraud was intended in the review, and will follow procedures to determine whether acceptance was fraudulent as outlined by the bylaws on fraud.
+     1. If a reviewer is found to have a potential conflict of interest after a work is accepted, the handling associate editor will evaluate whether any bias may have unduly affected the acceptance. If the associate editor feels they themselves may be unfairly biased, a committee of three associate editors selected by the Section Lead Editor will investigate whether any favoritism, discrimination, or fraud was intended in the review, and will follow procedures to determine whether acceptance was fraudulent as outlined by the bylaws on fraud.
 
-   1. Parallel policies hold in the case of the section lead editor assigning an associate editor a paper. 
-      1. Section lead editors will try to not assign given conflicts of interest, and associate editors will notify section lead editors if they are assigned a manuscript with which they have a conflict of interest.  
+   1. Parallel policies hold in the case of the section lead editor assigning an associate editor a paper.
+      1. Section lead editors will try to not assign to editors who have potential conflicts of interest, and associate editors will notify section lead editors if they are assigned a manuscript which raises potential conflict of interest concerns.  
       1. Co-authorships that are not considered close will be reported to the section lead editors.  
-      1. If conflicts of interest with the associate editor are later discovered, the manuscript will be assigned by he section lead editor to another associate editor, who will evaluate whether new reviewers should be invited.  
-      1. If a conflict of interest is found after acceptance, the section lead editor will evaluate whether bias may have unduly affected the acceptance. If so, a similar committee of three associate editors will investigate if the acceptance was fraudulent. 
+      1. If an associate editor is later discovered to have a potential conflict of interest, the manuscript will be assigned by he section lead editor to another associate editor, who will evaluate whether new reviewers should be invited.  
+      1. If a potential conflict of interest is found after acceptance, the section lead editor will evaluate whether bias may have unduly affected the acceptance. If so, a similar committee of three associate editors will investigate if the acceptance was fraudulent.
 
-   1. If a Section Lead Editor has a conflict of interest with a manuscript, the
+   1. If a Section Lead Editor has a potential conflict of interest involving a submission, the
 assignment to Associate Editors will be made by another Section Lead
 Editor.  The order of reassignment will be cyclic; if Lead Section Editor A has a
 conflict, it will got to Lead Section Editor B, unless they also have
-a conflict, in which case it will go to C, and so on, returning to A
+a potential conflict, in which case it will go to C, and so on, returning to A
 when the sections are exhausted. In the case that all of the section lead
-editors have conflicts, the Managing Editors will select an associate editor to assign an associate editor.
+editors have potential conflicts, the Managing Editors will select an associate editor to assign an associate editor, with the order rotating as follows:
       1. Comparison of Molecular Simulation Package Editor
       1. Tutorials Editor
       1. Best Practices Editor
@@ -137,7 +138,7 @@ amount of text from a previous publication without attribution.
        the author will not be allowed to submit to LiveCoMS for at
        least three years, and must petition to the board to be allowed
        to resubmit, which must be approved by a two-thirds vote. The
-       managing editors may notify the authors' institution of the finding 
+       managing editors may notify the authors' institution of the finding
        of fraud or plagiarism, along with evidence used to reach that finding.
 
 1. Review Process
@@ -149,8 +150,8 @@ amount of text from a previous publication without attribution.
 
     2. Section Lead Editors make the final decision about reviews in
        consultation with the associate editor assigned to the
-       paper. In some cases, authors may appeal an editorial decision, 
-       but initiating an appeal requires the consent of all authors. 
+       paper. In some cases, authors may appeal an editorial decision,
+       but initiating an appeal requires the consent of all authors.
        In case of an appeal on the decision, the Section Lead
        Editor will select another associate editor to review all
        materials associated with the decision. If the second editor is in agreement
@@ -164,5 +165,3 @@ amount of text from a previous publication without attribution.
 
    These bylaws may be amended by two-thirds of the vote of the entire
    Editorial Board.  
-
-
