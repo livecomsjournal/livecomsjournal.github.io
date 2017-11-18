@@ -38,7 +38,7 @@ Click each type of article for more information for submitting an article of tha
 
 ## Presubmission Letter
 
-Before drafting an article, authors should send a presubmission inquiry letter to the [Lead Editor for the relevant area](http://www.livecomsjournal.org/editorial-board).
+Before drafting an article, authors should send a presubmission inquiry letter to the [Lead Editor for the relevant area](http://www.livecomsjournal.org/editorial-board) (see also below).
 The presubmission inquiry letter should be no more than **one page** in length, and should include:
 * An outline the scope of the proposed contribution
 * An explanation how the proposed manuscript differs from existing published work
@@ -48,6 +48,14 @@ The presubmission inquiry letter should be no more than **one page** in length, 
 
 Potential authors submitting a presubmission letter will typically receive an answer within two weeks with either encouragement for a full submission, a suggestion to engage with previous authors to extend an existing articles, or suggestions for more suitable publication routes.
 Articles should be submitted within six months of a notification of encouragement.
+
+Section Leads can be contacted at:
+- Tutorials: tutorials@livecomsjournal.org
+- Best practices: bestpractices@livecomsjournal.org
+- Lessons learned: lessonslearned@livecomsjournal.org
+- Perpetual reviews: reviews@livecomsjournal.org
+- Comparisons of molecular simulation packages: computationalcomparisons@livecomsjournal.org
+
 
 ## Preparation of Your Article For Submission
 
