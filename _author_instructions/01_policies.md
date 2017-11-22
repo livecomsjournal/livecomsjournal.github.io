@@ -50,11 +50,11 @@ Potential authors submitting a presubmission letter will typically receive an an
 Articles should be submitted within six months of a notification of encouragement.
 
 Section Leads can be contacted at:
-- Tutorials: tutorials@livecomsjournal.org
-- Best practices: bestpractices@livecomsjournal.org
-- Lessons learned: lessonslearned@livecomsjournal.org
-- Perpetual reviews: reviews@livecomsjournal.org
-- Comparisons of molecular simulation packages: computationalcomparisons@livecomsjournal.org
+- Tutorials: [tutorials@livecomsjournal.org](mailto:tutorials@livecomsjournal.org)
+- Best practices: [bestpractices@livecomsjournal.org](mailto:bestpractices@livecomsjournal.org)
+- Lessons learned: [lessonslearned@livecomsjournal.org](mailto:lessonslearned@livecomsjournal.org)
+- Perpetual reviews: [reviews@livecomsjournal.org](mailto:reviews@livecomsjournal.org)
+- Comparisons of molecular simulation packages: [computationalcomparisons@livecomsjournal.org](mailto:computationalcomparisons@livecomsjournal.org)
 
 
 ## Preparation of Your Article For Submission
