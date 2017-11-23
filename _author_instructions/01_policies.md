@@ -95,6 +95,14 @@ Be sure to pay particular attention to:
 - Use consistent (and legible) font sizes in figures and tables; our LaTeX template uses OpenSans; we recommend its use if possible in figures as well.
 - Check that all special characters appear correctly in the rendered PDF.
 
+### References
+
+References should be prepared in BibTeX format, as discussed further in our [article templates](http://www.github.com/livecoms/author_templates) repository, and cited in LaTeX as normal.
+Our templates provide a bibliography style file (`.bst`) and use the `natbib` package; they will standardize format of your references to a reasonable extent.
+However, it is still important that your references use Title Case for article titles, and that they use journal title abbreviations.
+You are responsible for checking that any special characters appear properly, and otherwise ensuring that your final reference list is correct and well-formatted, including sufficient detail.
+Pay particular attention to formatting of non-journal articles as it is easy to end up omitting key citation information for content like software, poster presentations, preprints or other materials.
+
 ### Representative image
 
 Each article is posted alongside a key graphic or representative image; as part of the submission process, you must upload a representative image of your choice.
