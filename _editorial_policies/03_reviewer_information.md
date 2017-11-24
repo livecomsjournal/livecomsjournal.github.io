@@ -19,6 +19,11 @@ The review process is in general similar to typical journals, in that we seek to
 However, we do also have specific [review criteria](https://livecomsjournal.github.io/authors/policies/#review-criteria) and we ask reviewers to make sure they are aware of these, including [category-specific review criteria](https://livecomsjournal.github.io/authors/policies/#types-of-articles) relevant to the particular category of article.
 We also have a Conflict of Interest policy and reviewers should make sure they are familiar with this and decline to review if they have a conflict, or if they are uncertain, to disclose any potential conflicts to the editor managing the review process.
 
+One potentially unique aspect of the LiveCoMS review process is the opportunity to engage with authors publicly rather than anonymously if you so desire.
+Specifically, if you (as a reviewer) are interested in participating public discussion of the work and helping to improve it, you are free to comment on the issue tracker connected to the GitHub repository associated with the article, which can be a way to work together with the community to help authors improve their article.
+If you choose to do this, you are welcome to cross-reference GitHub comments in your review for LiveCoMS.
+
+
 Because we are attempting to make LiveCoMS as open as possible, we provide examples below of typical form letters used for correspondence with reviewers.
 
 ## Reviewer letters
@@ -65,7 +70,7 @@ To aid you in your review, both the general [review criteria](https://livecomsjo
 
 Please read our conflict-of-interest criteria and inform me of any potential conflicts.
 
-Note also that non-anonymous feedback can be provided directly to authors via the github page linked in the manuscript.
+Note also that non-anonymous feedback can be provided directly to authors via the GitHub page linked in the manuscript, if you so desire.
 
 If you have any questions, please reply to this email.
 
