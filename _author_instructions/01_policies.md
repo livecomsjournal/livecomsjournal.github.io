@@ -122,6 +122,12 @@ To ensure font sizes are as intended, make sure to create your figure at the pla
 
 We recommend making use of both single column and two column figures as appropriate depending on the width of the content you wish to include.
 
+### Tables
+
+As with figures, our main concern with tables is their quality in your final PDF.
+Overall table formatting is up to you, but tables should have clear labels, provide clear captions, and have columns which are clearly labeled with symbols, units, and all other relevant quantities necessary to understand what is presented.
+As with figures, captions should be relatively self-contained so that the main point of tables can be understood without referring to full details in the text.
+
 ### Representative image
 
 Each article is posted alongside a key graphic or representative image; as part of the submission process, you must upload a representative image of your choice.
