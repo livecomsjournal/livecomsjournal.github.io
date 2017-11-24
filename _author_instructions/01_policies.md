@@ -62,9 +62,9 @@ Section Leads can be contacted at:
 The authors should prepare the document using
 [LaTeX](https://www.latex-project.org/) in a public repository owned
 by one of the authors (or their organization/group) on [GitHub](https://www.github.com).
-LiveCoMS [provides template LaTeX files to start from](https://github.com/livecomsjournal/article_templates) and instructions for how to structure the documents.
+LiveCoMS [provides template LaTeX files to start from](https://github.com/livecomsjournal/article_templates) for the different article types; category-specific guidelines are [linked above](https://livecomsjournal.github.io/authors/policies/#types-of-articles) and additional guidance on document structure is given in the structure of the [LaTeX templates](https://github.com/livecomsjournal/article_templates) themselves and comments therein.
 We require that articles submitted to LiveCoMS use the provided templates so that the journal has a consistent visual presentation.
-Additionally, articles should include clear links to, and mention of, the relevant GitHub repository and encourage community participation/feedback via GitHub.
+Additionally, articles should include clear links to, and mention of, the relevant GitHub repository and encourage community participation/feedback via GitHub, as indicated in the provided templates.
 
 For an example of an article hosted on GitHub in this style (though not a LiveCoMS article), see [the following perpetual review](https://github.com/MobleyLab/benchmarksets).
 
