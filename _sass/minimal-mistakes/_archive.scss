@@ -17,8 +17,15 @@
   }
 
   a {
-    color: inherit;
     text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+
+      img {
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+      }
+    }
   }
 }
 
@@ -42,6 +49,10 @@
 
   a + a {
     opacity: 0.5;
+  }
+
+  a {
+      color: inherit
   }
 }
 
