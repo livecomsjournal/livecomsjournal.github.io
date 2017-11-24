@@ -35,7 +35,7 @@ Before assigning manuscripts for review, editors have several main tasks:
 ## Review handling
 
 Once an editor has handled the pre-review steps described above, the review process is largely similar to typical journals. The editor:
-- Contacts suitable reviewers to request reviews, giving them a reasonable (typically three weeks) but not extended amount of time to provide their reviews and noting our conflict of interest policy
+- Contacts suitable reviewers to request reviews, giving them a reasonable (typically 10 days, but exceptions can be made) but not extended amount of time to provide their reviews and noting our conflict of interest policy
 - Handles any potential conflict of interests disclosed by reviewers consistent with (editorial policy](https://livecomsjournal.github.io/policies/editorial_board/)
 - Makes reviewers aware of the [review criteria](https://livecomsjournal.github.io/authors/policies/), including category-specific review criteria
 - Performs a check that the GitHub repository is in order, or ensure the reviewers do so.
