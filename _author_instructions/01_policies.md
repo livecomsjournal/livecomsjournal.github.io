@@ -103,6 +103,11 @@ However, it is still important that your references use Title Case for article t
 You are responsible for checking that any special characters appear properly, and otherwise ensuring that your final reference list is correct and well-formatted, including sufficient detail.
 Pay particular attention to formatting of non-journal articles as it is easy to end up omitting key citation information for content like software, poster presentations, preprints or other materials.
 
+### Error analysis
+
+All original computational/numerical work presented in LiveCoMS is expected to include appropriate error analysis/error bars, and it should be clearly indicated how any error analysis was done and what quantities are presented (standard error in the mean, confidence interval (at what percentile), etc.)
+All data presented should have error bars if available, though if drawn from literature data where no uncertainties were presented we understand if they cannot be given (though this should be noted).
+
 ### Representative image
 
 Each article is posted alongside a key graphic or representative image; as part of the submission process, you must upload a representative image of your choice.
