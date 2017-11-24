@@ -28,6 +28,8 @@ authors_policies.md:
         url: /authors/policies/index.html#writing-style-and-editing
       - title: Article layout
         url: /authors/policies/index.html#article-layout
+      - title: References
+        url: /authors/policies/index.html#references
       - title: Representative image
         url: /authors/policies/index.html#representative-image
       - title: Preprints
@@ -66,17 +68,6 @@ authors_policies.md:
     - title: Abandoned Documents
       url: /authors/policies/index.html#abandoned-documents
 
-authors_best_practices.md:
-  - title: Best Practices Guides
-    url: /authors/best_practices/index.html#
-    children:
-    - title: What is a best practices guide?
-      url: /authors/best_practices/index.html#what-is-a-best-practices-guide
-    - title: Additional factors considered in review of best practices guides
-      url: /authors/best_practices/index.html#additional-factors-considered-in-review-of-best-practices-guides
-    - title: Revision schedule for best practices guides
-      url: /authors/best_practices/index.html#revision-schedule-for-best-practices-guides
-
 authors_perpetual_reviews.md:
   - title: Perpetual Reviews
     url: /authors/perpetual_reviews/index.html#
@@ -87,6 +78,17 @@ authors_perpetual_reviews.md:
       url: /authors/perpetual_reviews/index.html#additional-review-criteria-for-perpetual-reviews
     - title: Revision schedule for perpetual reviews
       url: /authors/perpetual_reviews/index.html#revision-schedule-for-perpetual-reviews
+
+authors_best_practices.md:
+  - title: Best Practices Guides
+    url: /authors/best_practices/index.html#
+    children:
+    - title: What is a best practices guide?
+      url: /authors/best_practices/index.html#what-is-a-best-practices-guide
+    - title: Additional factors considered in review of best practices guides
+      url: /authors/best_practices/index.html#additional-factors-considered-in-review-of-best-practices-guides
+    - title: Revision schedule for best practices guides
+      url: /authors/best_practices/index.html#revision-schedule-for-best-practices-guides
 
 authors_compare_simulations.md:
   - title: Comparisons of Molecular Simulation Packages
@@ -129,6 +131,22 @@ policies_editorial_board.md:
     children:
     - title: Policies on Decisions
       url: /policies/editorial_board/index.html#policies-on-decisions
+
+editor_instructions.md:
+  - title: Instructions for Editors
+    url: /policies/editor_instructions/index.html#
+    children:
+    - title: Workflow overview
+      url: /policies/editor_instructions/index.html#workflow-overview
+    - title: Pre-review processing
+      url: /policies/editor_instructions/index.html#pre-review-processing
+      children:
+      - title: Lead Editor
+        url: /policies/editor_instructions/index.html#lead-editor
+      - title: Associate Editor
+        url: /policies/editor_instructions/index.html#associate-editor
+    - title: Review handling
+      url: /policies/editor_instructions/index.html#review-handling
 
 about_paper_code.md:
   - title: Paper writing as code development
