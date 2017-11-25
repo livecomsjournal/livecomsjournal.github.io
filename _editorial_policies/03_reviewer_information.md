@@ -108,4 +108,4 @@ As you make the recommended changes, we also encourage you to make a final check
 Thank you again for joining with us in this exciting new publishing enterprise!
 
 Sincerely,
-`Fill in editor name`
+`{{SENDER-FULL-NAME}}`
