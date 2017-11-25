@@ -30,7 +30,13 @@ The Lead Editor:
 Before assigning manuscripts for review, editors have several main tasks:
 - Ensure they do not have a conflict of interest with respect to the work they are to analyze; if they do, [dealing with as dictated by editorial policy](https://livecomsjournal.github.io/policies/editorial_board/).
 - Check to ensure that the manuscript has appropropriate style, grammar, layout, and figure quality to be ready for editing, as in the [instructions for authors](https://livecomsjournal.github.io/authors/policies/). Remember, the journal will not be editing the manuscript, so if you will need to reject the manuscript (for additional revision) because of grammar issues or other stylistic reasons, you should do this *before* sending it for review to avoid wasting the time of the reviewers.
-- Identify suitable reviewers, who may include experts suggested by the authors, others in the field you already know of, or authors cited frequently in the article. LiveCoMS generally requires at least two reviewers, though exceptional circumstances (such as extensive community feedback via GitHub) may result in exceptions.
+- Identify suitable reviewers, who may include experts suggested by the authors, others in the field you already know of, or authors cited frequently in the article. LiveCoMS generally requires at least two reviewers as well as a student reviewer (a Student Editor or a student reviewer recruited by a Student Editor), though exceptional circumstances (such as extensive community feedback via GitHub) may result in exceptions.
+
+### Student Editors
+
+Most documents in LiveCoMS are intended to be accessible to students, so a Student Editor (a graduate student or postdoc invited by the editorial board) will be involved in the review process for every document to help ensure it is accessible to a general audience, including junior researchers.
+The Student Editor will either review this aspect of the manuscript, or select a student reviewer who will do so.
+While scientific comments from this part of the review process are welcome, the main goal of this aspect of review is to ensure accessibility.
 
 ## Review handling
 
