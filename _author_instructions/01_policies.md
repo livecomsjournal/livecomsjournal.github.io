@@ -129,6 +129,11 @@ As with figures, our main concern with tables is their quality in your final PDF
 Overall table formatting is up to you, but tables should have clear labels, provide clear captions, and have columns which are clearly labeled with symbols, units, and all other relevant quantities necessary to understand what is presented.
 As with figures, captions should be relatively self-contained so that the main point of tables can be understood without referring to full details in the text.
 
+### Error analysis
+
+All original computational/numerical work presented in LiveCoMS is expected to include appropriate error analysis/error bars, and it should be clearly indicated how any error analysis was done and what quantities are presented (standard error in the mean, confidence interval (at what percentile), etc.)
+All data presented should have error bars if available, though if drawn from literature data where no uncertainties were presented we understand if they cannot be given (though this should be noted).
+
 ### Representative image
 
 Each article is posted alongside a key graphic or representative image; as part of the submission process, you must upload a representative image of your choice.
