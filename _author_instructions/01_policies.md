@@ -133,6 +133,8 @@ As with figures, captions should be relatively self-contained so that the main p
 
 All original computational/numerical work presented in LiveCoMS is expected to include appropriate error analysis/error bars, and it should be clearly indicated how any error analysis was done and what quantities are presented (standard error in the mean, confidence interval (at what percentile), etc.)
 All data presented should have error bars if available, though if drawn from literature data where no uncertainties were presented we understand if they cannot be given (though this should be noted).
+Preliminary guidance can be obtained from the yet-to-be-peer-reviewed [Best Practices manuscript](https://github.com/dmzuckerman/Sampling-Uncertainty/) on quantifying uncertainty.
+
 
 ### Representative image
 
