@@ -112,11 +112,12 @@ Rather, figures should:
 - Be stylistically consistent with the rest of the paper (ideally using OpenSans as the font, and having similar font sizes/styles to the rest of the paper)
 - Use words, symbols, and units for axis labels, *e.g.* not just a plot of sigma vs. r but words should explain what sigma and r are, and what units they use
 - Use self-contained captions so that the point of the figure can be understood without referring to details in the text
-- Not be so large that the final PDF is a huge file
+- Not be so large that the final PDF is an inconveniently large file (typically larger than 10 MB due to e-mail attachment sizes, though exceptions can be made)
 
 Our specific graphical goals can usually be best met by making as many figures as possible in a vector graphics format such as `.svg`, `.pdf`, `.eps`, or similar, as these can be zoomed to an arbitrary level and maintain high quality, but also maintain modest sizes.
 If you are using bitmapped graphics, we highly discourage the use of `.jpg` or other lossy formats and instead recommend `.tif`, `.png` or similar.
 If you do use such graphics formats, pay particular attention to them to ensure that resolution is sufficient so that they look excellent even if zoomed or printed at high quality, as you can expect more issues with these formats than for vector graphics.
+As a general rule, ensure bitmapped graphics are 300 DPI or better when produced at the size at which they will appear in your final PDF.
 
 To ensure font sizes are as intended, make sure to create your figure at the planned size and specify the desired font size, rather than creating a large figure with the desired font size and shrinking it (resulting in text smaller than intended).
 
