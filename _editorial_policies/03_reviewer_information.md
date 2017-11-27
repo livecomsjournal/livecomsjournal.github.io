@@ -14,9 +14,10 @@ This provides information relevant to reviewers of LiveCoMS, as well as a copy o
 
 Before sending manuscripts for review, a lead editor of the relevant LiveCoMS section will have responded favorably to a [presubmission inquiry](https://livecomsjournal.github.io/authors/policies/#presubmission-letter) and then checked that the submitted manuscript indeed conforms to what was originally proposed.
 A LiveCoMS editor will also have checked that the manuscript appears to be reasonably well edited and ready for review.
-Given this preparation, LiveCoMS asks that reviewers respond promptly to review requests and take immediate action on reviewing manuscripts; typically we ask that reviews be returned within 10 days, though exceptions can be made in some cases.
+Given this preparation, LiveCoMS asks that reviewers respond promptly to review requests and take immediate action on reviewing manuscripts; typically we ask that reviews be returned within 14 days, though exceptions can be made in some cases.
 The review process is in general similar to typical journals, in that we seek to ensure manuscripts are of high quality and will provide significant benefits to the field.
 However, we do also have specific [review criteria](https://livecomsjournal.github.io/authors/policies/#review-criteria) and we ask reviewers to make sure they are aware of these, including [category-specific review criteria](https://livecomsjournal.github.io/authors/policies/#types-of-articles) relevant to the particular category of article.
+Additionally, consistent with its pedagogical mission, LiveCoMS requires a student review of each manuscript.
 We also have a Conflict of Interest policy and reviewers should make sure they are familiar with this and decline to review if they have a conflict, or if they are uncertain, to disclose any potential conflicts to the editor managing the review process.
 
 One potentially unique aspect of the LiveCoMS review process is the opportunity to engage with authors publicly rather than anonymously if you so desire.
@@ -40,9 +41,9 @@ One unique feature of the review process is the requirement for a student review
 To ACCEPT: `link`
 To DECLINE: `link`
 
-Reviews are generally expected within 10 days, although extra time may be allowable upon request.
+Reviews are generally expected within 14 days, although extra time may be allowable upon request.
 
-Please be sure you review and understand our [conflict of interest policies](FILL IN LINK) before making a decision on whether or not to accept this review request.
+Please be sure you review and understand our conflict of interest policies before making a decision on whether or not to accept this review request.
 
 If you have any questions, please reply to this email.
 
@@ -84,15 +85,18 @@ REVIEW CRITERIA
 ### Reviewer ranking questions
 
 (All fields will be communicated to the authors except comments to the editor)
-- Overall rating (one to five stars)
+- Overall rating (one to five stars, with five being best)
 - For this manuscript I recommend (Accept/Revise and resubmit/Reject)
 - How well does the manuscript meet overall review criteria and category-specific criteria?
-- Is the paper adequately edited?
+- Is the paper adequately edited for clear scientific English?
 - Given that the accepted PDF will be the final version of the manuscript, are there formatting, style, or quality issues which should be addressed before acceptance? What about the quality of the figures, layout of any tables, etc.?
 - Comments to the editor
 
 
-## Sample decision letter
+## Sample decision letters
+
+
+### Minor revisions
 
 Following is a sample decision letter which might be used for communicating the outcome of the review process to the authors.
 
@@ -100,6 +104,8 @@ Dear `{{AUTHOR-FULL-NAME}}`,
 
 Thank you very much for your submission of your article, `{{MANUSCRIPT-TITLE}}`, to the Living Journal of Computational Molecular Sciences.
 We are delighted to inform you that we anticipate being able to accept your article, pending satisfactory completion of minor revisions as recommended by the reviewers (and detailed below).
+To facilitate the re-review of your manuscript, please submit a PDF version with *highlighted* changes, such as via [latexdiff](https://www.sharelatex.com/blog/2013/02/16/using-latexdiff-for-marking-changes-to-tex-documents.html).
+A final unhighlighted, publication-ready version will be requested should your manuscript be accepted.
 As you make the recommended changes, we also encourage you to make a final check that:
 - The article is well edited and all images and tables are of high quality and well laid out
 - Your final submitted PDF is in fact how you want your article to appear in its final version, as the journal does not typeset or alter the formatting of your article
@@ -109,3 +115,13 @@ Thank you again for joining with us in this exciting new publishing enterprise!
 
 Sincerely,
 `{{SENDER-FULL-NAME}}`
+
+### More significant revisions
+
+(Same letter as the above, but with the following type of language instead)
+
+""...Your manuscript was judged to have significant merit and may ultimately be suitable for publication, but significant revisions are required. Please see the reviewer comments below." [continue with same letter as for minor]
+
+### Rejection
+
+"Unfortunately, we will not be able to accept your manuscript for publication. [editor should insert note here about whether manuscript was outside scope of journal, not of suitable quality, or otherwise inappropriate]..."
