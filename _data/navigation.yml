@@ -30,6 +30,8 @@ authors_policies.md:
         url: /authors/policies/index.html#article-layout
       - title: References
         url: /authors/policies/index.html#references
+      - title: Error analysis
+        url: /authors/policies/index.html#error-analysis
       - title: Representative image
         url: /authors/policies/index.html#representative-image
       - title: Preprints
@@ -68,17 +70,6 @@ authors_policies.md:
     - title: Abandoned Documents
       url: /authors/policies/index.html#abandoned-documents
 
-authors_perpetual_reviews.md:
-  - title: Perpetual Reviews
-    url: /authors/perpetual_reviews/index.html#
-    children:
-    - title: What is a perpetual review?
-      url: /authors/perpetual_reviews/index.html#what-is-a-perpetual-review
-    - title: Additional review criteria for perpetual reviews
-      url: /authors/perpetual_reviews/index.html#additional-review-criteria-for-perpetual-reviews
-    - title: Revision schedule for perpetual reviews
-      url: /authors/perpetual_reviews/index.html#revision-schedule-for-perpetual-reviews
-
 authors_best_practices.md:
   - title: Best Practices Guides
     url: /authors/best_practices/index.html#
@@ -89,6 +80,17 @@ authors_best_practices.md:
       url: /authors/best_practices/index.html#additional-factors-considered-in-review-of-best-practices-guides
     - title: Revision schedule for best practices guides
       url: /authors/best_practices/index.html#revision-schedule-for-best-practices-guides
+
+authors_perpetual_reviews.md:
+  - title: Perpetual Reviews
+    url: /authors/perpetual_reviews/index.html#
+    children:
+    - title: What is a perpetual review?
+      url: /authors/perpetual_reviews/index.html#what-is-a-perpetual-review
+    - title: Additional review criteria for perpetual reviews
+      url: /authors/perpetual_reviews/index.html#additional-review-criteria-for-perpetual-reviews
+    - title: Revision schedule for perpetual reviews
+      url: /authors/perpetual_reviews/index.html#revision-schedule-for-perpetual-reviews
 
 authors_compare_simulations.md:
   - title: Comparisons of Molecular Simulation Packages
@@ -158,3 +160,11 @@ about_paper_code.md:
       url: /about/paper_code/index.html#tools-for-paper-writingcode-development
     - title: How it works in practice
       url: /about/paper_code/index.html#how-it-works-in-practice
+
+thanks.md:
+  - title: Thanks
+    url: /about/thanks/index.html#
+
+earlycareer.md:
+  - title: For Early Career Scientists
+    url: /about/earlycareer/index.html#
