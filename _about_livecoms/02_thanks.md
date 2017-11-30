@@ -7,6 +7,8 @@ excerpt: Thanks for special services in helping make LiveCoMS possible
 permalink: /about/thanks/
 ---
 
+LiveCoMS wishes to give special thanks to:
+
 * CU Boulder Libraries, for their generous donation of seed money to start the journal.
 
 * The CU Boulder Department of Chemical and Biological Engineering for
