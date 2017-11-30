@@ -13,7 +13,7 @@ ways you can participate:
 
 * If you are a graduate student or postdoc, we encourage you to sign
   up to be a student reviewer. Please email
-  [the managing editors](mailto:managing_editors@livecomsjournal.org)
+  [the managing editors](mailto:managing@livecomsjournal.org)
   with a request to be put on the potential student reviewer
   list. Include a brief description of your expertise, and a short CV
   including publications.
