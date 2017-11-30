@@ -2,18 +2,22 @@
 layout: single
 sidebar:
   nav: earlycareer.md
-title: For Early Career Scientists 
-excerpt: How early career scientists can get involved with LiveCoMS
+title: For Students and Early Career Scientists 
+excerpt: How students and early career scientists can get involved with LiveCoMS
 permalink: /about/earlycareer/
 ---
 
 We welcome early career scientists (undergraduate students, graduate
-students and postdocs) to help participate in LiveCoMS.  There are two
+students and postdocs) to participate in LiveCoMS.  There are two
 ways you can participate:
 
 * If you are a graduate student or postdoc, we encourage you to sign
-  up to be a student reviewer. Please email
-  [the managing editors](mailto:managing@livecomsjournal.org)
+  up to be a student reviewer.  Every submission to LiveCoMS requires
+  a student reviewer to make sure that the material is accessible and
+  appropriate for all levels of users. By participating as a student
+  reviewer, you will help improve the pedagogical and practical value
+  of LiveCoMS to a diverse community of simulation scientsts.  Please
+  email [the managing editors](mailto:managing@livecomsjournal.org)
   with a request to be put on the potential student reviewer
   list. Include a brief description of your expertise, and a short CV
   including publications.

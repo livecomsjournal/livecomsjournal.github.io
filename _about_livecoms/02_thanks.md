@@ -11,12 +11,11 @@ LiveCoMS wishes to give special thanks to:
 
 * CU Boulder Libraries, for their generous donation of seed money to start the journal.
 
-* The CU Boulder Department of Chemical and Biological Engineering for
-  agreeing to help serve as publisher, and providing logistical support
+* The CU Boulder Department of Chemical and Biological Engineering for providing logistical support
   for journal finances.
 
-* CU Boulder CEAS Dean Bobby Braun and CU Boulder Provost Russell More
-  for their support to have CU Boulder serve as publisher of LiveCoMS.
+* CU Boulder (including CEAS Dean Bobby Braun and CU Boulder Provost Russell Moore
+  for their support) for serving as publisher of LiveCoMS.
 
 * Pascal Merz (CU Boulder), for developing and setting up the initial GitHub Pages design.
 
