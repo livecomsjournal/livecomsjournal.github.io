@@ -27,5 +27,3 @@ ways you can participate:
   page. Significant and ongoing participation that improves the
   document may even lead to eventual inclusion as an author on future
   versions (at the discretion of the current authors)
-
- LocalWords:  sidebar nav
