@@ -22,7 +22,7 @@ The scope of the tutorial, as well as the expected proficiencies / outcomes for 
 
 **Prerequisites for tutorials**: Tutorials should clearly define what concepts or abilities researchers will need to complete the tutorial (e.g., some proficiency in Python; experience with Jupyter notebooks; knowledge of classical MD; etc).
 
-Tutorials should clearly define what system and/or software requirements the researcher will need to complete the tutorial (e.g., VMD version 1.9 or newer, AMBER, etc.). Tutorials requiring specific software packages must provide instructions and files for the referenced version of the software, as well as any information that might affect the output (what precision the binaries were compiled, what machines they were compiled on). 
+Tutorials should clearly define what system and/or software requirements the researcher will need to complete the tutorial (e.g., VMD version 1.9 or newer, AMBER, etc.). Tutorials requiring specific software packages must provide instructions and files for the referenced version of the software, as well as any information that might affect the output (e.g., what precision the binaries were compiled, what machines they were compiled on). 
 
 **Pre-existing tutorials**: The submission of existing tutorials, so long as they meet the journal standards described here, is explicitly welcomed.
 Our goal is to encourage the development of high quality tutorials by providing some degree of academic credit for these important and time-consuming efforts.
