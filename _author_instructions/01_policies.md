@@ -30,7 +30,7 @@ Click each type of article for more information for submitting an article of tha
 
 - [Comparisons of Molecular Simulation Packages](/authors/compare_simulations/) attempt to perform the same calculation with a range of different simulation programs.
 
-- [Tutorials](/authors/tutorials/) provide walkthroughs or instructional materials and are acommpanied by supporting files for use as training material.
+- [Tutorials](/authors/tutorials/) provide walkthroughs or instructional materials and are accompanied by supporting files for use as training material.
 
 - [Lessons Learned](/authors/lessons_learned/) highlight failed studies on a particular topic that are instructive/provide important lessons, helping new authors avoid mistakes encountered previously by others.
 
@@ -67,6 +67,13 @@ We require that articles submitted to LiveCoMS use the provided templates so tha
 Additionally, articles should include clear links to, and mention of, the relevant GitHub repository and encourage community participation/feedback via GitHub, as indicated in the provided templates.
 
 For an example of an article hosted on GitHub in this style (though not a LiveCoMS article), see [the following perpetual review](https://github.com/MobleyLab/benchmarksets).
+
+### Copyright license
+
+In order to publish the article, LiveCoMS requires that authors sign (an additional contributor license)[LiveCoMS_contributor_license.pdf] to clarify LiveCoMS rights to publish the article, regardless of the license the author uses in the their own release of the article on GitHub.  This document also to confirms that the authors grant the publisher the right to distribute their article and that the authors are legally entitled to do so for all the material in the article.  
+
+This agreement is a license, *not a copyright transfer*; authors retain the copyright for their works, and therefore authors are not restricted in their own use or distribution of their work in any way by this document. 
+
 
 ### Writing style and editing
 
@@ -385,3 +392,4 @@ appropriate acknowledgment/recognition of the original authors) if
 they have abandoned their article as described above, and that
 LiveCoMS may accept revised versions of papers which have amended
 authorship in such circumstances.
+
