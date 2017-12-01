@@ -92,7 +92,7 @@ You are responsible for preparing your article PDF and materials in the way you 
 LiveCoMS will not be separately typesetting your article for you, so be careful that your materials are laid out well.
 Be sure to pay particular attention to:
 - Place your figures and tables appropriately in the document (following the paragraph that first references them), rather than collecting them at the end. Do not not move the figures and tables in the LaTeX document to change where they appear. Instead, use the [LaTeX placement options](https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions) to adjust positioning.
-- Use consistent (and legible) font sizes in figures and tables; our LaTeX template uses OpenSans; we recommend its use if possible in figures as well.
+- Use consistent (and legible) font sizes in figures and tables; our LaTeX template uses OpenSans; we recommend its use if possible in figures as well. See additional discussion on [figures](#figures) below.
 - Check that all special characters appear correctly in the rendered PDF.
 
 ### References
@@ -103,10 +103,38 @@ However, it is still important that your references use Title Case for article t
 You are responsible for checking that any special characters appear properly, and otherwise ensuring that your final reference list is correct and well-formatted, including sufficient detail.
 Pay particular attention to formatting of non-journal articles as it is easy to end up omitting key citation information for content like software, poster presentations, preprints or other materials.
 
+### Figures
+
+Our largest concern in the construction and preparation of figures is their quality in the final PDF, so we do not *require* any specific image format for figures.
+Rather, figures should:
+- Appear polished in the final PDF of the article, even if zoomed in a great deal
+- Be of sufficiently high quality that they look good printed, in both color and grayscale (which has implications for color choices)
+- Be stylistically consistent with the rest of the paper (ideally using OpenSans as the font, and having similar font sizes/styles to the rest of the paper)
+- Use words, symbols, and units for axis labels, *e.g.* not just a plot of sigma vs. r but words should explain what sigma and r are, and what units they use
+- Use self-contained captions so that the point of the figure can be understood without referring to details in the text
+- Not be so large that the final PDF is an inconveniently large file (typically larger than 10 MB due to e-mail attachment sizes, though exceptions can be made)
+
+Our specific graphical goals can usually be best met by making as many figures as possible in a vector graphics format such as `.svg`, `.pdf`, `.eps`, or similar, as these can be zoomed to an arbitrary level and maintain high quality, but also maintain modest sizes.
+If you are using bitmapped graphics, we highly discourage the use of `.jpg` or other lossy formats and instead recommend `.tif`, `.png` or similar.
+If you do use such graphics formats, pay particular attention to them to ensure that resolution is sufficient so that they look excellent even if zoomed or printed at high quality, as you can expect more issues with these formats than for vector graphics.
+As a general rule, ensure bitmapped graphics are 300 DPI or better when produced at the size at which they will appear in your final PDF.
+
+To ensure font sizes are as intended, make sure to create your figure at the planned size and specify the desired font size, rather than creating a large figure with the desired font size and shrinking it (resulting in text smaller than intended).
+
+We recommend making use of both single column and two column figures as appropriate depending on the width of the content you wish to include.
+
+### Tables
+
+As with figures, our main concern with tables is their quality in your final PDF.
+Overall table formatting is up to you, but tables should have clear labels, provide clear captions, and have columns which are clearly labeled with symbols, units, and all other relevant quantities necessary to understand what is presented.
+As with figures, captions should be relatively self-contained so that the main point of tables can be understood without referring to full details in the text.
+
 ### Error analysis
 
 All original computational/numerical work presented in LiveCoMS is expected to include appropriate error analysis/error bars, and it should be clearly indicated how any error analysis was done and what quantities are presented (standard error in the mean, confidence interval (at what percentile), etc.)
 All data presented should have error bars if available, though if drawn from literature data where no uncertainties were presented we understand if they cannot be given (though this should be noted).
+Preliminary guidance can be obtained from the yet-to-be-peer-reviewed [Best Practices manuscript](https://github.com/dmzuckerman/Sampling-Uncertainty/) on quantifying uncertainty.
+
 
 ### Representative image
 
