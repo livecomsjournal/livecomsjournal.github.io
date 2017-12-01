@@ -8,18 +8,23 @@ permalink: /authors/tutorials/
 ---
 
 ## What is a publishable tutorial?
-Tutorials are articles that are accompanied by associated materials of varied format (e.g., web pages with walkthroughs or instructional materials and downloadable files to work with; or an explanatory article accompanied by a website with training information and downloadable Jupyter notebooks teaching users how to perform a modeling task; or a more extensive online course-like format with recorded lectures, etc).  
-Tutorials take users through specific tasks or sequences of tasks to help them learn how to do these tasks on their own for other applications or purposes. 
+Tutorials are articles that take users through specific tasks or sequences of tasks to help the users learn how to do these tasks on their own for other applications or purposes. 
 
-**Scope of tutorials**: Tutorials should endeavor to cover the specific task at hand, and also highlight how the steps might need to be modified (or additional care might need to be taken at particular points) to handle more general cases.  
+Tutorials are accompanied by associated other materials which help the reader put into practice the calculations described by the tutorial.  
+These additional materials may include 
+  - web pages with walkthroughs or instructional materials and downloadable files to work with
+  - a website with training information and downloadable Jupyter notebooks teaching users how to perform a modeling task
+  - a more extensive online course-like format with recorded lectures.  
+
+**Scope of tutorials**: Tutorials should endeavor to cover a specific task or set of tasks at hand with explicit instructions, rather than cover too much information in a less detailed manner. However, they should also highlight how the steps might need to be modified, or additional care might need to be taken at particular points, to handle more general cases.  
 
 The scope of the tutorial, as well as the expected proficiencies / outcomes for researchers who complete the tutorial, should be clearly defined.
 
 **Prerequisites for tutorials**: Tutorials should clearly define what concepts or abilities researchers will need to complete the tutorial (e.g., some proficiency in Python; experience with Jupyter notebooks; knowledge of classical MD; etc).
 
-Tutorials should clearly define what system and/or software requirements the researcher will need to complete the tutorial (e.g., VMD version 1.9 or newer, AMBER, etc.). Tutorials requiring specific software packages must provide instructions and files for the referenced version of the software. 
+Tutorials should clearly define what system and/or software requirements the researcher will need to complete the tutorial (e.g., VMD version 1.9 or newer, AMBER, etc.). Tutorials requiring specific software packages must provide instructions and files for the referenced version of the software, as well as any information that might affect the output (e.g., what precision the binaries were compiled, what machines they were compiled on). 
 
-**Pre-existing tutorials**: The submission of existing tutorials, so long as they meet journal standards, is explicitly welcomed.
+**Pre-existing tutorials**: The submission of existing tutorials, so long as they meet the journal standards described here, is explicitly welcomed.
 Our goal is to encourage the development of high quality tutorials by providing some degree of academic credit for these important and time-consuming efforts.
 
 ## Additional factors considered in review of tutorials
