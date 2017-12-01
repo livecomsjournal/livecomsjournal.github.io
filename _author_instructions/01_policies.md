@@ -68,6 +68,12 @@ Additionally, articles should include clear links to, and mention of, the releva
 
 For an example of an article hosted on GitHub in this style (though not a LiveCoMS article), see [the following perpetual review](https://github.com/MobleyLab/benchmarksets).
 
+### Copyright license
+
+In order to publish the article, LiveCoMS requires that authors sign (an additional contributor license)[LiveCoMS_contributor_license.pdf] to clarify LiveCoMS rights to publish the article, regardless of the license the author uses in the their own release of the article on GitHub.  This document also to confirms that the authors grant the publisher the right to distribute their article and that the authors are legally entitled to do so for all the material in the article.  
+
+This agreement is a license, *not a copyright transfer*; authors retain the copyright for their works, and therefore authors are not restricted in their own use or distribution of their work in any way by this document. 
+
 ### Writing style and editing
 
 Articles for LiveCoMS should aim to be as clear as possible, as they are intended to aid new members of the community, not just experts in the field.
