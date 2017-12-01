@@ -30,7 +30,7 @@ Click each type of article for more information for submitting an article of tha
 
 - [Comparisons of Molecular Simulation Packages](/authors/compare_simulations/) attempt to perform the same calculation with a range of different simulation programs.
 
-- [Tutorials](/authors/tutorials/) provide walkthroughs or instructional materials and are acommpanied by supporting files for use as training material.
+- [Tutorials](/authors/tutorials/) provide walkthroughs or instructional materials and are accompanied by supporting files for use as training material.
 
 - [Lessons Learned](/authors/lessons_learned/) highlight failed studies on a particular topic that are instructive/provide important lessons, helping new authors avoid mistakes encountered previously by others.
 
@@ -68,6 +68,13 @@ Additionally, articles should include clear links to, and mention of, the releva
 
 For an example of an article hosted on GitHub in this style (though not a LiveCoMS article), see [the following perpetual review](https://github.com/MobleyLab/benchmarksets).
 
+### Copyright license
+
+In order to publish the article, LiveCoMS requires that authors sign (an additional contributor license)[LiveCoMS_contributor_license.pdf] to clarify LiveCoMS rights to publish the article, regardless of the license the author uses in the their own release of the article on GitHub.  This document also to confirms that the authors grant the publisher the right to distribute their article and that the authors are legally entitled to do so for all the material in the article.  
+
+This agreement is a license, *not a copyright transfer*; authors retain the copyright for their works, and therefore authors are not restricted in their own use or distribution of their work in any way by this document. 
+
+
 ### Writing style and editing
 
 Articles for LiveCoMS should aim to be as clear as possible, as they are intended to aid new members of the community, not just experts in the field.
@@ -80,11 +87,54 @@ In general we recommend authors follow the [ACS Style Guide](http://pubs.acs.org
 - [Writing and word usage](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch004), noting the advice to use direct, declarative sentences, often in active voice
 - [Editorial style](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch010)
 - [Grammar, spelling, and punctuation](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch009)
-- References: in the BibTeX file, enter journals with their standard abbreviations (per [CASSI](http://cassi.cas.org/search.jsp)) and titles in Title Case. As with the main text, check that any special characters are rendered correctly in the final PDF.
+- References: in the BibTeX file, enter journals with their standard abbreviations (per [CASSI](http://cassi.cas.org/search.jsp)) and titles in Title Case. As with the main text, check that any special characters are rendered correctly in the final PDF. 
 
 We also find Plaxco's [The Art of Writing Science](http://dx.doi.org/10.1002/pro.514) to be a particularly helpful concise summary of our desired style.
 
+### References
+Any and all available works can be cited in the reference list. Acceptable sources include:
+
+ - Published or accepted manuscripts
+ - Manuscripts on preprint servers
+ - Websites (include the date of access)
+
+Do not cite the following sources in the reference list:
+
+- Unavailable and unpublished work, including manuscripts that have been submitted but not yet accepted (e.g., "unpublished work," "data not shown"). Instead, include those data as supplementary material or deposit the data in a publicly available database.
+- Personal communications
+
+### Article length
 Articles can have any length; however, you should be as concise as possible.
+
+### Footnotes
+Footnotes are not permitted. If your manuscript contains footnotes,
+move the information into the main text or the reference list,
+depending on the content.
+
+### Language
+
+Articles must be submitted in English.
+
+### Abbreviations
+
+Keep abbreviations to a minimum. Define abbreviations upon first
+appearance in the text. Do not use non-standard abbreviations unless
+they appear at least three times in the text.
+### Authors names
+
+On the title page, write author names in the following order:
+
+ - First name (or initials, if used)
+ - Middle name (or initials, if used)
+ - Last name (surname, family name)
+
+Each author on the list must have an affiliation. The affiliation
+includes department, university, or organizational affiliation and its
+location, including city, state/province (if applicable), and
+country. Authors have the option to include a current address in
+addition to the address of their affiliation at the time of the study.
+At a minimum, the address must include the author’s current
+institution, city, and country.
 
 ### Article layout
 
@@ -342,3 +392,4 @@ appropriate acknowledgment/recognition of the original authors) if
 they have abandoned their article as described above, and that
 LiveCoMS may accept revised versions of papers which have amended
 authorship in such circumstances.
+
