@@ -30,7 +30,7 @@ Click each type of article for more information for submitting an article of tha
 
 - [Comparisons of Molecular Simulation Packages](/authors/compare_simulations/) attempt to perform the same calculation with a range of different simulation programs.
 
-- [Tutorials](/authors/tutorials/) provide walkthroughs or instructional materials and are acommpanied by supporting files for use as training material.
+- [Tutorials](/authors/tutorials/) provide walkthroughs or instructional materials and are accompanied by supporting files for use as training material.
 
 - [Lessons Learned](/authors/lessons_learned/) highlight failed studies on a particular topic that are instructive/provide important lessons, helping new authors avoid mistakes encountered previously by others.
 
