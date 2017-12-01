@@ -39,7 +39,7 @@ either Managing Editors or Associate Editors.
     1. Associate Editors assign manuscripts to reviewers, collect
        these reviews, and make recommendations to the Section Lead
        Editors about acceptance, rejection, or requests for revision.
-    1. The Recording Secretary will coordinate and maintain confidentiality of votes of the Editorial Board, record minutes of meetings of the Editorial Board, and track appointment terms.
+    1. The Recording Secretary will coordinate and maintain confidentiality of votes of the Editorial Board, ensure that minutes of meetings of the Editorial Board are recorded, and track appointment terms.
 
 1. Selection process
     1. Members of the Editorial Board will be elected by a two-thirds vote of the Editorial Board.
@@ -68,15 +68,15 @@ either Managing Editors or Associate Editors.
 ## III. Conflicts of interest
 1. A potential "conflict of interest" is a circumstance which might affect one's ability to provide a fair and objective evaluation of a work, or which might reasonably be seen as having a likelihood of doing so by an independent outside observer.
 When in doubt, potential conflicts of interest should always be disclosed. Common causes of conflicts of interest, for reviewers and editors, include:
-    1. Being a close co-author on a paper with an author in the previous 48 months. "Close co-author" is defined as serving as corresponding author and/or first author together, or equivalent close collaboration.
+    1. Being a close co-author on a paper with an author in the previous 36 months. "Close co-author" is defined as serving as corresponding author and/or first author together, or equivalent close collaboration.
        This definition was chosen to avoid overly restrictive limitations for papers with large numbers of loosely-associated contributing authors, and will have some leeway for interpretation as outlined below.
-    1. Being a co-awardee on a grant at any time in the in the previous 48 months.
+    1. Being a co-awardee on a grant at any time in the in the previous 36 months.
     1. Previously serving as a undergraduate, graduate, or postdoctoral supervisor or supervisee.
     1. Serving at the same institution, or if there is a potential change of institution in progress that would result in being at the same institution.
-    1. Having a business relationship (such as serving as a consultant for or part owner of same company) within the previous 48 months.
+    1. Having a business relationship (such as serving as a consultant for or part owner of same company) within the previous 36 months.
 1. All reviewers are responsible for reviewing our Conflict of Interest definitions and disclosing any potential conflicts of interest to the editor handling the submission; if the reviewer believes there may actually be a conflict of interest he or she should decline to review.
 
-1. Editors will try to ensure that they select reviewers who have no potential conflicts of interest.  If the reviewer has or becomes aware of a potential conflict of interest, he or she will report it to the editor so the manuscript may be reassigned. The reviewer should also disclose any co-authorship relationships from the previous 48 months, whether or not these are close co-authorships.
+1. Editors will try to ensure that they select reviewers who have no potential conflicts of interest.  If the reviewer has or becomes aware of a potential conflict of interest, he or she will report it to the editor so the manuscript may be reassigned. The reviewer should also disclose any co-authorship relationships from the previous 36 months, whether or not these are close co-authorships.
 
     1. If it is later discovered during the review process that a reviewer has a potential conflict of interest, the editor will assess the severity of the potential conflict (potentially in consultation with the Section Lead Editor) and potentially discard the review, seeking another.
 
@@ -86,13 +86,12 @@ When in doubt, potential conflicts of interest should always be disclosed. Commo
 1. Parallel policies hold in the case of the Section Lead Editor assigning an Associate Editor a paper.
     1. Section Lead Editors will try to not assign papers to editors who have potential conflicts of interest, and Associate Editors will notify Section Lead Editors if they are assigned a manuscript which raises potential conflict of interest concerns.
     1. Co-authorships that are not considered close will be reported to the Section Lead Editors.
-    1. If an Associate Editor is later discovered to have a potential conflict of interest, the manuscript will be assigned by the Section Lead Editor to another Associate Editor, who will evaluate whether new reviewers should be invited.
+    1. If an Associate Editor is later discovered to have a potential conflict of interest, the manuscript will be assigned by the Section Lead Editor to another member of the Editorial Board, who will evaluate whether new reviewers should be invited.
     1. If a potential conflict of interest is found after acceptance, the Section Lead Editor will evaluate whether bias may have unduly affected the acceptance. If so, a similar committee of three Associate Editors will investigate if the acceptance was fraudulent.
 
 1. If a Section Lead Editor has a potential conflict of interest involving a submission, the assignment to Associate Editors will be made by another Section Lead Editor.
 The order of reassignment will be cyclic; if Section Lead Editor A has a
-conflict, it will got to Section Lead Editor B, unless they also have a potential conflict, in which case it will go to C, and so on, returning to A
-after the sequence of sections is exhausted.
+conflict, it will got to Section Lead Editor B, unless they also have a potential conflict, in which case it will go to C, and so on, returning to A after the sequence of sections is exhausted.
 In the case that all of the Section Lead Editors have potential conflicts, the Managing Editors will select an Associate Editor to assign an Associate Editor, with the order rotating as follows:
     1. Comparison of Molecular Simulation Package Editor
     1. Tutorials Editor
@@ -111,8 +110,10 @@ In the case that all of the Section Lead Editors have potential conflicts, the M
        It could include fraudulent data, or fraudulently obtained reviews (through collusion with a reviewer or editor).
 
 1. If there is a suspicion or accusation of fraud or plagiarism, a
-   committee of three members of the Editorial Board will be
-   chosen by the Managing Editors to investigate.
+   committee of three members of the Editorial Board will be chosen by
+   the Managing Editors to investigate. These three members may at
+   their discretion seek external expert advice for analysis of the
+   evidence for fraud.
 
 1. If this committee decides unanimously that fraud or plagiarism
    occurred, then the paper will be removed from the journal, and
