@@ -39,7 +39,7 @@ either Managing Editors or Associate Editors.
     1. Associate Editors assign manuscripts to reviewers, collect
        these reviews, and make recommendations to the Section Lead
        Editors about acceptance, rejection, or requests for revision.
-    1. The Recording Secretary will coordinate and maintain confidentiality of votes of the Editorial Board and record minutes of meetings of the Editorial Board.
+    1. The Recording Secretary will coordinate and maintain confidentiality of votes of the Editorial Board, record minutes of meetings of the Editorial Board, and track appointment terms.
 
 1. Selection process
     1. Members of the Editorial Board will be elected by a two-thirds vote of the Editorial Board.
@@ -54,8 +54,8 @@ either Managing Editors or Associate Editors.
         1. All criteria outlined for Associate Editors, plus demonstrated excellence serving as an Associate Editor.
     1. The Recording Secretary will be nominated by the Managing Editors from among the Associate Editors.
 1. Appointment Terms
-    1. Appointment for all positions are for three years, which may be extended for an unlimited number of terms by a vote of two/thirds of the remaining Editorial Board. If the terms of more than one third of the Editorial Board end at the same time, all may remain in their positions for long enough for additional editors be appointed, or one month, which ever comes first.
-    2. At the time the bylaws are adopted, initial terms for the three Managing Editors will be for two, three, and four years, determined by mutual agreement or random chance if no agreement is reached.
+    1. Appointment for all positions are for three years, which may be extended for an unlimited number of terms by a vote of two/thirds of the remaining Editorial Board. If the terms of more than one third of the Editorial Board end at the same time, all may remain in their positions for long enough for additional editors be appointed, or three months, which ever comes first.
+    1. At the time the bylaws are adopted, initial terms for the three Managing Editors will be for two, three, and four years, determined by mutual agreement or (pseudo-)random chance if no agreement is reached.
 1. Voting
     1. All votes described in the bylaws are tallied based on the fraction
        of the Editorial Board responding within one week written notice
