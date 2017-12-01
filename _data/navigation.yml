@@ -127,12 +127,29 @@ authors_lessons_learned.md:
     - title: Revision schedule for "lessons learned" documents
       url: /authors/lessons_learned/index.html#revision-schedule-for-lessons-learned-documents
 
-policies_editorial_board.md:
-  - title: Policies About the Editorial Board
-    url: /policies/editorial_board/index.html#
+policies_bylaws.md:
+  - title: Bylaws of the Living Journal of Computational Molecular Science
+    url: /policies/livecoms_bylaws/index.html#
     children:
-    - title: Policies on Decisions
-      url: /policies/editorial_board/index.html#policies-on-decisions
+    - title: I. Organization Title and Publication
+      url: /policies/livecoms_bylaws/index.html#i-organization-title-and-publication
+    - title: II. Editorial Board
+      url: /policies/livecoms_bylaws/index.html#ii-editorial-board
+    - title: III. Conflicts of interest
+      url: /policies/livecoms_bylaws/index.html#iii-conflicts-of-interest
+    - title: IV. Fraud and Plagiarism
+      url: /policies/livecoms_bylaws/index.html#iv-fraud-and-plagiarism
+    - title: V. Review Process
+      url: /policies/livecoms_bylaws/index.html#v-review-process
+    - title: VI. Amendments
+      url: /policies/livecoms_bylaws/index.html#vi-amendments
+
+reviewing.md:
+  - title: Policies About Review of Manuscripts
+    url: /policies/reviewing/index.html#
+    children:
+    - title: Conflicts of interest
+      url: /policies/reviewing/index.html#conflicts-of-interest
 
 editor_instructions.md:
   - title: Instructions for Editors
