@@ -28,6 +28,10 @@ authors_policies.md:
         url: /authors/policies/index.html#writing-style-and-editing
       - title: Article layout
         url: /authors/policies/index.html#article-layout
+      - title: References
+        url: /authors/policies/index.html#references
+      - title: Error analysis
+        url: /authors/policies/index.html#error-analysis
       - title: Representative image
         url: /authors/policies/index.html#representative-image
       - title: Preprints
@@ -147,6 +151,22 @@ reviewing.md:
     - title: Conflicts of interest
       url: /policies/reviewing/index.html#conflicts-of-interest
 
+editor_instructions.md:
+  - title: Instructions for Editors
+    url: /policies/editor_instructions/index.html#
+    children:
+    - title: Workflow overview
+      url: /policies/editor_instructions/index.html#workflow-overview
+    - title: Pre-review processing
+      url: /policies/editor_instructions/index.html#pre-review-processing
+      children:
+      - title: Lead Editor
+        url: /policies/editor_instructions/index.html#lead-editor
+      - title: Associate Editor
+        url: /policies/editor_instructions/index.html#associate-editor
+    - title: Review handling
+      url: /policies/editor_instructions/index.html#review-handling
+
 about_paper_code.md:
   - title: Paper writing as code development
     url: /about/paper_code/index.html#
@@ -157,3 +177,11 @@ about_paper_code.md:
       url: /about/paper_code/index.html#tools-for-paper-writingcode-development
     - title: How it works in practice
       url: /about/paper_code/index.html#how-it-works-in-practice
+
+thanks.md:
+  - title: Thanks
+    url: /about/thanks/index.html#
+
+earlycareer.md:
+  - title: For Students and Early Career Scientists
+    url: /about/earlycareer/index.html#

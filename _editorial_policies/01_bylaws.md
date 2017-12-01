@@ -14,7 +14,7 @@ Molecular Science, hereafter referred to as LiveCoMS.
 
 LiveCoMS shall produce one publication, the Living Journal of
 Computational Molecular Science, with articles released on a rolling
-basis online. LiveCoMS provides a home for peer-reviewed home manuscripts
+basis online. LiveCoMS provides a home for peer-reviewed manuscripts
 which advance best practices in molecular modeling and simulation. These
 works are living documents, regularly updated with community input,
 and can include living or perpetual reviews, tutorials, comparisons
@@ -30,7 +30,7 @@ either Managing Editors or Associate Editors.
 
 1. Responsibilities
     1. The Managing Editors coordinate the operation of the Journal and
-       the finances of the journal, maintain the online presence.
+       the finances of the journal and maintain the online presence.
        Tasks may be divided up among managing editors as they see fit, and specific individual tasks may be assigned to individual associate editors.
     1. Section Lead Editors handle submitted manuscripts and assign
        all manuscripts to associate lead editors.
@@ -47,11 +47,11 @@ either Managing Editors or Associate Editors.
     1. Associate editors will be elected based on:
         1. Demonstrated scholarly expertise in computational molecular science, broadly defined.
         1. Stated commitment to contribute to the decision making and maintenance of LiveCoMS.
-        1. Candidates will be favored who have shown excellence in reviewing for LiveCoMS, based on independent evaluations of the members of the Editorial Board, and who have a history of contributing manuscripts to LiveCoMS.
+        1. Candidates will be favored who have shown excellence in reviewing assignments for LiveCoMS, based on independent evaluations of the members of the Editorial Board, and who have a history of contributing manuscripts to LiveCoMS.
         1. Diversity in career background, geographical perspectives, life experiences, and any other factors that are seen as beneficial to represent the broader community, provide fairness in decisions, and include a range of viewpoints.
         1. All members on the Editorial Board shall be elected in a fair, impartial, and confidential process without regard to race, nationality, religion, gender or gender identity, sexual orientation, or familial or economic status.
     1. Managing Editors will be elected based on:
-        1. all criteria outlined for Associate Editors, plus demonstrated excellence serving as an Associate Editor.
+        1. All criteria outlined for Associate Editors, plus demonstrated excellence serving as an Associate Editor.
     1. The Recording Secretary will be nominated by the Managing Editors from among the Associate Editors.
 1. Appointment Terms
     1. Appointment for all positions are for three years, which may be extended for an unlimited number of terms by a vote of two/thirds of the remaining Editorial Board. If the terms of more than one third of the Editorial Board end at the same time, all may remain in their positions for long enough for additional editors be appointed, or one month, which ever comes first.
@@ -68,11 +68,11 @@ either Managing Editors or Associate Editors.
 ## III. Conflicts of interest
 1. A potential "conflict of interest" is a circumstance which might affect one's ability to provide a fair and objective evaluation of a work, or which might reasonably be seen as having a likelihood of doing so by an independent outside observer.
 When in doubt, potential conflicts of interest should always be disclosed. Common causes of conflicts of interest, for reviewers and editors, include:
-    1. being a close co-author on a paper with an author in the previous 48 months. "Close co-author" is defined as serving as corresponding author and/or first author together, or equivalent close collaboration.
+    1. Being a close co-author on a paper with an author in the previous 48 months. "Close co-author" is defined as serving as corresponding author and/or first author together, or equivalent close collaboration.
        This definition was chosen to avoid overly restrictive limitations for papers with large numbers of loosely-associated contributing authors, and will have some leeway for interpretation as outlined below.
-    1. being a co-awardee on a grant at any time in the in the previous 48 months.
-    1. previously serving as a undergraduate, graduate, or postdoctoral supervisor or supervisee.
-    1. serving at the same institution, or if there is a potential change of institution in progress that would result in being at the same institution.
+    1. Being a co-awardee on a grant at any time in the in the previous 48 months.
+    1. Previously serving as a undergraduate, graduate, or postdoctoral supervisor or supervisee.
+    1. Serving at the same institution, or if there is a potential change of institution in progress that would result in being at the same institution.
     1. having a business relationship (such as serving as a consultant for or part owner of same company) within the previous 48 months.
 1. All reviewers are responsible for reviewing our Conflict of Interest definitions and disclosing any potential conflicts of interest to the editor handling the submission; if the reviewer believes there may actually be a conflict of interest he or she should decline to review.
 
@@ -91,15 +91,15 @@ When in doubt, potential conflicts of interest should always be disclosed. Commo
 
 1. If a Section Lead Editor has a potential conflict of interest involving a submission, the assignment to Associate Editors will be made by another Section Lead Editor.
 The order of reassignment will be cyclic; if Section Lead Editor A has a
-flict, it will got to Section Lead Editor B, unless they also have a potential conflict, in which case it will go to C, and so on, returning to A
-n the sections are exhausted.
+conflict, it will got to Section Lead Editor B, unless they also have a potential conflict, in which case it will go to C, and so on, returning to A
+after the sequence of sections are exhausted.
 In the case that all of the Section Lead Editors have potential conflicts, the Managing Editors will select an Associate Editor to assign an Associate Editor, with the order rotating as follows:
     1. Comparison of Molecular Simulation Package Editor
     1. Tutorials Editor
     1. Best Practices Editor
     1. Review Editor
     1. Lessons Learned Editor
-    1. continuing with editors of other sections, in order they are chronologically added to the journal.
+    1. Continuing with editors of other sections, in order they are chronologically added to the journal.
 
 ## IV. Fraud and Plagiarism
 

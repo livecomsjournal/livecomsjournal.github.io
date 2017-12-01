@@ -27,6 +27,7 @@ def get_permalink(filename, category):
 
 def make_link_from_heading(heading):
     translator = str.maketrans('', '', string.punctuation)
+    translator.pop(45)  # don't replace '-'
     return heading.translate(translator).lower().replace(' ', '-')
 
 
