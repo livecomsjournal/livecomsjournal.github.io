@@ -24,7 +24,7 @@ feature_row:
     url: /about/
     # image_path: assets/images/about.jpg
     # alt: "About LiveCoMS"
-    excerpt: "Learn more about the model of LiveCoMS"
+    excerpt: "Learn more about the LiveCoMS journal"
 ---
 
 {% include feature_row id="intro" type="center" %}
