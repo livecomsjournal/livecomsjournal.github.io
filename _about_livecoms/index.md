@@ -9,6 +9,14 @@ header:
 excerpt: "About LiveCoMS"
 ---
 
+The Living Journal of Computational Molecular Science (LiveCoMS)
+provides a peer-reviewed home for manuscripts which share best
+practices in molecular modeling and simulation. These works are living
+documents, regularly updated with community input, and can include
+perpetual updated reviews, tutorials, comparisons between software
+packages, and other documents which aim to improve the studies in the
+field and require ongoing updates. 
+
 {% for collection in site.collections %}
   {% if collection.label == "about_livecoms" %}
     {% for post in collection.docs %}
