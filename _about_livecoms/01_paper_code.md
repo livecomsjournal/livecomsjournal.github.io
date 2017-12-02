@@ -2,7 +2,7 @@
 layout: single
 sidebar:
   nav: about_paper_code.md
-title: Paper Writing as code Development
+title: Paper Writing as Code Development
 excerpt: Why a code development model can be used to improve paper writing as well.
 permalink: /about/paper_code/
 ---
