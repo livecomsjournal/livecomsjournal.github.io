@@ -283,7 +283,7 @@ reviewer_information.md:
         url: /policies/reviewer_information/index.html#rejection
 
 about_paper_code.md:
-  - title: Paper Writing as code Development
+  - title: Paper Writing as Code Development
     url: /about/paper_code/index.html#
     children:
     - title: Incentives
