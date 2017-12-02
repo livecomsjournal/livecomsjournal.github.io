@@ -24,12 +24,18 @@ authors_policies.md:
     - title: Preparation of Your Article For Submission
       url: /authors/policies/index.html#preparation-of-your-article-for-submission
       children:
+      - title: Copyright license
+        url: /authors/policies/index.html#copyright-license
       - title: Writing style and editing
         url: /authors/policies/index.html#writing-style-and-editing
       - title: Article layout
         url: /authors/policies/index.html#article-layout
       - title: References
         url: /authors/policies/index.html#references
+      - title: Figures
+        url: /authors/policies/index.html#figures
+      - title: Tables
+        url: /authors/policies/index.html#tables
       - title: Error analysis
         url: /authors/policies/index.html#error-analysis
       - title: Representative image
@@ -127,6 +133,88 @@ authors_lessons_learned.md:
     - title: Revision schedule for "lessons learned" documents
       url: /authors/lessons_learned/index.html#revision-schedule-for-lessons-learned-documents
 
+authors_policies.md:
+  - title: General Author Instructions
+    url: /authors/policies/index.html#
+    children:
+    - title: Introduction
+      url: /authors/policies/index.html#introduction
+    - title: General Article Guidelines
+      url: /authors/policies/index.html#general-article-guidelines
+    - title: Types of Articles
+      url: /authors/policies/index.html#types-of-articles
+  - title: Before Submission
+    url: /authors/policies/index.html#before-submission
+    children:
+    - title: Presubmission Letter
+      url: /authors/policies/index.html#presubmission-letter
+    - title: Preparation of Your Article For Submission
+      url: /authors/policies/index.html#preparation-of-your-article-for-submission
+      children:
+      - title: Copyright license
+        url: /authors/policies/index.html#copyright-license
+      - title: Writing style and editing
+        url: /authors/policies/index.html#writing-style-and-editing
+      - title: References
+        url: /authors/policies/index.html#references
+      - title: Article length
+        url: /authors/policies/index.html#article-length
+      - title: Footnotes
+        url: /authors/policies/index.html#footnotes
+      - title: Language
+        url: /authors/policies/index.html#language
+      - title: Abbreviations
+        url: /authors/policies/index.html#abbreviations
+      - title: Authors names
+        url: /authors/policies/index.html#authors-names
+      - title: Article layout
+        url: /authors/policies/index.html#article-layout
+      - title: References
+        url: /authors/policies/index.html#references
+      - title: Figures
+        url: /authors/policies/index.html#figures
+      - title: Tables
+        url: /authors/policies/index.html#tables
+      - title: Error analysis
+        url: /authors/policies/index.html#error-analysis
+      - title: Representative image
+        url: /authors/policies/index.html#representative-image
+      - title: Preprints
+        url: /authors/policies/index.html#preprints
+  - title: Submission and the Review Process
+    url: /authors/policies/index.html#submission-and-the-review-process
+    children:
+    - title: Article submission
+      url: /authors/policies/index.html#article-submission
+    - title: The review process
+      url: /authors/policies/index.html#the-review-process
+    - title: Review criteria
+      url: /authors/policies/index.html#review-criteria
+    - title: The Revision Process
+      url: /authors/policies/index.html#the-revision-process
+  - title: Updating LiveCoMS Articles
+    url: /authors/policies/index.html#updating-livecoms-articles
+    children:
+    - title: Engaging the Community in Improving Articles
+      url: /authors/policies/index.html#engaging-the-community-in-improving-articles
+    - title: Paper Writing as Code Development
+      url: /authors/policies/index.html#paper-writing-as-code-development
+  - title: Authorship and Changes to Authorship
+    url: /authors/policies/index.html#authorship-and-changes-to-authorship
+  - title: Other Policies for Submitted Articles
+    url: /authors/policies/index.html#other-policies-for-submitted-articles
+    children:
+    - title: Funding Compliance
+      url: /authors/policies/index.html#funding-compliance
+    - title: Licensing
+      url: /authors/policies/index.html#licensing
+    - title: Prior Publication
+      url: /authors/policies/index.html#prior-publication
+    - title: Author contributions and order
+      url: /authors/policies/index.html#author-contributions-and-order
+    - title: Abandoned Documents
+      url: /authors/policies/index.html#abandoned-documents
+
 policies_bylaws.md:
   - title: Bylaws of the Living Journal of Computational Molecular Science
     url: /policies/livecoms_bylaws/index.html#
@@ -144,13 +232,6 @@ policies_bylaws.md:
     - title: VI. Amendments
       url: /policies/livecoms_bylaws/index.html#vi-amendments
 
-reviewing.md:
-  - title: Policies About Review of Manuscripts
-    url: /policies/reviewing/index.html#
-    children:
-    - title: Conflicts of interest
-      url: /policies/reviewing/index.html#conflicts-of-interest
-
 editor_instructions.md:
   - title: Instructions for Editors
     url: /policies/editor_instructions/index.html#
@@ -167,8 +248,42 @@ editor_instructions.md:
     - title: Review handling
       url: /policies/editor_instructions/index.html#review-handling
 
+reviewing.md:
+  - title: Policies About Review of Manuscripts
+    url: /policies/reviewing/index.html#
+    children:
+    - title: LiveCoMS review
+      url: /policies/reviewing/index.html#livecoms-review
+    - title: Conflicts of interest
+      url: /policies/reviewing/index.html#conflicts-of-interest
+
+reviewer_information.md:
+  - title: Information for Reviewers
+    url: /policies/reviewer_information/index.html#
+    children:
+    - title: Brief overview of the review process
+      url: /policies/reviewer_information/index.html#brief-overview-of-the-review-process
+    - title: Reviewer letters
+      url: /policies/reviewer_information/index.html#reviewer-letters
+      children:
+      - title: Sample review request letter
+        url: /policies/reviewer_information/index.html#sample-review-request-letter
+      - title: Sample review action/thanks for agreeing letter
+        url: /policies/reviewer_information/index.html#sample-review-actionthanks-for-agreeing-letter
+      - title: Reviewer ranking questions
+        url: /policies/reviewer_information/index.html#reviewer-ranking-questions
+    - title: Sample decision letters
+      url: /policies/reviewer_information/index.html#sample-decision-letters
+      children:
+      - title: Minor revisions
+        url: /policies/reviewer_information/index.html#minor-revisions
+      - title: More significant revisions
+        url: /policies/reviewer_information/index.html#more-significant-revisions
+      - title: Rejection
+        url: /policies/reviewer_information/index.html#rejection
+
 about_paper_code.md:
-  - title: Paper writing as code development
+  - title: Paper Writing as code Development
     url: /about/paper_code/index.html#
     children:
     - title: Incentives
