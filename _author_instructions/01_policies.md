@@ -171,9 +171,10 @@ When ready for submission, the author uploads the final article PDF (created usi
 The authors must also submit with the final article PDF:
 
   * A cover letter with suggestions for 4--5 reviewers and that notes any deviations from what was laid out in the presubmission letter.  Reviewers will also be entered on the submission form.
-  * As a single PDF file, a copy of the presubmission letter, appended with the response recieved from the Section Lead Editor approving the presubmission and specifying any changes or modifications to the scope. This should be uploaded as a "Supporting File", with the descriptor "Presubmission Letter"  
+  * As a single PDF file, a copy of their presubmission letter, appended with the response recieved from the Section Lead Editor approving the presubmission and specifying any changes or modifications to the scope the editors requested.
+This should be uploaded as a "Supporting File", with the descriptor "Presubmission Letter"
   * A representative image as noted above which will appear on the article's page on the journal.
-  * Any Supporting Files that are intended for distribution with the final paper should also be uploaded at this time. There is no explicit limit to the number of files, though if there are many similar data files, they should be uploaded as a `.tgz'ed or `.zip`ed directory and include a README.md or README.txt file.  
+  * Any Supporting Files that are intended for distribution with the final paper should also be uploaded at this time. There is no explicit limit to the number of files that can be added, though if there are many similar data files, they should be uploaded as a `.tgz'ed or `.zip`ed directory and include a README.md or README.txt file.
 
 Article submission also involves paying a nominal charge of of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
 This is handled through Stripe Connect and can be paid via any major credit card.
