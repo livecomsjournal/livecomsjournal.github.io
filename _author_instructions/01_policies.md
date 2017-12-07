@@ -176,7 +176,7 @@ This should be uploaded as a "Supporting File", with the descriptor "Presubmissi
   * A representative image as noted above which will appear on the article's page on the journal.
   * Any Supporting Files that are intended for distribution with the final paper should also be uploaded at this time. There is no explicit limit to the number of files that can be added, though if there are many similar data files, they should be uploaded as a `.tgz`ed or `.zip`ed directory and include a README.md or README.txt file.
 
-Article submission also involves paying a nominal charge of of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
+Article submission also involves paying a nominal charge of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
 This is handled through Stripe Connect and can be paid via any major credit card.
 
 ## The review process
