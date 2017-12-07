@@ -44,6 +44,7 @@ either Managing Editors or Associate Editors.
 1. Selection process
     1. Members of the Editorial Board will be elected by a two-thirds vote of the Editorial Board.
         1. Managing Editors and Section Lead Editors will be elected by a two-thirds vote of the entire Editorial Board by the other current members of the Editorial Board when there is a vacancy in either capacity.
+        2. Because the Journal currently published by the University of Colorado Boulder (UCB), at least one Managing Editor shall be a faculty member at UCB, unless and until UCB assigns its interest to another party. 
     1. Associate editors will be elected based on:
         1. Demonstrated scholarly expertise in computational molecular science, broadly defined.
         1. Stated commitment to contribute to the decision making and maintenance of LiveCoMS.
@@ -144,3 +145,5 @@ In the case that all of the Section Lead Editors have potential conflicts, the M
 
    These bylaws may be amended by two-thirds of the vote of the entire
    Editorial Board.
+
+This version of the bylaws dated December 12, 2017.
