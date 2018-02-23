@@ -10,6 +10,7 @@ permalink: /authors/lessons_learned/
 ## What is a "lesson learned" (i.e., negative results) document?
 Research inherently involves failure, but without documentation of negative results, investigators are doomed to repeat prior mistakes.
 The "Lessons Learned" category will address this gap in the literature in a topic-based way - e.g., "Lessons Learned in Potential of Mean Force Computation."
+Each article should be broadly useful, with the potential to aid in the planning of a significant number of studies.
 Authors will be encouraged to add to an existing topic when possible and appropriate (and receive formal authorship credit, as dicsussed elsewhere).
 
 ## Manuscript preparation instructions
@@ -21,6 +22,7 @@ Data analysis should conform to [best practices](https://github.com/dmzuckerman/
 ## Additional factors considered in review of "lessons learned" documents
 Reviewers will consider the following factors in reviewing "lessons learned" document.
 * Is the motivation for the approach clearly described and reasonable given existing literature?
+* Are the "lessons" provided likely to be of value to a significant number of researchers?
 * Is the procedure used fully described (and derived mathematically if appropriate) to enable a reader to reproduce the results?
 * Are any needed supported files provided?
 * Has data analysis been performed in conformance with best practices?
