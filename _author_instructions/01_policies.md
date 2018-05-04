@@ -94,7 +94,7 @@ Articles can have any length; however, you should be as concise as possible.
 
 ### Article layout
 
-You are responsible for preparing your article PDF and materials in the way you want them to appear in LiveCoMS [using our templates](http://www.github.com/livecoms/author_templates), so it is important to take some care as to how your submitted materials look.
+You are responsible for preparing your article PDF and materials in the way you want them to appear in LiveCoMS [using our templates](http://www.github.com/livecomsjournal/article_templates), so it is important to take some care as to how your submitted materials look.
 LiveCoMS will not be separately typesetting your article for you, so be careful that your materials are laid out well.
 Be sure to pay particular attention to:
 - Place your figures and tables appropriately in the document (following the paragraph that first references them), rather than collecting them at the end. Do not not move the figures and tables in the LaTeX document to change where they appear. Instead, use the [LaTeX placement options](https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions) to adjust positioning.
@@ -103,7 +103,7 @@ Be sure to pay particular attention to:
 
 ### References
 
-References should be prepared in BibTeX format, as discussed further in our [article templates](http://www.github.com/livecoms/author_templates) repository, and cited in LaTeX as normal.
+References should be prepared in BibTeX format, as discussed further in our [article templates](http://www.github.com/livecomsjournal/article_templates/bibliography_guidelines.md) repository, and cited in LaTeX as normal.
 Our templates provide a bibliography style file (`.bst`) and use the `natbib` package; they will standardize format of your references to a reasonable extent.
 However, it is still important that your references use Title Case for article titles, and that they use journal title abbreviations.
 You are responsible for checking that any special characters appear properly, and otherwise ensuring that your final reference list is correct and well-formatted, including sufficient detail.
