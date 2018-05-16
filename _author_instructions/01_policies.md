@@ -103,7 +103,7 @@ Be sure to pay particular attention to:
 
 ### References
 
-References should be prepared in BibTeX format, as discussed further in our [article templates](http://www.github.com/livecomsjournal/article_templates/bibliography_guidelines.md) repository, and cited in LaTeX as normal.
+References should be prepared in BibTeX format, as discussed further in our [article templates](https://github.com/livecomsjournal/article_templates/blob/master/bibliography_guidelines.md) repository, and cited in LaTeX as normal.
 Our templates provide a bibliography style file (`.bst`) and use the `natbib` package; they will standardize format of your references to a reasonable extent.
 However, it is still important that your references use Title Case for article titles, and that they use journal title abbreviations.
 You are responsible for checking that any special characters appear properly, and otherwise ensuring that your final reference list is correct and well-formatted, including sufficient detail.
