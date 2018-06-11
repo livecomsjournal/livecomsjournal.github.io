@@ -70,7 +70,7 @@ For an example of an article hosted on GitHub in this style (though not a LiveCo
 
 ### Copyright license
 
-In order to publish the article, LiveCoMS requires that authors sign (an additional contributor license)[LiveCoMS_contributor_license.pdf] to clarify LiveCoMS rights to publish the article, regardless of the license the author uses in their own release of the article on GitHub.  This document also to confirms that the authors grant the publisher the right to distribute their article and that the authors are legally entitled to do so for all the material in the article.  
+In order to publish the article, LiveCoMS requires that authors sign [an additional contributor license](LiveCoMS_contributor_license.pdf) to clarify LiveCoMS rights to publish the article, regardless of the license the author uses in their own release of the article on GitHub.  This document also to confirms that the authors grant the publisher the right to distribute their article and that the authors are legally entitled to do so for all the material in the article.  
 
 This agreement is a license, *not a copyright transfer*; authors retain the copyright for their works, and therefore authors are not restricted in their own use or distribution of their work in any way by this document. 
 
@@ -166,15 +166,14 @@ Posting to a preprint server can be done at any time prior to submission.
 ## Article submission
 
 When ready for submission, the author uploads the final article PDF (created using the [LiveCoMS templates](https://github.com/livecomsjournal/article_templates), discussed above) and a link to the GitHub site for the article.
-[Full submission instructions are available through Scholastica](http://help.scholasticahq.com/customer/portal/articles/1218626), our journal management system.
+[General Scholastica submission instructions are available through on the Scholastica help page](http://help.scholasticahq.com/customer/portal/articles/1218626), our journal management system. There are a [few additional LiveCoMS submission instructions](http://www.livecomsjournal.org/for-authors).  
 
 The authors must also submit with the final article PDF:
 
-  * A cover letter with suggestions for 4-5 reviewers and that notes any deviations from what was laid out in the presubmission letter.  Reviewers will also be entered on the submission form.
-  * As a single PDF file, a copy of their presubmission letter, appended with the response recieved from the Section Lead Editor approving the presubmission and specifying any changes or modifications to the scope the editors requested.
-This should be uploaded as a "Supporting File", with the descriptor "Presubmission Letter"
-  * A representative image as noted above which will appear on the article's page on the journal.
-  * Any Supporting Files that are intended for distribution with the final paper should also be uploaded at this time. There is no explicit limit to the number of files that can be added, though if there are many similar data files, they should be uploaded as a `.tgz`ed or `.zip`ed directory and include a README.md or README.txt file.
+  * As part of the submission form, authors will suggest 4-5 reviewers.
+  * As a single PDF file, a copy of their presubmission letter, appended with the response recieved from the Section Lead Editor approving the presubmission and specifying any changes or modifications to the scope the editors requested. The authors should also include a description of any deviations, if any, from what was laid out in the presubmission letter, with a rationale for why the changes. This should be uploaded as a "Supporting File", with the descriptor "Presubmission Letter". 
+  * An image to accompany the paper at least 300 x 200 pixels, any standard image format, color preferred, less than 1MB in size). This image is important to choose carefully, as it is the image that will appear on the article's front page and whenever the paper is shared on social media. We suggest something evocative of the research, but containing less scientific detail than, say, the table of contents image for an ACS journal.
+  * Any Supporting Files that are intended for distribution with the final paper should also be uploaded at this time. There is no explicit limit to the number of files that can be added, though if there are many similar data files, they should be uploaded as a `.tgz`ed or `.zip`ed directory and include a README file.
 
 Article submission also involves paying a nominal charge of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
 This is handled through Stripe Connect and can be paid via any major credit card.
