@@ -180,25 +180,27 @@ This is handled through Stripe Connect and can be paid via any major credit card
 
 ## The review process
 
-The review process generally begins with an editor reviewing your document to check that it is ready for review (e.g., that it uses suitable English, is laid out appropriately and legibly, etc.) and subsequently selecting reviewers.
-If there are major issues at this stage, your article may be returned for revision prior to review.
-Reviews will generally be anonymous, though reviewers will be allowed to make themselves known if they desire.
-Reviewers can also participate directly in revisions through the GitHub website, whether or not they remain anonymous.
-For example, a reviewer could choose to submit a very brief review addressing only suitability, but provide extensive feedback to the authors on the GitHub issue tracker, allowing discussion of how the article should be revised to be done openly.
-This open revision approach may be particularly suitable for articles which will become community resources.
-
-## Review criteria
+The review process generally begins with an editor reviewing your document to check that it is ready for review (e.g., that it uses suitable English, is laid out appropriately and legibly, etc.) and subsequently selecting reviewers. If there are major issues at this stage, your article may be returned for revision prior to review.
 
 A key purpose of the articles is that they should be useful to a range of researchers, but especially beginning researchers.
 Thus, all submitted manuscripts will be reviewed by a member of the student review board, which consists of graduate students and postdocs invited by the editorial board.
 
-Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue tracker.  
-A history of revisions in response to community concerns will impact the review process favorably.
+Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue tracker.   A history of revisions in response to community concerns will impact the review process favorably.
 
-Reviewers will also be asked to assess whether articles are well edited and clearly written.
-Authors whose article uses inconsistent style or poor grammar, or is poorly edited, may be asked to revise and address these issues.
+## Reviewer instructions and review criteria
 
-Reviews will also consider the additional factors according to manuscript category: [please see the individual category links](#types-of-articles) for more information on these review criteria.
+Reviews will by default be anonymous, but reviewers will be allowed to make themselves known if they desire.
+For example, reviewers can participate directly in revisions through the GitHub website.
+For example, a reviewer could choose to submit a very brief review addressing only suitability, but provide extensive feedback to the authors on the GitHub issue tracker, allowing discussion of how the article should be revised to be done openly. This open revision approach may be particularly suitable for articles which will become community resources. Reviewers who choose to remain anonymous may also participate via GitHub issues, though it may be possible for authors to intuit reviews from their GitHub comments.
+
+## Review criteria 
+
+Reviewers will be asked to 
+  1. Assess whether articles are well edited and clearly written.  Authors whose article uses inconsistent style or poor grammar, or is poorly edited, will be asked to revise and address these issues.
+  
+  1. More stuff. 
+
+  1. Specifically comment on consider the review criteria specific to each manuscript category: [please see the individual category links](#types-of-articles) for more information on these review criteria.
 
 
 ## The Revision Process
