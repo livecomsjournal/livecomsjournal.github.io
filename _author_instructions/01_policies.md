@@ -190,8 +190,10 @@ Authors are also encouraged to have other researchers review their content, with
 ## Reviewer instructions and review criteria
 
 Reviews will by default be anonymous, but reviewers will be allowed to make themselves known if they desire.
-For example, reviewers can participate directly in revisions through the GitHub website.
-For example, a reviewer could choose to submit a very brief review addressing only suitability, but provide extensive feedback to the authors on the GitHub issue tracker, allowing discussion of how the article should be revised to be done openly. This open revision approach may be particularly suitable for articles which will become community resources. Reviewers who choose to remain anonymous may also participate via GitHub issues, though it may be possible for authors to intuit reviews from their GitHub comments.
+
+Reviewers, if they wish, can participate directly in revisions through the GitHub website. For example, a reviewer could choose to submit a very brief review addressing only suitability, but provide extensive feedback to the authors on the GitHub issue tracker, allowing discussion of how the article should be revised to be done openly. This open revision approach may be particularly suitable for articles which will become community resources.  While reviewers may to reference comments on the github repo, the review must contain a complete listing of all expected changes in a way that is unambiguous for authors.
+
+Reviewers who choose to remain anonymous may also participate via GitHub issues, though it may be possible for authors to intuit reviews from their GitHub comments.
 
 ## Review criteria 
 
@@ -215,9 +217,7 @@ A unique aspect of LiveCoMS is article versions, where new, updated versions of 
 Once peer reviewed, articles receive new [digital object identifiers (DOIs)](https://www.doi.org/) and are published on the LiveCoMS site as new versions.
 This allows authors to receive credit for ongoing work they do on their articles.
 
-Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted.
-However, release of new peer-reviewed versions via LiveCoMS is warranted only when changes become particularly extensive or important.
-Thus, versioning should typically be done no more frequently than every 12 months.
+Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted. However, release of new peer-reviewed versions via LiveCoMS is warranted only when changes become particularly extensive or important. Thus, versioning should typically be done no more frequently than every 12 months.
 
 The review process for an update to a LiveCoMS article is similar to the review process for the initial version.  
 Additional review criteria will include whether or not issues the community raised on the article's issue tracker were responded to, and whether the revision includes sufficient new material.
