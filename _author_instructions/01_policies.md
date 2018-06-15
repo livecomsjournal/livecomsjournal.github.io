@@ -187,19 +187,7 @@ Reviewers can also participate directly in revisions through the GitHub website,
 For example, a reviewer could choose to submit a very brief review addressing only suitability, but provide extensive feedback to the authors on the GitHub issue tracker, allowing discussion of how the article should be revised to be done openly.
 This open revision approach may be particularly suitable for articles which will become community resources.
 
-## Review criteria
-
-A key purpose of the articles is that they should be useful to a range of researchers, but especially beginning researchers.
-Thus, all submitted manuscripts will be reviewed by a member of the student review board, which consists of graduate students and postdocs invited by the editorial board.
-
-Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue tracker.  
-A history of revisions in response to community concerns will impact the review process favorably.
-
-Reviewers will also be asked to assess whether articles are well edited and clearly written.
-Authors whose article uses inconsistent style or poor grammar, or is poorly edited, may be asked to revise and address these issues.
-
-Reviews will also consider the additional factors according to manuscript category: [please see the individual category links](#types-of-articles) for more information on these review criteria.
-
+For more information about the role of reviewers and the criteria they are asked to use, please see the [Reviewer Information](https://livecomsjournal.github.io/policies/reviewer_information/).
 
 ## The Revision Process
 
