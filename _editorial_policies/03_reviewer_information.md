@@ -14,23 +14,39 @@ A LiveCoMS editor will also have checked that the manuscript appears to be reaso
 Given this preparation, LiveCoMS asks that reviewers respond promptly to review requests and take immediate action on reviewing manuscripts; typically we ask that reviews be returned within 21 days.
 
 The review process is in general similar to typical journals, in that we seek to ensure manuscripts are of high quality and will provide significant benefits to the field.
-However, we do also have specific [review criteria](https://livecomsjournal.github.io/authors/policies/#review-criteria) and we ask reviewers to make sure they are aware of these, including [category-specific review criteria](https://livecomsjournal.github.io/authors/policies/#types-of-articles) relevant to the particular category of article.  Look in each section for the bullet pointed list of review criteria to consider, and respond to each of the relevant points specifically. Additionally, consistent with its pedagogical mission, LiveCoMS requires a graduate student or postdoc review of each manuscript.
+However, we do also have specific [review criteria](https://livecomsjournal.github.io/authors/policies/#review-criteria) and we ask reviewers to make sure they are aware of these, including [category-specific review criteria](https://livecomsjournal.github.io/authors/policies/#types-of-articles) relevant to the particular category of article.  Look in each section for the bullet pointed list of review criteria to consider, and respond to each of the relevant points specifically.
 
-We also have a [Conflicts of Interest policy](https://livecomsjournal.github.io/policies/livecoms_bylaws/#conflicts-of-interest) and reviewers should make sure they are familiar with this and decline to review if they have a conflict, or if they are uncertain, to disclose any potential conflicts to the editor managing the review process.
+We also have a [Conflicts of Interest policy](https://livecomsjournal.github.io/policies/livecoms_bylaws/#conflicts-of-interest) and you as a reviewer should make sure they are familiar with these policies, and decline to review if they have a conflict.  If you are uncertain about a conflict, they should disclose any such potential conflicts to the editor managing the review process.
 
 One unique aspect of the LiveCoMS review process is the opportunity to engage with authors publicly rather than anonymously if you so desire.
 Specifically, if you (as a reviewer) are interested in participating public discussion of the work and helping to improve it, you are free to comment on the issue tracker connected to the GitHub repository associated with the article, which can be a way to work together with the community to help authors improve their article.
-If you choose to do this, it is suggested that you cross-reference GitHub comments in your review for LiveCoMS in an unambiguous way so the author knows exactly what needs to be addressed.  If you wish to remain completely anonymous, we suggest refraining from leaving GitHub comments near the time of your review, as the author will likely be able to guess your identity from the comments.
+If you choose to do this, you should cross-reference GitHub comments in your review for LiveCoMS in an unambiguous way so the author knows exactly what needs to be addressed.  If you wish to remain completely anonymous, we suggest refraining from leaving GitHub comments near the time of your review, as the author will likely be able to guess your identity from the comments.
 
+Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue tracker.   A history of revisions in response to community concerns will impact the review process favorably.
 
-A key purpose of the articles is that they should be useful to a range of researchers, but especially beginning researchers.
-Thus, all submitted manuscripts will be reviewed by a member of the student review board, which consists of graduate students and postdocs invited by the editorial board.
+Reviewers will assess whether articles are well edited and clearly written.
+Authors whose article uses inconsistent style or poor grammar, or is poorly edited, will be asked to revise and address these issues.
 
-Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue tracker.  
-A history of revisions in response to community concerns will impact the review process favorably.
+## Reviewer form
 
-Reviewers will also be asked to assess whether articles are well edited and clearly written.
-Authors whose article uses inconsistent style or poor grammar, or is poorly edited, may be asked to revise and address these issues.
+The reviewer form asks the following questions:
 
-Reviews will also consider the additional factors according to manuscript category: [please see the individual category links](#types-of-articles) for more information on these review criteria.
+*Overall Rating*
+Reviewer will rank from 1-5 stars.
 
+*For this manuscript I recommend...*
+Reviewer will choose between "Accept", "Revise and resubmit", and "Reject"
+
+The reviewer will then answer the following open response questions.  For these responses, the reviewer may also copy the questions to a separate document, respond to them there, and attach the responses.
+
+*What is the level of significance of this work and its suitability for the journal? Is it likely to have a strong positive impact on the targeted set of readers? If this is a revision, what is the significance of the updated material?"
+
+*To what extent does the article engage with current understanding in the scholarly community? If this is a revision, to what extent do the authors engage with the community participating on their GitHub version?*
+
+*In what ways should the paper be improved to be easy to read, free from grammatical errors, have a professional presentation, and meet the article formatting guidelines laid out in the [author policies](https://livecomsjournal.github.io/authors/policies/)?*
+
+*How does the article address the specific reviewer criteria for each article type?* These criteria are listed in the sections for author policies for [Best Practices](https://livecomsjournal.github.io/authors/policies/best_practices/#review-criteria), [Perpetual Reviews](https://livecomsjournal.github.io/authors/policies/perpetual_reviews/#review-criteria), [Tutorials](https://livecomsjournal.github.io/authors/policies/tutorials/#review-criteria),[Comparisons of Computational Software](https://livecomsjournal.github.io/authors/policies/compare_simulations/#review-criteria), and [Lessons Learned](https://livecomsjournal.github.io/authors/policies/lessons_learned/#review-criteria).
+
+*What other comments do you have for the author?*
+
+*What other comments do you have for the editor?* (The response to this question will not be seen by the authors)
