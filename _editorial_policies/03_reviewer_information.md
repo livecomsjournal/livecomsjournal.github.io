@@ -11,7 +11,7 @@ permalink: /policies/reviewer_information/
 
 Before sending manuscripts for review, a lead editor of the relevant LiveCoMS section will have responded favorably to a [presubmission inquiry](https://livecomsjournal.github.io/authors/policies/#presubmission-letter) and then checked that the submitted manuscript indeed conforms to what was originally proposed.
 A LiveCoMS editor will also have checked that the manuscript appears to be reasonably well edited and ready for review.
-Given this preparation, LiveCoMS asks that reviewers respond promptly to review requests and take immediate action on reviewing manuscripts; typically we ask that reviews be returned within 21 days.
+Given this preparation, LiveCoMS asks that reviewers respond promptly to review requests and take immediate action on reviewing manuscripts; typically we ask that reviews be returned within 15 days.
 
 The review process is in general similar to typical journals, in that we seek to ensure manuscripts are of high quality and will provide significant benefits to the field.
 However, we do also have specific [review criteria](https://livecomsjournal.github.io/authors/policies/#review-criteria) and we ask reviewers to make sure they are aware of these, including [category-specific review criteria](https://livecomsjournal.github.io/authors/policies/#types-of-articles) relevant to the particular category of article.  Look in each section for the bullet pointed list of review criteria to consider, and respond to each of the relevant points specifically.

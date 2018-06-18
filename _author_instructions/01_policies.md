@@ -188,7 +188,7 @@ For example, a reviewer could choose to submit a very brief review addressing on
 This open revision approach may be particularly suitable for articles which will become community resources.
 
 
-A key criteria for article in LiveCOMS is that they should be useful to a range of researchers, but especially beginning researchers.
+A key criteria for articles in LiveCOMS is that they should be useful to a range of researchers, but especially beginning researchers.
 Thus, all submitted manuscripts will be reviewed by a graduate students or postdoc invited by the editorial board.
 
 Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue tracker.
