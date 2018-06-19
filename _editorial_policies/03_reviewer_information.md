@@ -45,7 +45,7 @@ The reviewer will then answer the following open response questions.  For these 
 
 *In what ways should the paper be improved to be easy to read, free from grammatical errors, have a professional presentation, and meet the article formatting guidelines laid out in the [author policies](https://livecomsjournal.github.io/authors/policies/)?*
 
-*How does the article address the specific reviewer criteria for each article type?* These criteria are listed in the sections for author policies for [Best Practices](https://livecomsjournal.github.io/authors/policies/best_practices/#review-criteria), [Perpetual Reviews](https://livecomsjournal.github.io/authors/policies/perpetual_reviews/#review-criteria), [Tutorials](https://livecomsjournal.github.io/authors/policies/tutorials/#review-criteria),[Comparisons of Computational Software](https://livecomsjournal.github.io/authors/policies/compare_simulations/#review-criteria), and [Lessons Learned](https://livecomsjournal.github.io/authors/policies/lessons_learned/#review-criteria).
+*How does the article address the specific reviewer criteria for each article type?* These criteria are listed in the sections for author policies for [Best Practices](https://livecomsjournal.github.io/authors/best_practices/#review-criteria), [Perpetual Reviews](https://livecomsjournal.github.io/authors/perpetual_reviews/#review-criteria), [Tutorials](https://livecomsjournal.github.io/authors/tutorials/#review-criteria),[Comparisons of Computational Software](https://livecomsjournal.github.io/authors/compare_simulations/#review-criteria), and [Lessons Learned](https://livecomsjournal.github.io/authors/lessons_learned/#review-criteria).
 
 *What other comments do you have for the author?*
 
