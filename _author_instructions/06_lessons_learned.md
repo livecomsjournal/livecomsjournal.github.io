@@ -20,7 +20,7 @@ The article should contain the usual sections: Introduction, including backgroun
 Data analysis should conform to [best practices](https://github.com/dmzuckerman/Sampling-Uncertainty).
 
 
-## [Additional factors considered in review of "lessons learned" articles](#review-criteria)
+## Additional critera onsidered in review of "lessons learned" articles
 Reviewers will consider the following factors in reviewing "lessons learned" document.
 * Is the motivation for the approach clearly described and reasonable given existing literature?
 * Are the "lessons" provided likely to be of value to a significant number of researchers, based on demonstrated broad applicability?
