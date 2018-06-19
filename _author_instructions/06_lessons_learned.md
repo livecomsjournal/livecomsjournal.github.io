@@ -20,7 +20,7 @@ The article should contain the usual sections: Introduction, including backgroun
 Data analysis should conform to [best practices](https://github.com/dmzuckerman/Sampling-Uncertainty).
 
 
-## Additional critera onsidered in the review of "lessons learned" articles
+## Additional critera onsidered in the review of lessons learned articles
 Reviewers will consider the following factors in reviewing "lessons learned" document.
 * Is the motivation for the approach clearly described and reasonable given existing literature?
 * Are the "lessons" provided likely to be of value to a significant number of researchers, based on demonstrated broad applicability?
@@ -28,7 +28,7 @@ Reviewers will consider the following factors in reviewing "lessons learned" doc
 * Are any needed supported files provided?
 * Has data analysis been performed in conformance with best practices?
 
-## Revision schedule for "lessons learned" documents
+## Revision schedule for lessons learned documents
 * Once published, unless subsequently there are recognized flaws with or important updates to an already-published negative-result discussion, such article or article section may not require updating.  
 * However, for new authors wishing to add to an existing topic-appropriate "Lessons Learned" article, the new authors should work with authors of the existing article, in consultation with editors as needed.  
 
