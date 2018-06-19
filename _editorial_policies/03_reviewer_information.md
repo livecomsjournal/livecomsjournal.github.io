@@ -39,7 +39,7 @@ Reviewer will choose between "Accept", "Revise and resubmit", and "Reject"
 
 The reviewer will then answer the following open response questions.  For these responses, the reviewer may also copy the questions to a separate document, respond to them there, and attach the responses.
 
-*What is the level of significance of this work and its suitability for the journal? Is it likely to have a strong positive impact on the targeted set of readers? If this is a revision, what is the significance of the updated material?"
+*What is the level of significance of this work and its suitability for the journal? Is it likely to have a strong positive impact on the targeted set of readers? If this is a revision, what is the significance of the updated material?*
 
 *To what extent does the article engage with current understanding in the scholarly community? If this is a revision, to what extent do the authors engage with the community participating on their GitHub version?*
 
