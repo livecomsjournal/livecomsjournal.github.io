@@ -66,7 +66,7 @@ either Managing Editors or Associate Editors.
        notice that their votes will be needed within a shorter window,
        such as a 12 hour window.
 
-## III. Conflicts of interest
+## III. [Conflicts of interest](#conficts-of-interest)
 1. A potential "conflict of interest" is a circumstance which might affect one's ability to provide a fair and objective evaluation of a work, or which might reasonably be seen as having a likelihood of doing so by an independent outside observer.
 When in doubt, potential conflicts of interest should always be disclosed. Common causes of conflicts of interest, for reviewers and editors, include:
     1. Being a close co-author on a paper with an author in the previous 36 months. "Close co-author" is defined as serving as corresponding author and/or first author together, or equivalent close collaboration.

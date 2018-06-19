@@ -37,7 +37,7 @@ training in the fundamentals of molecular simulation, and (c) mistakes made due 
 Checklists in this journal will typically focus on errors that are likely to be made by users with training and experience in molecular simulations, i.e., errors of type (a) and (b).
 As such, normal best practices documents can and should assume a basic familiarity with the fundamentals of molecular simulations.
 
-## Additional factors considered in review of best practices guides
+## [Additional factors considered in reviews of best practices guides](#review-criteria)
 Reviewers will consider the following factors in reviewing best practices guides:
 * Would following the provided checklist help users avoid significant potential errors in simulation? Will the errors be profound and/or frequent? 
 * Are all assertions well-sourced in published data (which may, in some cases, include data created for the paper)?

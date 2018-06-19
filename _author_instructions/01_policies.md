@@ -170,11 +170,11 @@ When ready for submission, the author uploads the final article PDF (created usi
 
 The authors must also submit with the final article PDF:
 
-  * As part of the submission form, authors will suggest 4-5 reviewers.
   * As a single PDF file, a copy of their presubmission letter, appended with the response recieved from the Section Lead Editor approving the presubmission and specifying any changes or modifications to the scope the editors requested. The authors should also include a description of deviations, if any, from what was laid out in the presubmission letter, with a rationale for why the changes were made. This should be uploaded as a "Supporting File", with the descriptor "Presubmission Letter". 
   * An image to accompany the paper at least 300 x 200 pixels, any standard image format, color preferred, less than 1MB in size). This image is important to choose carefully, as it is the image that will appear on the article's front page and whenever the paper is shared on social media. We suggest something evocative of the research, but containing less scientific detail than, say, the table of contents image for an ACS journal.
   * Any Supporting Files that are intended for distribution with the final paper should also be uploaded at this time. There is no explicit limit to the number of files that can be added, though if there are many similar data files, they should be uploaded as a `.tgz`ed or `.zip`ed directory and include a README file.
 
+As part of the submission form, authors will suggest 4-5 reviewers.
 Article submission also involves paying a nominal charge of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
 This is handled through Stripe Connect and can be paid via any major credit card.
 
@@ -184,24 +184,19 @@ The review process generally begins with an editor reviewing your document to ch
 If there are major issues at this stage, your article may be returned for revision prior to review.
 Reviews will generally be anonymous, though reviewers will be allowed to make themselves known if they desire.
 Reviewers can also participate directly in revisions through the GitHub website, whether or not they remain anonymous.
-For example, a reviewer could choose to submit a very brief review addressing only suitability, but provide extensive feedback to the authors on the GitHub issue tracker, allowing discussion of how the article should be revised to be done openly.
+For example, a reviewer could choose to submit a very brief review addressing only suitability questions, and then provide extensive feedback to the authors on the GitHub issue tracker, allowing discussion of how the article should be revised to be done openly.
 This open revision approach may be particularly suitable for articles which will become community resources.
 
-## Review criteria
 
-A key purpose of the articles is that they should be useful to a range of researchers, but especially beginning researchers.
-Thus, all submitted manuscripts will be reviewed by a member of the student review board, which consists of graduate students and postdocs invited by the editorial board.
+A key criteria for articles in LiveCOMS is that they should be useful to a range of researchers, but especially beginning researchers.
+Thus, all submitted manuscripts will be reviewed by a graduate students or postdoc invited by the editorial board.
 
-Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue tracker.  
-A history of revisions in response to community concerns will impact the review process favorably.
+Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue tracker.
+A history of revisions in response to community concerns, questions and suggestions will impact the review process favorably.
+ 
+For more information about the role of reviewers and the criteria they are asked to use, please see the [Reviewer Information](https://livecomsjournal.github.io/policies/reviewer_information/).
 
-Reviewers will also be asked to assess whether articles are well edited and clearly written.
-Authors whose article uses inconsistent style or poor grammar, or is poorly edited, may be asked to revise and address these issues.
-
-Reviews will also consider the additional factors according to manuscript category: [please see the individual category links](#types-of-articles) for more information on these review criteria.
-
-
-## The Revision Process
+## The revision process
 
 If manuscript revision is requested, authors will typically be asked to re-submit within 30 days for minor revisions and 60 days for major revisions.
 After this time, a revised manuscript may be handled as a new submission.
@@ -214,11 +209,11 @@ Once peer reviewed, articles receive new [digital object identifiers (DOIs)](htt
 This allows authors to receive credit for ongoing work they do on their articles.
 
 Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted.
-However, release of new peer-reviewed versions via LiveCoMS is warranted only when changes become particularly extensive or important.
-Thus, versioning should typically be done no more frequently than every 12 months.
+However, release of new peer-reviewed versions via LiveCoMS is warranted only when changes become particularly extensive or important, and authors must justify why a peer-reviewed update is needed.
+As a rough guide, versioning should typically be done no more frequently than every 12 months.
 
 The review process for an update to a LiveCoMS article is similar to the review process for the initial version.  
-Additional review criteria will include whether or not issues the community raised on the article's issue tracker were responded to, and whether the revision includes sufficient new material.
+Important additional review criteria for a revision will include whether or not issues the community raised on the article's issue tracker were responded to, and whether the revision includes sufficient new material.
 
 Certain categories of article may need revision at different frequencies.
 For information on the review frequencies, see [author information for each of the types of articles](#types-of-articles).
@@ -228,7 +223,7 @@ For information on the review frequencies, see [author information for each of t
 We require GitHub use for papers as it provides an easy mechanism for community feedback on the paper, allowing questions, comments, or additions.
 Community members can easily [file issues](https://help.github.com/articles/about-issues/) on these topics, and then these can be incorporated into new versions of the article.
 This can help LiveCoMS articles truly become living documents.
-Please note: The issue tracker for these documents is not just for *problems* with the articles, but also for general discussion, feedback, questions, and so on -- basically, for any type of discussion about the article.
+Please note: The issue tracker for these documents is not just for *problems* with the articles, but also for general discussion, feedback, questions, and so on---basically, for any type of discussion about the article.
 
 We are sympathetic to the fact that some commenters may wish to provide feedback to authors outside of GitHub.
 This can be done via any suitable means, such as contacting the relevant authors directly.

@@ -7,121 +7,46 @@ excerpt: Information for reviewers
 permalink: /policies/reviewer_information/
 ---
 
-This provides information relevant to reviewers of LiveCoMS, as well as a copy of the form letters that we typically use when corresponding with reviewers.
-
-
 ## Brief overview of the review process
 
 Before sending manuscripts for review, a lead editor of the relevant LiveCoMS section will have responded favorably to a [presubmission inquiry](https://livecomsjournal.github.io/authors/policies/#presubmission-letter) and then checked that the submitted manuscript indeed conforms to what was originally proposed.
 A LiveCoMS editor will also have checked that the manuscript appears to be reasonably well edited and ready for review.
-Given this preparation, LiveCoMS asks that reviewers respond promptly to review requests and take immediate action on reviewing manuscripts; typically we ask that reviews be returned within 14 days, though exceptions can be made in some cases.
+Given this preparation, LiveCoMS asks that reviewers respond promptly to review requests and take immediate action on reviewing manuscripts; typically we ask that reviews be returned within 15 days.
+
 The review process is in general similar to typical journals, in that we seek to ensure manuscripts are of high quality and will provide significant benefits to the field.
-However, we do also have specific [review criteria](https://livecomsjournal.github.io/authors/policies/#review-criteria) and we ask reviewers to make sure they are aware of these, including [category-specific review criteria](https://livecomsjournal.github.io/authors/policies/#types-of-articles) relevant to the particular category of article.
-Additionally, consistent with its pedagogical mission, LiveCoMS requires a student review of each manuscript.
-We also have a Conflict of Interest policy and reviewers should make sure they are familiar with this and decline to review if they have a conflict, or if they are uncertain, to disclose any potential conflicts to the editor managing the review process.
+However, we do also have specific [review criteria](https://livecomsjournal.github.io/authors/policies/#review-criteria) and we ask reviewers to make sure they are aware of these, including [category-specific review criteria](https://livecomsjournal.github.io/authors/policies/#types-of-articles) relevant to the particular category of article.  Look in each section for the bullet pointed list of review criteria to consider, and respond to each of the relevant points specifically.
 
-One potentially unique aspect of the LiveCoMS review process is the opportunity to engage with authors publicly rather than anonymously if you so desire.
+We also have a [Conflicts of Interest policy](https://livecomsjournal.github.io/policies/livecoms_bylaws/#conflicts-of-interest) and you as a reviewer should make sure they are familiar with these policies, and decline to review if they have a conflict.  If you are uncertain about a conflict, they should disclose any such potential conflicts to the editor managing the review process.
+
+One unique aspect of the LiveCoMS review process is the opportunity to engage with authors publicly rather than anonymously if you so desire.
 Specifically, if you (as a reviewer) are interested in participating public discussion of the work and helping to improve it, you are free to comment on the issue tracker connected to the GitHub repository associated with the article, which can be a way to work together with the community to help authors improve their article.
-If you choose to do this, you are welcome to cross-reference GitHub comments in your review for LiveCoMS.
+If you choose to do this, you should cross-reference GitHub comments in your review for LiveCoMS in an unambiguous way so the author knows exactly what needs to be addressed.  If you wish to remain completely anonymous, we suggest refraining from leaving GitHub comments near the time of your review, as the author will likely be able to guess your identity from the comments.
 
+Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue tracker.   A history of revisions in response to community concerns will impact the review process favorably.
 
-Because we are attempting to make LiveCoMS as open as possible, we provide examples below of typical form letters used for correspondence with reviewers.
+Reviewers will assess whether articles are well edited and clearly written.
+Authors whose article uses inconsistent style or poor grammar, or is poorly edited, will be asked to revise and address these issues.
 
-## Reviewer letters
+## Reviewer form
 
-### Sample review request letter
+The reviewer form asks the following questions:
 
-Dear XYZ,
+*Overall Rating*
+Reviewer will rank from 1-5 stars.
 
-We invite you to review the article indicated below, which has been submitted to the `YYY` category of the [Living Journal of Computational Molecular Science](http://livecomsjournal.org) (LiveCoMS).
-LiveCoMS is a brand new and rather unique journal, which focuses on promoting best practices in molecular computation via updateable educational articles of various kinds - tutorials, reviews, best-practices “manuals” and “lessons learned” articles.
-The journal is low-cost, non-profit and run by members of our community in a transparent way; in part, it aims to provide academic credit for important work that often goes unrewarded.
-One unique feature of the review process is the requirement for a student review of every article.
+*For this manuscript I recommend...*
+Reviewer will choose between "Accept", "Revise and resubmit", and "Reject"
 
-To ACCEPT: `link`
-To DECLINE: `link`
+The reviewer will then answer the following open response questions.  For these responses, the reviewer may also copy the questions to a separate document, respond to them there, and attach the responses.
 
-Reviews are generally expected within 14 days, although extra time may be allowable upon request.
+*What is the level of significance of this work and its suitability for the journal? Is it likely to have a strong positive impact on the targeted set of readers? If this is a revision, what is the significance of the updated material?"
 
-Please be sure you review and understand our conflict of interest policies before making a decision on whether or not to accept this review request.
+*To what extent does the article engage with current understanding in the scholarly community? If this is a revision, to what extent do the authors engage with the community participating on their GitHub version?*
 
-If you have any questions, please reply to this email.
+*In what ways should the paper be improved to be easy to read, free from grammatical errors, have a professional presentation, and meet the article formatting guidelines laid out in the [author policies](https://livecomsjournal.github.io/authors/policies/)?*
 
-Thank you very much.
-`{{SENDER-FULL-NAME}}`, Associate Editor
+*How does the article address the specific reviewer criteria for each article type?* These criteria are listed in the sections for author policies for [Best Practices](https://livecomsjournal.github.io/authors/policies/best_practices/#review-criteria), [Perpetual Reviews](https://livecomsjournal.github.io/authors/policies/perpetual_reviews/#review-criteria), [Tutorials](https://livecomsjournal.github.io/authors/policies/tutorials/#review-criteria),[Comparisons of Computational Software](https://livecomsjournal.github.io/authors/policies/compare_simulations/#review-criteria), and [Lessons Learned](https://livecomsjournal.github.io/authors/policies/lessons_learned/#review-criteria).
 
-`{{MANUSCRIPT-TITLE}}`
-Abstract:
-(abstract will be automatically included)
+*What other comments do you have for the author?*
 
-
-### Sample review action/thanks for agreeing letter
-
-(Each category has its own form letter, differing in the link to category-specific review criteria. The below sample is for Best Practices Guides)
-
-Dear XYZ,
-
-Thank you very much for agreeing to review the LiveCoMS submission, `{{MANUSCRIPT-TITLE}}`.
-Your support of our new community-run journal is very encouraging.
-
-I would appreciate receiving your review within 10 days, by `TTTTTT`.
-
-The article is to be considered under the `YYY` category.
-To aid you in your review, both the general [review criteria](https://livecomsjournal.github.io/authors/policies/#review-criteria) and the criteria specific to [Best Practices Guides](https://livecomsjournal.github.io/authors/best_practices/) are appended below.
-
-Please read our conflict-of-interest criteria and inform me of any potential conflicts.
-
-Note also that non-anonymous feedback can be provided directly to authors via the GitHub page linked in the manuscript, if you so desire.
-
-If you have any questions, please reply to this email.
-
-Thank you very much.
-`{{SENDER-FULL-NAME}}`, Associate Editor
-
-REVIEW CRITERIA
-`Fill in current general review criteria`
-`Fill in current category-specific review criteria`
-
-### Reviewer ranking questions
-
-(All fields will be communicated to the authors except comments to the editor)
-- Overall rating (one to five stars, with five being best)
-- For this manuscript I recommend (Accept/Revise and resubmit/Reject)
-- How well does the manuscript meet overall review criteria and category-specific criteria?
-- Is the paper adequately edited for clear scientific English?
-- Given that the accepted PDF will be the final version of the manuscript, are there formatting, style, or quality issues which should be addressed before acceptance? What about the quality of the figures, layout of any tables, etc.?
-- Comments to the editor
-
-
-## Sample decision letters
-
-
-### Minor revisions
-
-Following is a sample decision letter which might be used for communicating the outcome of the review process to the authors.
-
-Dear `{{AUTHOR-FULL-NAME}}`,
-
-Thank you very much for your submission of your article, `{{MANUSCRIPT-TITLE}}`, to the Living Journal of Computational Molecular Sciences.
-We are delighted to inform you that we anticipate being able to accept your article, pending satisfactory completion of minor revisions as recommended by the reviewers (and detailed below).
-To facilitate the re-review of your manuscript, please submit a PDF version with *highlighted* changes, such as via [latexdiff](https://www.sharelatex.com/blog/2013/02/16/using-latexdiff-for-marking-changes-to-tex-documents.html).
-A final unhighlighted, publication-ready version will be requested should your manuscript be accepted.
-As you make the recommended changes, we also encourage you to make a final check that:
-- The article is well edited and all images and tables are of high quality and well laid out
-- Your final submitted PDF is in fact how you want your article to appear in its final version, as the journal does not typeset or alter the formatting of your article
-- Your GitHub repository is in order and ready to accept feedback from readers
-
-Thank you again for joining with us in this exciting new publishing enterprise!
-
-Sincerely,
-`{{SENDER-FULL-NAME}}`
-
-### More significant revisions
-
-(Same letter as the above, but with the following type of language instead)
-
-""...Your manuscript was judged to have significant merit and may ultimately be suitable for publication, but significant revisions are required. Please see the reviewer comments below." [continue with same letter as for minor]
-
-### Rejection
-
-"Unfortunately, we will not be able to accept your manuscript for publication. [editor should insert note here about whether manuscript was outside scope of journal, not of suitable quality, or otherwise inappropriate]..."
+*What other comments do you have for the editor?* (The response to this question will not be seen by the authors)
