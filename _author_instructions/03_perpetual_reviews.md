@@ -15,7 +15,7 @@ al. review](https://github.com/MobleyLab/benchmarksets), which was
 originally an *Annual Reviews in Biophysics* article, but is now being
 updated regularly on GitHub.
 
-## [Additional review criteria for perpetual reviews](#review-criteria)
+## Additional review criteria for perpetual reviews
 * Do the authors properly include information from the recent literature, including last 6 to 12 months?
 * Is this a good summary of its area which will be valuable to the field?
 * Do the authors include data and viewpoints that are contradictory to their own, if these exist?
