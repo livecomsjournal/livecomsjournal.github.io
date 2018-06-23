@@ -28,7 +28,8 @@ The Lead Editor:
 ### Associate Editor
 
 Before assigning manuscripts for review, editors have several main tasks:
-- Ensure they do not have a conflict of interest with respect to the work they are to analyze; if they do, [dealing with as dictated by editorial policy](https://livecomsjournal.github.io/policies/editorial_board/).
+- Ensure they do not have a conflict of interest with respect to the work they are to analyze; if they do, [dealing with as dictated by editorial policy](https://livecomsjournal.github.io/policies/livecoms_bylaws/#conflicts-of-interest).
+- Ensure that if any editors are authors on the paper, they are prevented from seeing the manuscript. [See here how to hide the manuscript from them](http://help.scholasticahq.com/customer/en/portal/articles/1728879-can-i-hide-a-manuscript-from-another-editor-?t=565043)
 - Check to ensure that the manuscript has appropropriate style, grammar, layout, and figure quality to be ready for editing, as in the [instructions for authors](https://livecomsjournal.github.io/authors/policies/). Remember, the journal will not be editing the manuscript, so if you will need to reject the manuscript (for additional revision) because of grammar issues or other stylistic reasons, you should do this *before* sending it for review to avoid wasting the time of the reviewers.
 - Identify suitable reviewers, who may include experts suggested by the authors, others in the field you already know of, or authors cited frequently in the article. 
   LiveCoMS generally requires at least two standard reviewers in addition to a student reviewer, though exceptional circumstances (such as extensive community feedback via GitHub) may be merit deviations from this policy.   
@@ -38,12 +39,12 @@ Before assigning manuscripts for review, editors have several main tasks:
 ## Review handling
 
 Once an editor has handled the pre-review steps described above, the review process is largely similar to typical journals. The editor:
-- Contacts suitable reviewers to request reviews, including a student reviewer, noting our conflict of interest policy. Timing and policy details will be automatically provided to reviewers via the form-letter requests.  Reviews will be due in 14 days, though requests for extension will be routinely granted, for an additional 7-10 days.  In the event a reviewer misses an extended deadline (24 days from accepting the review assignment), the editor should request an additional reviewer. 
+- Contacts suitable reviewers to request reviews, including a student reviewer, noting our conflict of interest policy. Timing and policy details will be automatically provided to reviewers via the form-letter requests.  Reviews will be due in 15 days, though requests for extension will be routinely granted, for an additional 7-10 days.  In the event a reviewer misses an extended deadline, the editor should request an additional reviewer. 
 - Begins the process of conveying reviews to authors once two have been received, unless the need for additional expertise requires a third review. In addition to the two required peer reviews, a student review must also be obtained. A student reivew may be edited to ensure anonymity and proper tone, but not for substance.
 - Handles any potential conflict of interests disclosed by reviewers consistent with (editorial policy](https://livecomsjournal.github.io/policies/editorial_board/)
-- Makes reviewers aware of the [review criteria](https://livecomsjournal.github.io/authors/policies/), including category-specific review criteria
+- Makes reviewers aware of the [review criteria](https://livecomsjournal.github.io/authors/policies/reviewer_information), including category-specific review criteria
 - Performs a check that the GitHub repository is in order, or ensure the reviewers do so.
-- Ensures reviews are submitted and analyzed in a timely manner (all reviews should be submitted in no more than six weeks), reaching out to remind reviewers as needed and solicit additional reviews if reviewers are too slow or their analysis conflicts
+- Ensures reviews are submitted and analyzed in a timely manner (all reviews should be submitted in no more than about 25 days), reaching out to remind reviewers as needed and solicit additional reviews if reviewers are too slow or their analysis conflicts
 - Potentially helps ensure reviewer feedback is fair
 - Helps preserve anonymity of the reviewers, especially the student reviewer, by editing the reviews if necessary.  Note that the reviewers may choose to waive anonymity by specifically referring to GitHub issues they have filed or otherwise explicitly making it clear the are waiving anonymity.
 - Makes a recommendation regarding acceptance, acceptance with minor or major revision, or rejection (keeping in mind the content of the presubmission letter), and communicates this recommendation to the Lead Editor who makes a final decision. Normally the Lead Editor will follow the handling editor's recommendations, but this process is helpful since the Lead will have approved the presubmission letter and thus needs to be involved if a less than favorable decision is to be made.
