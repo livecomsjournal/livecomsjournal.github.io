@@ -26,8 +26,8 @@ ways you can participate:
   issues on the GitHub repositories for individual LiveCoMS
   papers. The give-and-take and community feedback occurring there is
   extremely valuable for continued development and clarity of the
-  papers. Additionally, LiveCoMS articles are explicitly asked
+  papers. Additionally, LiveCoMS authors are explicitly requested to
   acknowledge students who make contributions via the GitHub
-  page. Significant and ongoing participation that improves the
+  page in updated versions of the article. Significant and ongoing participation that improves the
   document may even lead to eventual inclusion as an author on future
   versions (at the discretion of the current authors)
