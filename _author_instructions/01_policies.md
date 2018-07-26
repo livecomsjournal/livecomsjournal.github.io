@@ -198,8 +198,10 @@ For more information about the role of reviewers and the criteria they are asked
 
 ## The revision process
 
-If manuscript revision is requested, authors will typically be asked to re-submit within 30 days for minor revisions and 60 days for major revisions.
+If manuscript revision is requested, authors will typically be asked to re-submit within 4 weeks for minor revisions and 8 weeks for major revisions.
 After this time, a revised manuscript may be handled as a new submission.
+
+Your revised manuscript should be accompanied by detailed responses to the reviewers' comments and a summary of changes made to the manuscript. You should also include as an additional file a version that highlights changes in the manuscript.  [LatexDiff](https://ctan.org/pkg/latexdiff?lang=en), with documentation [here](https://mirror.hmc.edu/ctan/support/latexdiff/doc/latexdiff-man.pdf)  is one tool that can be used generate this version. If there are formatting issues, we suggest downloading the more recent template files, which may fix some formatting concerns.  We suggest documenting general categories of changes requested by the reviewers as separate GitHub issues, but that is not required for resubmission.
 
 # Updating LiveCoMS Articles
 
