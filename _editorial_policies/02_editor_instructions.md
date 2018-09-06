@@ -48,3 +48,10 @@ Once an editor has handled the pre-review steps described above, the review proc
 - Helps preserve anonymity of the reviewers, especially the student reviewer, by editing the reviews if necessary.  Note that the reviewers may choose to waive anonymity by specifically referring to GitHub issues they have filed or otherwise explicitly making it clear they intend to identify themselves.
 - Makes a recommendation regarding acceptance, acceptance with minor or major revision, or rejection (keeping in mind the content of the presubmission letter), and communicates this recommendation to the Lead Editor who makes a final decision. Normally the Lead Editor will follow the handling editor's recommendations, but this process is helpful since the Lead will have approved the presubmission letter and thus needs to be involved if a less than favorable decision is to be made.
 - If the decision is that the authors must revise, provides appropriate direction (with the Lead Editor) about which comments to address if needed
+
+Following acceptance, the usual procedure is:
+- Have the author do a final check for issues with grammar, word choice, spelling, formatting (including issues with the LaTeX template, placement of figures, etc.) and typos, as normally would be done at the proofs stage. You may assist with this as well if you like.
+- Have the author add LiveCoMS footer information and provide a PDF for posting
+- Post the PDF as an ASAP article
+- When assigned to an issue, get the DOI and article number, have the author place these into a PDF, and update the PDF
+-  
