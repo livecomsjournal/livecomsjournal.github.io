@@ -32,13 +32,10 @@ either Managing Editors or Associate Editors.
     1. The Managing Editors coordinate the operation of the Journal and
        the finances of the journal and maintain the online presence.
        Tasks may be divided up among managing editors as they see fit, and specific individual tasks may be assigned to individual associate editors.
-    1. Section Lead Editors handle submitted manuscripts and assign
-       all manuscripts to associate lead editors.
-       Section Lead Editors make decisions on presubmission letters proposing manuscripts, in which they may be advised by the associate editors.
-       Section lead editors make final decisions based on recommendations from the associate editors, and communicate them to the authors.
-    1. Associate Editors assign manuscripts to reviewers, collect
-       these reviews, and make recommendations to the Section Lead
-       Editors about acceptance, rejection, or requests for revision.
+    1. Section Lead Editors assign presubmission letters proposing manuscripts for the Journal to Associate Editors, and approve final plans for articles in the Journal as described in those letters.
+    Section Lead Editors handle submitted manuscripts and assign all manuscripts to Associate Editors, usually to the editor that handled the presubmission letter.
+    Section Lead Editors have the final responsibility for the quality and scope of articles in the journal, but in most cases delegate to Associate Editors the decision making on acceptance, rejection, or revision decisions. 
+    1. Associate Editors work with authors to finalize presubmission letters describing potential papers in the Journal, assign reviewers, collect these reviews, and make decisions about acceptance, rejection, or requests for revision, in consultation with the Section Lead Editors as required.
     1. The Recording Secretary will coordinate and maintain confidentiality of votes of the Editorial Board, ensure that minutes of meetings of the Editorial Board are recorded, and track appointment terms.
 
 1. Selection process
@@ -130,10 +127,9 @@ In the case that all of the Section Lead Editors have potential conflicts, the M
     revised for clarity periodically in response to feedback, with the
     approval of the Section Lead Editor.
 
- 2. Section Lead Editors make the final decision about reviews in
-    consultation with the associate editor assigned to the
-    paper.
-    In some cases, authors may appeal an editorial decision,
+ 2. Section Lead Editors are ultimately responsible for decisions about manuscripts. However, in most cases, 
+    they will delegate the decision to the Associate Editor assigned to the paper. If the Section Lead Editor feels that their direct input is needed on this process, they will notify the Associate Editor at the time of assignment, or when it first appears necessary that such additional consultation is needed.
+    Authors may appeal an editorial decision,
     but initiating an appeal requires the consent of all authors.
     In case of an appeal on the decision, the Section Lead
     Editor will select another associate editor to review all
