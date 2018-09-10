@@ -34,7 +34,7 @@ either Managing Editors or Associate Editors.
        Tasks may be divided up among managing editors as they see fit, and specific individual tasks may be assigned to individual associate editors.
     1. Section Lead Editors assign presubmission letters proposing manuscripts for the Journal to Associate Editors, and approve final plans for articles in the Journal as described in those letters.
     Section Lead Editors handle submitted manuscripts and assign all manuscripts to Associate Editors, usually to the editor that handled the presubmission letter.
-    Section Lead Editors have the final responsibility for the quality and scope of articles in the journal, but in most cases delegate to Associate Editors the decision making on acceptance, rejection, or revision decisions. 
+    Section Lead Editors have the final responsibility for the quality and scope of articles in the Journal, but in most cases delegate to Associate Editors the decision making on acceptance, rejection, or revision decisions. 
     1. Associate Editors work with authors to finalize presubmission letters describing potential papers in the Journal, assign reviewers, collect these reviews, and make decisions about acceptance, rejection, or requests for revision, in consultation with the Section Lead Editors as required.
     1. The Recording Secretary will coordinate and maintain confidentiality of votes of the Editorial Board, ensure that minutes of meetings of the Editorial Board are recorded, and track appointment terms.
 
@@ -142,4 +142,4 @@ In the case that all of the Section Lead Editors have potential conflicts, the M
    These bylaws may be amended by two-thirds of the vote of the entire
    Editorial Board.
 
-This version of the bylaws dated December 12, 2017.
+This version of the bylaws dated September (fill in date approved), 2018.
