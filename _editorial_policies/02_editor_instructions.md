@@ -11,23 +11,26 @@ This provides instructions to editors handling manuscripts for LiveCoMS.
 
 ## Workflow overview
 
-Authors contact LiveCoMS (specifically, the Lead Editor in a particular subject area) with a presubmission letter, proposing an article in a particular area.
-Once this is approved, they proceed with article preparation and ultimately submit it to that section of LiveCoMS.
-The Lead Editor then checks that the article is consistent with what was proposed in the presubmission letter, and then assigns it to an appropriate Associate Editor who manages the review process and makes a final decision on the manuscript, reporting the final decision to the authors.
+Authors contact LiveCoMS (specifically, the Section Lead Editor in that topic) with a presubmission letter, proposing an article in a particular area. The Section Lead Editor assigns this presubmission letter to and Associate Editor, who works with the authors to revise the article plans to be suitable for LivCoMS, and the Section Lead Editor signs off on the final plans.
+Once the presubmission letter is approved, the author proceeds with article preparation and ultimately submit it to that section of LiveCoMS.
+The Lead Editor then checks that the article is consistent with what was proposed in the presubmission letter, and then assigns it to an appropriate Associate Editor who manages the review process and makes a final decision on the manuscript, reporting the final decision to the authors. Usually this Associate Editor will be the same one that handled the original presubmission letters.
+
+## Pre-submission letters
+
+Assuming the subject matter proposed in the is within the scope of the LiveCoMS and is otherwise acceptable, the Section Lead Editor assigns this presubmission letter to and Associate Editor. Reasons for the letter not being acceptable include ignoring key required elements of the presubmission letter, being too similar to existing LiveCoMS articles. The Section Lead Editor signs off on the final presubmission letter, and the Associate Editor notifies the author that the letter is approved.  Instrutions for the presubmission letter are [found here](https://github.com/livecomsjournal/livecomsjournal.github.io). 
 
 ## Pre-review processing
 
 ### Lead Editor
 
-The Lead Editor:
-- Handles analysis of presubmission inquiries
-- On article submission, confirms that the article is consistent with the presubmission letter
-- Passes the article and presubmission letter to an appropriate Associate Editor to manage the review process (unless he or she decides to manage the review process directly)
-- Makes a final decision after receiving a recommendation from the Associate Editor and reviewers (see below)
+The Section Lead Editor:
+- Passes the article and presubmission letter to an appropriate Associate Editor to manage the review process (unless he or she decides to manage the review process directly). Usually, this will be the Associate Editor who handled the presubmission letter.
+- Usually will delegate final decision to the Associate Editor. If the Section Lead Editor anticipates their input may be necessary, they will notify the Associate Editor at the time of the manuscript submission, or if not, as soon as they become aware additional input may be necessary. They may overrule the Associate Editor after acceptance, but this should only be done in exceptional cases, for example, fraud or plagarism. If there are important scientific changes that need to be made in the article that were not caught by Associate Editors previous to acceptance, these can be handled by an unofficial request for revision before the paper is officially posted, or between ASAP posting and the issue publication.  
 
 ### Associate Editor
 
 Before assigning manuscripts for review, editors have several main tasks:
+- Confirms that the article is consistent with the presubmission letter.
 - Ensure they do not have a conflict of interest with respect to the work they are to analyze; if they do, [dealing with it as dictated by editorial policy](https://livecomsjournal.github.io/policies/livecoms_bylaws/#iii-conflicts-of-interest).
 - Ensure that if any editors are authors on the paper, they are prevented from seeing the manuscript. [See here how to hide the manuscript from them](http://help.scholasticahq.com/customer/en/portal/articles/1728879-can-i-hide-a-manuscript-from-another-editor-?t=565043)
 - Check to ensure that the manuscript has appropriate style, grammar, layout, and figure quality to be ready for editing, as in the [instructions for authors](https://livecomsjournal.github.io/authors/policies/). Remember, the journal will not be editing the manuscript, so you need to make a judgment call as to whether the manuscript is well-edited enough to proceed to review, or whether it will need revision for grammar or style *before* sending it for review to avoid wasting the time of the reviewers.
@@ -42,9 +45,9 @@ Once an editor has handled the pre-review steps described above, the review proc
 - Begins the process of conveying reviews to authors once two have been received, unless the need for additional expertise requires a third review. In addition to the two required peer reviews, a student review must also be obtained. A student reivew may be edited to ensure anonymity and proper tone, but not for substance.
 - Handles any potential conflict of interests disclosed by reviewers consistent with [editorial policy](https://livecomsjournal.github.io/policies/editorial_board/)
 - Makes reviewers aware of the [review criteria](https://livecomsjournal.github.io/authors/policies/reviewer_information), including category-specific review criteria
-- Performs a check that the GitHub repository is in order, or ensure the reviewers do so.
+- Performs a check that the GitHub repository contains all of the files in the submission.
 - Ensures reviews are submitted and analyzed in a timely manner (all reviews should be submitted in no more than about 25 days), reaching out to remind reviewers as needed and solicit additional reviews if reviewers are too slow or their analysis conflicts
 - Potentially helps ensure reviewer feedback is fair
 - Helps preserve anonymity of the reviewers, especially the student reviewer, by editing the reviews if necessary.  Note that the reviewers may choose to waive anonymity by specifically referring to GitHub issues they have filed or otherwise explicitly making it clear they intend to identify themselves.
-- Makes a recommendation regarding acceptance, acceptance with minor or major revision, or rejection (keeping in mind the content of the presubmission letter), and communicates this recommendation to the Lead Editor who makes a final decision. Normally the Lead Editor will follow the handling editor's recommendations, but this process is helpful since the Lead will have approved the presubmission letter and thus needs to be involved if a less than favorable decision is to be made.
-- If the decision is that the authors must revise, provides appropriate direction (with the Lead Editor) about which comments to address if needed
+- Decides regarding acceptance, acceptance with minor or major revision, or rejection (keeping in mind the content of the presubmission letter), and communicates this recommendation to the Lead Editor who makes a final decision. Normally the Section Lead Editor will not be involved, but if they notified the Associate Editor that they should be involved during the process, they should approve any decision. 
+- If the decision is that the authors must revise, provides appropriate direction about which comments to address if needed, as well as add any additional comments and requirements as they see fit.
