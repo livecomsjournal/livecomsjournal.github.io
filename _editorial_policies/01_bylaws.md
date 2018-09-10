@@ -128,7 +128,7 @@ In the case that all of the Section Lead Editors have potential conflicts, the M
     approval of the Section Lead Editor.
 
  2. Section Lead Editors are ultimately responsible for decisions about manuscripts. However, in most cases, 
-    they will delegate the decision to the Associate Editor assigned to the paper. If the Section Lead Editor feels that their direct input is needed on this process, they will notify the Associate Editor at the time of assignment, or when it first appears necessary that such additional consultation is needed.
+    they will delegate the decision to the Associate Editor assigned to the manuscript. If the Section Lead Editor feels that their direct input is needed on this process, they will notify the Associate Editor at the time of assignment, or when it first appears necessary that such additional consultation is needed.
     Authors may appeal an editorial decision,
     but initiating an appeal requires the consent of all authors.
     In case of an appeal on the decision, the Section Lead
