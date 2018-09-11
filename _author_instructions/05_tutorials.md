@@ -27,7 +27,7 @@ Tutorials should clearly define what system and/or software requirements the res
 **Pre-existing tutorials**: The submission of existing tutorials, so long as they meet the journal standards described here, is explicitly welcomed.
 Our goal is to encourage the development of high quality tutorials by providing some degree of academic credit for these important and time-consuming efforts.
 
-## [Additional criteria considered in the review of tutorials](#review-criteria)
+## Additional criteria considered in the review of tutorials
 * Are files and necessary executables required to run the tutorial posted online in a permanent (or nearly so) way?
 * Are the tutorials suitable for the intended audience (e.g., researchers with only basic knowledge or advanced researchers)?
 * Do they include enough information on how to generalize the approach to handle other cases, and highlight major issues to consider?
