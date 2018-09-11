@@ -33,7 +33,7 @@ either Managing Editors or Associate Editors.
        the finances of the journal and maintain the online presence.
        Tasks may be divided up among managing editors as they see fit, and specific individual tasks may be assigned to individual associate editors.
     1. Section Lead Editors handle submitted manuscripts and assign
-       all manuscripts to associate lead editors.
+       manuscripts to associate lead editors.
        Section Lead Editors make decisions on presubmission letters proposing manuscripts, in which they may be advised by the associate editors.
        Section lead editors make final decisions based on recommendations from the associate editors, and communicate them to the authors.
     1. Associate Editors assign manuscripts to reviewers, collect
