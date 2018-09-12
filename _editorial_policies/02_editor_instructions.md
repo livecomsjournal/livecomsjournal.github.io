@@ -51,7 +51,7 @@ Once an editor has handled the pre-review steps described above, the review proc
 
 Following acceptance, the usual procedure is:
 - Have the author do a final check for issues with grammar, word choice, spelling, formatting (including issues with the LaTeX template, placement of figures, etc.) and typos, as normally would be done at the proofs stage. You may assist with this as well if you like.
-- Have the author add LiveCoMS footer information and provide a PDF for posting
-- Post the PDF as an ASAP article
-- When assigned to an issue, get the DOI and article number, have the author place these into a PDF, and update the PDF
+- Have the author enable the LiveCoMS footer by including the 'pubversion' class option in the document preamble, fill in the '\datereceived' and '\dateaccepted' fields, and provide a recompiled PDF for posting to the editor handling the submission and a managing editor..
+- Have a managing editor post the PDF as an ASAP article
+- When assigned to an issue, fill in (or have the author fill in) the '\pubDOI', '\pubvolume', '\pubyear', and '\articlenum' fields, recompile the PDF, and then provide to a managing editor to update the PDF
 -  
