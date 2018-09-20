@@ -66,6 +66,7 @@
 }
 
 .archive__item-excerpt {
+  padding-right: 1em;
   margin-top: 0;
   font-size: $type-size-6;
 
@@ -305,6 +306,10 @@
 
     .archive__item-teaser {
       margin-bottom: 2em;
+    }
+    
+    .archive__item-excerpt {
+      padding-right: 0;
     }
 
     @include breakpoint($small) {

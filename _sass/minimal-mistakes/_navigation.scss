@@ -194,7 +194,7 @@
     }
 
     &.site-title {
-      margin-left: 0;
+      padding-left: 2em; /* balance title space on left to match nav link space on right */
     }
   }
 
@@ -209,6 +209,7 @@
   }
 
   .visible-links {
+    font-size: 18px; /* cap nav font */
     display: -webkit-box;
     display: flex;
     -webkit-box-pack: end;
