@@ -59,12 +59,17 @@ either Managing Editors or Associate Editors.
     1. At the time the bylaws are adopted, initial terms for the three Managing Editors will be for two, three, and four years, determined by mutual agreement or (pseudo-)random chance if no agreement is reached.
 1. Voting
     1. All votes described in the bylaws are tallied based on the fraction
-       of the Editorial Board responding within one week written notice
-       via e-mail or other voting mechanism approved by the Managing
-       Editors. In exceptional circumstances advance notice may be given
-       of a rush decision, where the board may be given one week (or more)
-       notice that their votes will be needed within a shorter window,
+       of the Editorial Board responding via e-mail or other voting mechanism
+       approved by the Managing Editors.
+    1. The standard voting period is one week following written notice. In
+       exceptional circumstances advance notice may be given of a rush decision,
+       where the board will be given at least three days notice that their
+       votes will be needed within a shorter timeframe,
        such as a 12 hour window.
+    1. Unless otherwise stated in the text of a motion, the Recording Secretary
+       may declare a vote closed prior to the end of the voting period
+       if at least two-thirds of the board members have voted
+       and the outcome of the motion cannot be altered by the receipt of additional votes.
 
 ## III. Conflicts of interest
 1. A potential "conflict of interest" is a circumstance which might affect one's ability to provide a fair and objective evaluation of a work, or which might reasonably be seen as having a likelihood of doing so by an independent outside observer.
