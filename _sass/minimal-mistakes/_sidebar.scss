@@ -12,6 +12,10 @@
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
+  li {
+    padding-bottom: 1em;
+  }
+
   @include breakpoint(max-width $large) {
     /* fix z-index order of follow links */
     position: relative;
