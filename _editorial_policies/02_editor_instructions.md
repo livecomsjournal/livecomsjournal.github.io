@@ -54,4 +54,3 @@ Following acceptance, the usual procedure is:
 - Have the author enable the LiveCoMS footer by including the 'pubversion' class option in the document preamble, fill in the '\datereceived' and '\dateaccepted' fields, and provide a recompiled PDF for posting to the editor handling the submission and a managing editor..
 - Have a managing editor post the PDF as an ASAP article
 - When assigned to an issue, fill in (or have the author fill in) the '\pubDOI', '\pubvolume', '\pubyear', and '\articlenum' fields, recompile the PDF, and then provide to a managing editor to update the PDF
--  
