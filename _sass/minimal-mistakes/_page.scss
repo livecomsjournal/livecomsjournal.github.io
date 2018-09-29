@@ -438,3 +438,12 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Pagination
+   ========================================================================== */
+
+.pagination--pager {
+  padding: 1em 1em; /* instead of 2em on sides */
+  font-size: 0.75em; /* 20% reduction*/
+}
