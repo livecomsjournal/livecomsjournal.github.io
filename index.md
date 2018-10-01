@@ -19,7 +19,7 @@ feature_row:
     url: /policies/
     # image_path: assets/images/policies.jpg
     # alt: "Editorial Policies"
-    excerpt: "A draft of the policies of the editorial board"
+    excerpt: "Editorial board policies, editor instructions, and reviewer instructions"
   - title: About LiveCoMS
     url: /about/
     # image_path: assets/images/about.jpg
