@@ -196,12 +196,17 @@ A history of revisions in response to community concerns, questions and suggesti
  
 For more information about the role of reviewers and the criteria they are asked to use, please see the [Reviewer Information](https://livecomsjournal.github.io/policies/reviewer_information/).
 
+
 ## The revision process
 
 If manuscript revision is requested, authors will typically be asked to re-submit within 4 weeks for minor revisions and 8 weeks for major revisions.
 After this time, a revised manuscript may be handled as a new submission.
 
 Your revised manuscript should be accompanied by detailed responses to the reviewers' comments and a summary of changes made to the manuscript. You should also include as an additional file a version that highlights changes in the manuscript.  [LatexDiff](https://ctan.org/pkg/latexdiff?lang=en), with documentation [here](https://mirror.hmc.edu/ctan/support/latexdiff/doc/latexdiff-man.pdf)  is one tool that can be used generate this version. If there are formatting issues, we suggest downloading the more recent template files, which may fix some formatting concerns.  We suggest documenting general categories of changes requested by the reviewers as separate GitHub issues, but that is not required for resubmission.
+
+## After acceptance
+
+After acceptance, the authors should perform a careful readthrough of the manuscript for errors, as no additional typesetting or proofing will be done after that point.  Specific tasks that need to be carried out to add issue numbers are listed [the editor instructions](https://livecomsjournal.github.io/policies/editor_instructions/#following_acceptance). After being published as an ASAP article, the authors will have one final chance to fix minor typos and inaccuracies before the article is published in the next regularly scheduled issue.  Beyond that, any typos will remain in the LiveCOMS version until the next peer-reviewed version.  Changes can of course be made at any time in the authors’ maintained version on GitHub, which is linked from the article itself.  
 
 # Updating LiveCoMS Articles
 
