@@ -206,7 +206,7 @@ Your revised manuscript should be accompanied by detailed responses to the revie
 
 ## After acceptance
 
-After acceptance, the authors should perform a careful readthrough of the manuscript for errors, as no additional typesetting or proofing will be done after that point.  Specific tasks that need to be carried out to add issue numbers are listed [the editor instructions](https://livecomsjournal.github.io/policies/editor_instructions/#following_acceptance). After being published as an ASAP article, the authors will have one final chance to fix minor typos and inaccuracies before the article is published in the next regularly scheduled issue.  Beyond that, any typos will remain in the LiveCOMS version until the next peer-reviewed version.  Changes can of course be made at any time in the authors’ maintained version on GitHub, which is linked from the article itself.  
+After acceptance, the authors should perform a careful readthrough of the manuscript for errors, as no additional typesetting or proofing will be done after that point.  Specific tasks that need to be carried out to add issue numbers are listed [the editor instructions](https://livecomsjournal.github.io/policies/editor_instructions/#following-acceptance). After being published as an ASAP article, the authors will have one final chance to fix minor typos and inaccuracies before the article is published in the next regularly scheduled issue.  Beyond that, any typos will remain in the LiveCOMS version until the next peer-reviewed version.  Changes can of course be made at any time in the authors’ maintained version on GitHub, which is linked from the article itself.  
 
 # Updating LiveCoMS Articles
 
