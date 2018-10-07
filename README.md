@@ -18,3 +18,37 @@ python3 generate_navigation.py > _data/navigation.yml
 regenerates the navigation file with the current state of the Markdown-files. It does so by reading through all `.md` files (except `index.md`) in the `_about_livecoms`, `_author_instructions` and `_editorial_policies` and generating a menu item for every first-level or second-level title. It also read the frontmatter of each file and rewrites it in case no `permalink` or no `sidebar` tag is found.
 
 The script is helpful, but probably not fool-proof - a visual inspection of the result via `git diff`, or even better a check of the result in a local jekyll installation is highly recommended before pushing the new navigation file to the `master` branch.
+
+## Testing Locally
+
+First you will need to install the gem for `github-pages`. Run the following command:
+
+```
+gem install github-pages
+```
+
+This will install the github-pages gem and all dependencies (including jekyll).
+
+Later, to update the gem, type:
+
+```
+gem update github-pages
+```
+
+To build a local copy, go into the directory and type:
+
+```
+jekyll build
+```
+
+This will create (or modify) a _site/ directory, containing everything from assets/, and then the index.md and all pages/*.md files, converted to html. (So there’ll be _site/index.html and the various _site/pages/*.html.)
+
+**Do not commit this directory in a Pull Request!! Github will compile this directory on its own.**
+
+Type the following in order to “serve” the site. This will first run build, and so it does not need to be preceded by `jekyll build`.
+
+```
+jekyll serve
+```
+
+Now open your browser and go to http://localhost:4000
