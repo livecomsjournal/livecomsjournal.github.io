@@ -70,9 +70,9 @@ For an example of an article hosted on GitHub in this style (though not a LiveCo
 
 ### Copyright license
 
-In order to publish the article, LiveCoMS requires that authors sign [an additional contributor license](LiveCoMS_contributor_license.pdf) to clarify LiveCoMS rights to publish the article, regardless of the license the author uses in their own release of the article on GitHub.  This document also to confirms that the authors grant the publisher the right to distribute their article and that the authors are legally entitled to do so for all the material in the article.  
+In order to publish the article, LiveCoMS requires that authors sign [an additional contributor license](/assets/pdf/LiveCoMS_contributor_license.pdf) to clarify LiveCoMS rights to publish the article, regardless of the license the author uses in their own release of the article on GitHub.  This document also to confirms that the authors grant the publisher the right to distribute their article and that the authors are legally entitled to do so for all the material in the article.  
 
-This agreement is a license, *not a copyright transfer*; authors retain the copyright for their works, and therefore authors are not restricted in their own use or distribution of their work in any way by this document. 
+This agreement is a license, *not a copyright transfer*; authors retain the copyright for their works, and therefore authors are not restricted in their own use or distribution of their work in any way by this document.
 
 ### Writing style and editing
 
@@ -170,7 +170,7 @@ When ready for submission, the author uploads the final article PDF (created usi
 
 The authors must also submit with the final article PDF:
 
-  * As a single PDF file, a copy of their presubmission letter, appended with the response recieved from the Section Lead Editor approving the presubmission and specifying any changes or modifications to the scope the editors requested. The authors should also include a description of deviations, if any, from what was laid out in the presubmission letter, with a rationale for why the changes were made. This should be uploaded as a "Supporting File", with the descriptor "Presubmission Letter". 
+  * As a single PDF file, a copy of their presubmission letter, appended with the response recieved from the Section Lead Editor approving the presubmission and specifying any changes or modifications to the scope the editors requested. The authors should also include a description of deviations, if any, from what was laid out in the presubmission letter, with a rationale for why the changes were made. This should be uploaded as a "Supporting File", with the descriptor "Presubmission Letter".
   * An image to accompany the paper at least 300 x 200 pixels, any standard image format, color preferred, less than 1MB in size). This image is important to choose carefully, as it is the image that will appear on the article's front page and whenever the paper is shared on social media. We suggest something evocative of the research, but containing less scientific detail than, say, the table of contents image for an ACS journal.
   * Any Supporting Files that are intended for distribution with the final paper should also be uploaded at this time. There is no explicit limit to the number of files that can be added, though if there are many similar data files, they should be uploaded as a `.tgz`ed or `.zip`ed directory and include a README file.
 
@@ -193,8 +193,9 @@ Thus, all submitted manuscripts will be reviewed by a graduate students or postd
 
 Authors are also encouraged to have other researchers review their content, with comments and responses handled via the article's GitHub issue tracker.
 A history of revisions in response to community concerns, questions and suggestions will impact the review process favorably.
- 
+
 For more information about the role of reviewers and the criteria they are asked to use, please see the [Reviewer Information](https://livecomsjournal.github.io/policies/reviewer_information/).
+
 
 ## The revision process
 
@@ -202,6 +203,10 @@ If manuscript revision is requested, authors will typically be asked to re-submi
 After this time, a revised manuscript may be handled as a new submission.
 
 Your revised manuscript should be accompanied by detailed responses to the reviewers' comments and a summary of changes made to the manuscript. You should also include as an additional file a version that highlights changes in the manuscript.  [LatexDiff](https://ctan.org/pkg/latexdiff?lang=en), with documentation [here](https://mirror.hmc.edu/ctan/support/latexdiff/doc/latexdiff-man.pdf)  is one tool that can be used generate this version. If there are formatting issues, we suggest downloading the more recent template files, which may fix some formatting concerns.  We suggest documenting general categories of changes requested by the reviewers as separate GitHub issues, but that is not required for resubmission.
+
+## After acceptance
+
+After acceptance, the authors should perform a careful readthrough of the manuscript for errors, as no additional typesetting or proofing will be done after that point.  Specific tasks that need to be carried out to add issue numbers are listed [the editor instructions](https://livecomsjournal.github.io/policies/editor_instructions/#following-acceptance). After being published as an ASAP article, the authors will have one final chance to fix minor typos and inaccuracies before the article is published in the next regularly scheduled issue.  Beyond that, any typos will remain in the LiveCOMS version until the next peer-reviewed version.  Changes can of course be made at any time in the authors’ maintained version on GitHub, which is linked from the article itself.  
 
 # Updating LiveCoMS Articles
 
