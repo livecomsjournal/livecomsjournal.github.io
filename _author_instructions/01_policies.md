@@ -168,6 +168,10 @@ Posting to a preprint server can be done at any time prior to submission.
 When ready for submission, the author uploads the final article PDF (created using the [LiveCoMS templates](https://github.com/livecomsjournal/article_templates), discussed above) and a link to the GitHub site for the article.
 [General Scholastica submission instructions are available through on the Scholastica help page](http://help.scholasticahq.com/customer/portal/articles/1218626), our journal management system. There are a [few additional LiveCoMS submission instructions](http://www.livecomsjournal.org/for-authors).  
 
+Please make sure the metadata is correct. This includes affiliations, including department if applicable, for all authors, ORCID ID's for all authors. 
+Make sure that the abstract is correctly formatted. 
+This can be done by looking at the "preview" view of the abstract before submissiomn - it is easy to include extraneous carriage returns that mess up the formatting, which the editors can't change it for you, and which reviewers will see. 
+
 The authors must also submit with the final article PDF:
 
   * As a single PDF file, a copy of their presubmission letter, appended with the response recieved from the Section Lead Editor approving the presubmission and specifying any changes or modifications to the scope the editors requested. The authors should also include a description of deviations, if any, from what was laid out in the presubmission letter, with a rationale for why the changes were made. This should be uploaded as a "Supporting File", with the descriptor "Presubmission Letter".
@@ -186,7 +190,6 @@ Reviews will generally be anonymous, though reviewers will be allowed to make th
 Reviewers can also participate directly in revisions through the GitHub website, whether or not they remain anonymous.
 For example, a reviewer could choose to submit a very brief review addressing only suitability questions, and then provide extensive feedback to the authors on the GitHub issue tracker, allowing discussion of how the article should be revised to be done openly.
 This open revision approach may be particularly suitable for articles which will become community resources.
-
 
 A key criteria for articles in LiveCOMS is that they should be useful to a range of researchers, but especially beginning researchers.
 Thus, all submitted manuscripts will be reviewed by a graduate students or postdoc invited by the editorial board.
@@ -207,14 +210,12 @@ Your revised manuscript should be accompanied by detailed responses to the revie
 ## Upon acceptance
 After acceptance of your article, the first task is to prepare an appropriate "ASAP" version of the article which will be posted to the journal's website prior to publication of the next issue. Several steps, outlined below, are required. Note that ASAP version will essentially be final, as only minor corrections as detailed below will be permitted prior to publication as part of an issue.
 
-- Make sure the metadata is complete in the submission (including institution, ORCID ID, abstract). 
-- Have the managing editor assign a DOI to the article (correct metadata is needed for this).
+- Verify that the metadata is complete in the submission. This includes institutions with departments (if applicable) for all authors, ORCID ID for all authors, and a correctly formatted abstract.
 - Do a final check for issues with grammar, word choice, spelling, formatting (including issues with the LaTeX template, placement of figures, etc.) and typos, as normally would be done at the proofs stage. Please [reference the appropriate part of the author instructions](https://livecomsjournal.github.io/authors/policies/#writing-style-and-editing) for what to look for. Note that authors bear ultimate responsibility for ensuring the writing is of good quality. Editors may suggest improvements, but this is at their discretion.
 - Enable the LiveCoMS footer by including the `pubversion` class option in the document preamble, fill in the `\datereceived`, `\dateaccepted`, and `\pubDOI` fields, which the managing editor will provide after the Metadata is verified to be correct. You should make the PDF accessible on the GitHub repository as `releases/LiveCoMS_Article_VX.pdf`, where 'X' is the current article version.  The related header image should be at least 1200 pixels wide and in `.jpg` format, and should be available on the GitHub repository as `releases/header_VX.jpg`, where again 'X' is the current article version, and notify the editor when this has been done. 
 - Provide the editor who managed the article a "lede", a 30 word summary of the article that will accompany the article in social media posts.
-- Provide the editor with the ORCID IDs of all authors as well as affiliation, including department if applicable.
-- After being published as an ASAP article, you will have a final chance to fix minor typos and inaccuracies (but not substantive content) before the article is published in the next regularly scheduled issue.  Beyond that, any typos will remain in the LiveCoMS version until the next peer-reviewed version.  Changes can of course be made at any time in the authors’ maintained version on GitHub, which is linked from the article itself.  
-- When assigned to a journal issue, you will be notified by the editors about the volume, year, and article number, which should be used to set the `\pubvolume`, `\pubyear`, and `\articlenum` fields. Then recompile the PDF, and check it into your GitHub repository under the folder `releases/LiveCoMS_Article_VX.pdf`, where 'X' is the current article verrsion, along with any final corrections as noted above. At this point, you should tag the state of the repository as a release ([see instructions for this](https://help.github.com/articles/creating-releases/)), with name `published-version-VX`, where again, 'X' is the current version. 
+- After being published as an ASAP article, but before the article is published in the next regularly scheduled issue, you will have a final chance to fix minor typos and inaccuracies (but not substantive content)   Beyond that, any typos will remain in the LiveCoMS version until the next peer-reviewed version.  Changes can of course be made at any time in the authors’ maintained version on GitHub, which is linked from the article itself.  
+- In the day after acceptance ou will be notified by the editors about the volume, year, article number, and DOI (which will not yet be active, but will become active within a a few days), which should be used to set the `\pubvolume`, `\pubyear`, and `\articlenum` fields. Then recompile the PDF, and check it into your GitHub repository under the folder `releases/LiveCoMS_Article_VX.pdf`, where 'X' is the current article verrsion, along with any final corrections as noted above. At this point, you should tag the state of the repository as a release ([see instructions for this](https://help.github.com/articles/creating-releases/)), with name `published-version-VX`, where again, 'X' is the current version. 
 
 # Updating LiveCoMS Articles
 
