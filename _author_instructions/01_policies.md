@@ -141,13 +141,6 @@ All original computational/numerical work presented in LiveCoMS is expected to i
 All data presented should have error bars if available, though if drawn from literature data where no uncertainties were presented we understand if they cannot be given (though this should be noted).
 Preliminary guidance can be obtained from the yet-to-be-peer-reviewed [Best Practices manuscript](https://github.com/dmzuckerman/Sampling-Uncertainty/) on quantifying uncertainty.
 
-
-### Representative image
-
-Each article is posted alongside a key graphic or representative image; as part of the submission process, you must upload a representative image of your choice.
-This should be something which graphically portrays a key point from your article in a stand-alone manner or represents the area you are focusing on.
-
-
 ### Preprints
 
 Ultimately, assuming your article passes peer review, LiveCoMS will host a published version of your article, and you will have what essentially constitutes a preprint available on GitHub as well.
@@ -168,10 +161,14 @@ Posting to a preprint server can be done at any time prior to submission.
 When ready for submission, the author uploads the final article PDF (created using the [LiveCoMS templates](https://github.com/livecomsjournal/article_templates), discussed above) and a link to the GitHub site for the article.
 [General Scholastica submission instructions are available through on the Scholastica help page](http://help.scholasticahq.com/customer/portal/articles/1218626), our journal management system. There are a [few additional LiveCoMS submission instructions](http://www.livecomsjournal.org/for-authors).  
 
+Please make sure the metadata is correct. This includes affiliations, including department if applicable, for all authors, ORCID ID's for all authors. 
+Make sure that the abstract is correctly formatted. 
+This can be done by looking at the "preview" view of the abstract before submissiomn - it is easy to include extraneous carriage returns that mess up the formatting, which the editors can't change it for you, and which reviewers will see. 
+
 The authors must also submit with the final article PDF:
 
   * As a single PDF file, a copy of their presubmission letter, appended with the response recieved from the Section Lead Editor approving the presubmission and specifying any changes or modifications to the scope the editors requested. The authors should also include a description of deviations, if any, from what was laid out in the presubmission letter, with a rationale for why the changes were made. This should be uploaded as a "Supporting File", with the descriptor "Presubmission Letter".
-  * An image to accompany the paper at least 300 x 200 pixels, any standard image format, color preferred, less than 1MB in size). This image is important to choose carefully, as it is the image that will appear on the article's front page and whenever the paper is shared on social media. We suggest something evocative of the research, but containing less scientific detail than, say, the table of contents image for an ACS journal.
+  * A key graphic or representative cover image. This should be something which graphically portrays in general terms the subject area you are focusing on or the aims of the paper. This is not a table of contents abstract, as it will be automatically cropped and reisized when being shared in different formats.  It should be at least 1200 pixels across, though in most cases 2500 pixels across is better, and should be wider than it is high. It must be in `.jpg` format. This image is important to choose carefully, as it is the image that will appear on the article's front page and whenever the paper is shared on social media. We suggest something evocative of the research, but again, containing less scientific detail than, say, the table of contents abstract for an ACS journal.
   * Any Supporting Files that are intended for distribution with the final paper should also be uploaded at this time. There is no explicit limit to the number of files that can be added, though if there are many similar data files, they should be uploaded as a `.tgz`ed or `.zip`ed directory and include a README file.
 
 As part of the submission form, authors will suggest 4-5 reviewers.
@@ -186,7 +183,6 @@ Reviews will generally be anonymous, though reviewers will be allowed to make th
 Reviewers can also participate directly in revisions through the GitHub website, whether or not they remain anonymous.
 For example, a reviewer could choose to submit a very brief review addressing only suitability questions, and then provide extensive feedback to the authors on the GitHub issue tracker, allowing discussion of how the article should be revised to be done openly.
 This open revision approach may be particularly suitable for articles which will become community resources.
-
 
 A key criteria for articles in LiveCOMS is that they should be useful to a range of researchers, but especially beginning researchers.
 Thus, all submitted manuscripts will be reviewed by a graduate students or postdoc invited by the editorial board.
@@ -205,16 +201,17 @@ After this time, a revised manuscript may be handled as a new submission.
 Your revised manuscript should be accompanied by detailed responses to the reviewers' comments and a summary of changes made to the manuscript. You should also include as an additional file a version that highlights changes in the manuscript.  [LatexDiff](https://ctan.org/pkg/latexdiff?lang=en), with documentation [here](https://mirror.hmc.edu/ctan/support/latexdiff/doc/latexdiff-man.pdf)  is one tool that can be used generate this version. If there are formatting issues, we suggest downloading the more recent template files, which may fix some formatting concerns.  We suggest documenting general categories of changes requested by the reviewers as separate GitHub issues, but that is not required for resubmission.
 
 ## Upon acceptance
-After acceptance of your article, the first task is to prepare an appropriate "ASAP" version of the article which will be posted to the journal's website prior to publication of the next issue. Several steps, outlined below, are required. Note that ASAP version will essentially be final, as only minor corrections as detailed below will be permitted prior to publication as part of an issue.
 
-- Make sure the metadata is complete in the submission (including institution, ORCID ID, abstract). 
-- Have the managing editor assign a DOI to the article (correct metadata is needed for this).
-- Do a final check for issues with grammar, word choice, spelling, formatting (including issues with the LaTeX template, placement of figures, etc.) and typos, as normally would be done at the proofs stage. Please [reference the appropriate part of the author instructions](https://livecomsjournal.github.io/authors/policies/#writing-style-and-editing) for what to look for. Note that authors bear ultimate responsibility for ensuring the writing is of good quality. Editors may suggest improvements, but this is at their discretion.
-- Enable the LiveCoMS footer by including the `pubversion` class option in the document preamble, fill in the `\datereceived`, `\dateaccepted`, and `\pubDOI` fields, which the managing editor will provide after the Metadata is verified to be correct. You should make the PDF accessible on the GitHub repository as `releases/LiveCoMS_Article_VX.pdf`, where 'X' is the current article version.  The related header image should be at least 1200 pixels wide and in `.jpg` format, and should be available on the GitHub repository as `releases/header_VX.jpg`, where again 'X' is the current article version, and notify the editor when this has been done. 
+After acceptance of your article, the first task is to prepare an appropriate "ASAP" version of the article which will be posted to the journal's website prior to publication of the next issue. Several steps, outlined below, are required. Note that ASAP version will essentially be final, as only minor corrections as detailed below will be permitted prior to publication as part of an issue.
+- Verify that the metadata is complete in the submission. This includes institutions with departments (if applicable) for all authors, ORCID ID for all authors, and a correctly formatted abstract.
 - Provide the editor who managed the article a "lede", a 30 word summary of the article that will accompany the article in social media posts.
-- Provide the editor with the ORCID IDs of all authors as well as affiliation, including department if applicable.
-- After being published as an ASAP article, you will have a final chance to fix minor typos and inaccuracies (but not substantive content) before the article is published in the next regularly scheduled issue.  Beyond that, any typos will remain in the LiveCoMS version until the next peer-reviewed version.  Changes can of course be made at any time in the authors’ maintained version on GitHub, which is linked from the article itself.  
-- When assigned to a journal issue, you will be notified by the editors about the volume, year, and article number, which should be used to set the `\pubvolume`, `\pubyear`, and `\articlenum` fields. Then recompile the PDF, and check it into your GitHub repository under the folder `releases/LiveCoMS_Article_VX.pdf`, where 'X' is the current article verrsion, along with any final corrections as noted above. At this point, you should tag the state of the repository as a release ([see instructions for this](https://help.github.com/articles/creating-releases/)), with name `published-version-VX`, where again, 'X' is the current version. 
+- Send a signed copy of the [contributor license release form](https://github.com/livecomsjournal/livecomsjournal.github.io/blob/master/_author_instructions/LiveCoMS_contributor_license.pdf) to `managing@livecomsjournal.org`. As a reminder, this license does not transfer any copyright, but makes it easier for LiveCoMS to publish the article by clarifying that author does indeed have the right to distribute the article open source. See [copyright licence](https://livecomsjournal.github.io/authors/policies/#copyright-license) section for more information. 
+- Within a few days of verifying the metadata and providing the lede, you will be notified by the editors about the volume, year, article number, and DOI (which will not yet be active, but will become active after posting the ASAP article). Enable the LiveCoMS footer by including the `pubversion` class option in the document preamble, and use this information to fill in the `\datereceived`, `\dateaccepted`, `\pubvolume`, `\pubyear`, `\articlenum`, and `\pubDOI` fields.   
+- Do a final check for issues with grammar, word choice, spelling, formatting (including issues with the LaTeX template, placement of figures, etc.) and typos. This step replaces the galley proofs stage in many other journal article preparation processes. Please [reference the appropriate part of the author instructions](https://livecomsjournal.github.io/authors/policies/#writing-style-and-editing) for what to look for in final checks and updating. Note that authors bear ultimate responsibility for ensuring the writing is of good quality. Editors may suggest improvements, but this is at their discretion.
+- Recompile the PDF, and check it into your GitHub repository under the folder `releases/LiveCoMS_Article_VX.pdf`, where 'X' is the current article verrsion, along with any final corrections as noted above.
+- The represenatative header image (which was submitted in the original submission for review, but can be updated at this point if desired) should be available on the GitHub repository as `releases/header_VX.jpg`, where again 'X' is the current article version, and notify the editor when this has been done. 
+ At this point, you should tag the state of the repository as a release ([see instructions for this](https://help.github.com/articles/creating-releases/)), with name `published-version-VX`, where again, 'X' is the current version. 
+- After being published as an ASAP article, but before the article is published in the next regularly scheduled issue, you will have a final chance to fix minor typos and inaccuracies (but not substantive content). Beyond that, any typos will remain in the LiveCoMS version until the next peer-reviewed version.  Changes can of course be made at any time in the authors’ maintained version on GitHub, which is linked from the article itself.  
 
 # Updating LiveCoMS Articles
 
