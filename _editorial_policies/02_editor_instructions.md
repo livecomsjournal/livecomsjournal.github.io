@@ -57,7 +57,14 @@ Once an editor has handled the pre-review steps described above, the review proc
 Following acceptance, the procedure is:
 - Make sure the metadata is complete in the submission (including institution, ORCID, abstract). 
 - Have the managing editor obtain a DOI for the article (correct metadata is needed for this).
- - For the managing editors to obtain a DOI, email cuscholaradmin@colorado.edu whenever a new article (and/or issue) is up. They will generate and register the DOIs and forward the confirmation emails to managing@livecomsjournal.org.  They need the to know it is for LiveCoMS, and URL of the new article which includes the title, authors, ORCID IDs, and publication date. 
+ - For the managing editors to obtain a DOI, email cuscholaradmin@colorado.edu whenever a new article (and/or issue) is up. They will generate and register the DOIs and forward the confirmation emails to managing@livecomsjournal.org. The email should say:
+ > We are requesting a DOI for an new article in LiveCoMS (below is a specific example).
+ > The URL is: https://www.livecomsjournal.org/article/5067-best-practices-for-quantification-of-uncertainty-and-sampling-quality-in-molecular-simulations-article-v1-0 
+ > - Title: Best Practices for Quantification of Uncertainty and Sampling Quality in Molecular Simulations \[Article v1.0\]
+ > - Author 1: John Q. Public, ORCID 0000-0004-4338-2186
+ > - Author 2: Jane W. Public, ORCID 0000-0002-4339-2187
+ > - (other authors as needed)
+ > - Publication Date: 11/30/2018
 - Have the author do a final check for issues with grammar, word choice, spelling, formatting (including issues with the LaTeX template, placement of figures, etc.) and typos, as normally would be done at the proofs stage. The editor should provide some light assistance if it may be helpful to getting the article out in a timely manner.
 - Have the author enable the LiveCoMS footer by including the 'pubversion' class option in the document preamble, fill in the '\datereceived', '\dateaccepted', and '\pubDOI' fields, and provide a recompiled PDF for posting to the editor handling the submission and a managing editor.  The PDF should be accessible on the GitHub repository as `release/LiveCoMS_Article_VX.pdf`, where 'X' is the current article verrsion. The related header image should be at least 1200 pixels wide and in `.jpg` format, and should be available on the GitHub repository as `release/header_VX.jpg`, where 'X' is the current article version.
 - Have the author provide a "lede", a 30 word summary of the article that will accompany the article in social media posts.
