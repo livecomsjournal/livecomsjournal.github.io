@@ -107,6 +107,8 @@ References should be prepared in BibTeX format, as discussed further in our [art
 Our templates provide a bibliography style file (`.bst`) and use the `natbib` package; they will standardize format of your references to a reasonable extent.
 However, it is still important that your references use Title Case for article titles, and that they use journal title abbreviations.
 You are responsible for checking that any special characters appear properly, and otherwise ensuring that your final reference list is correct and well-formatted, including sufficient detail.
+We suggest that authors use tools such as [Fix BibTeX](https://github.com/jaimergp/fixbibtex) to check the integrity of entries in their bibliography.
+We point out that such tools may not correct BibTeX entries with perfect accuracy; authors are still ultimately reponsible for ensuring the correctness of their article's bibliography.
 Pay particular attention to formatting of non-journal articles as it is easy to end up omitting key citation information for content like software, poster presentations, preprints or other materials.
 
 ### Figures
