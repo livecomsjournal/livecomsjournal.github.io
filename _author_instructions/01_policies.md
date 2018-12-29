@@ -233,6 +233,8 @@ Important additional review criteria for a revision will include whether or not 
 Certain categories of article may need revision at different frequencies.
 For information on the review frequencies, see [author information for each of the types of articles](#types-of-articles).
 
+Article version numbers for articles intended for eventual submission to LiveCoMS should use version numbers less than 1.0 in their GitHub repositories. Once accepted for the first time, the article becomes Article v1.0.  When updating the GitHub version of the article, authors should update the version number, for example, something like Article v1.1). In between peer-reviewed, journal-published verrsions, which are denoted Artivcle VX.0, where X is an integer, suthors should use numbers >X.0 and <X+1.0 in the GitHub version, until the article is accepted the next time to LiveCoMS.  Any numerical versioning system the authors would like is acceptable as long as it follows the rules above, though a `(published version).(major version).(minor version)` scheme will probably be the most understandable to readers. 
+
 ## Engaging the Community in Improving Articles
 
 We require GitHub use for papers as it provides an easy mechanism for community feedback on the paper, allowing questions, comments, or additions.
