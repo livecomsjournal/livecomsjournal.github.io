@@ -318,6 +318,7 @@ Preprints are not considered prior publication.
 Documents that are major revisions of previously published articles are welcomed.
 However, authors should ensure that any material they publish in LiveCoMS is not subject to licensing restrictions (such as from another journal) which impedes its release under the selected license.
 Some journals let the authors retain the right to create derivative works, which could perhaps be exercised in preparing a review to be published in LiveCoMS.
+Authors are responsible for making sure they have all needed permissions to include previously published material, including figures.
 
 If an article is an adaptation of a previously published article, it must be noted in the submission cover letter and major changes noted.
 Evaluating whether such changes constitute a significant revision will be part of the review process.
