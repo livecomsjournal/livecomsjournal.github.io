@@ -44,6 +44,7 @@ The presubmission inquiry letter should be no more than **one page** in length, 
 * An explanation how the proposed manuscript differs from existing published work
 * Whether the manuscript is adapted from a previous article (and identify the article if so)
 * A summary of the expertise that the proposed authors have on the subject
+* A description of the plan for how the article will be updated, including the plan for transfering authorship if the original authors are unable to update it.
 * The proposed license enabling the article to be released freely to the public (see [Licensing](https://livecomsjournal.github.io/authors/policies/index.html#licensing) below for recommendations)
 
 Potential authors submitting a presubmission letter will typically receive an answer within two weeks with either encouragement for a full submission, a suggestion to engage with previous authors to extend an existing articles, or suggestions for more suitable publication routes.
