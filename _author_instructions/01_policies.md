@@ -234,6 +234,8 @@ Important additional review criteria for a revision will include whether or not 
 Certain categories of article may need revision at different frequencies.
 For information on the review frequencies, see [author information for each of the types of articles](#types-of-articles).
 
+LiveCoMS uses a versioning scheme for articles according to the basic form of `(major version).(minor version)`. The `(major version)` increments following peer review. Prior to initial publication, articles intended for LiveCoMS should use version numbers less than 1.0. Once accepted for the first time, the article becomes Article v1.0. Both the ASAP articles initially posted and the final version published as part of an issue are considered Article V1.0, but the ASAP versions are marked as such on the pdf. When updating the GitHub version of the article, authors should update the version number, for example, something like Article v1.1, such that the minor version indicates a revision to the peer-reviewed major version. In between peer-reviewed, journal-published versions, which are denoted Article VX.0, where X is an integer, authors should use numbers >X.0 and <X+1.0 in the GitHub version, until the article is accepted the next time to LiveCoMS, when its version number is incremented to X+1.0. Authors are free may adopt any other versioning conventions that do not contract the essential `(major version).(minor version)` scheme, such as descriptive tags or a third `(patch verison)`, if desired. 
+
 ## Engaging the Community in Improving Articles
 
 We require GitHub use for papers as it provides an easy mechanism for community feedback on the paper, allowing questions, comments, or additions.
