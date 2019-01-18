@@ -14,7 +14,9 @@ Tutorials are accompanied by associated other materials which help the reader pu
 These additional materials may include 
   - web pages with walkthroughs or instructional materials and downloadable files to work with
   - a website with training information and downloadable Jupyter notebooks teaching users how to perform a modeling task
-  - a more extensive online course-like format with recorded lectures.  
+  - a more extensive online course-like format with recorded lectures.
+  
+Tutorials must involve only software that has been previously validated through one or more peer-reviewed publications, and those must be referenced in the presubmission letter.  Often, one of the software developers will be one of the tutorial authors.  In some cases, other users will have sufficient expertise to provide the highest-quality tutorials expected for LiveCoMS. If no developer is a proposed author of the tutorial, the presubmission letter should provide sufficient argument why the authors' expertise is right for the tutorial. 
 
 **Scope of tutorials**: Tutorials should endeavor to cover a specific task or set of tasks at hand with explicit instructions, rather than cover too much information in a less detailed manner. However, they should also highlight how the steps might need to be modified, or additional care might need to be taken at particular points, to handle more general cases.  
 
