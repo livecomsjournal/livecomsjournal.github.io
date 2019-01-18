@@ -37,6 +37,9 @@ training in the fundamentals of molecular simulation, and (c) mistakes made due 
 Checklists in this journal will typically focus on errors that are likely to be made by users with training and experience in molecular simulations, i.e., errors of type (a) and (b).
 As such, normal best practices documents can and should assume a basic familiarity with the fundamentals of molecular simulations.
 
+## Presubmission letter requirements
+Best practices documents are intended to reflect not just a single opinion, but broad consensus, or if there is lack of consensus, a accurate summary of the multiple established views. Non-consensus views may be presented but explicitly qualified as such. This requirement for coverage of more than one viewpoint should be reflected in part by *having proposed authors from multiple independent research groups listed in the presubmission letter* for a best practices article.
+
 ## Additional criteria considered in reviews of best practices guides
 Reviewers will consider the following factors in reviewing best practices guides:
 * Would following the provided checklist help users avoid significant potential errors in simulation? Will the errors be profound and/or frequent? 
