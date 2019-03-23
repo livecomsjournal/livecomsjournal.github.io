@@ -10,7 +10,7 @@ permalink: /authors/software_analyses/
 ## What is a publishable software analysis paper for molecular simulation packages?
 
 Software analysis papers describe attempts to perform the same
-calculation with a range of different simulation programs, or perform 
+calculation with a range of different simulation programs, perform anaysis of changes in perfomrmance over a series of releases of a single software package.  In some cases, comparisons of the same calculation with different methods may also be appropriate for a software analysis paper.
  
 Such comparison should be updated periodically with different versions of
 the same programs (or potentially additional programs).
@@ -18,7 +18,7 @@ the same programs (or potentially additional programs).
 
 ## Additional criteria considered in review of software analysis papers
 * Does the manuscript include developers or advanced users of all programs being compared to ensure that comparisons are fair?
-* Are best practices being used in the software analyses?
+* Are best practices being used in the software analysis?
 * Are the methods applied to systems which for which reliable independent data are available?  Are the systems considered of sufficient complexity that readers will find the results convincing and generalizable?
 * Have the authors addressed whether a naive user could expect similar performance and why or why not?
 * Have the authors clearly identified both (a) the version(s) of the molecular simulations programs used in the comparison (e.g., through revision control tags, a standard version numbering system, or equivalent) and (b) any modifications made to the source code to facilitate the comparison?
@@ -26,4 +26,4 @@ the same programs (or potentially additional programs).
 
 ## Revision schedule for software analyses 
 * Articles should be updated when simulation packages have major revisions, or when the standard benchmarks change.
-* Run scripts, supporting files, and analysis routines should be provided via version-controlled repositories, with appropriate updates.
+* Run scripts, supporting files, and analysis routines must be provided via version-controlled repositories, with appropriate updates.
