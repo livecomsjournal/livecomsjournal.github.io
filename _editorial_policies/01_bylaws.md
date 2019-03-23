@@ -96,7 +96,7 @@ When in doubt, potential conflicts of interest should always be disclosed. Commo
 The order of reassignment will be cyclic; if Section Lead Editor A has a
 conflict, it will got to Section Lead Editor B, unless they also have a potential conflict, in which case it will go to C, and so on, returning to A after the sequence of sections is exhausted.
 In the case that all of the Section Lead Editors have potential conflicts, the Managing Editors will select an Associate Editor to assign an Associate Editor, with the order rotating as follows:
-    1. Comparison of Molecular Simulation Package Editor
+    1. Software Analyses Editor
     1. Tutorials Editor
     1. Best Practices Editor
     1. Review Editor
