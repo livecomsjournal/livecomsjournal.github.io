@@ -28,7 +28,7 @@ Click each type of article for more information for submitting an article of tha
 
 - [Perpetual Reviews](/authors/perpetual_reviews/) provide a review of a particular topical area, from the author's/authors' perspective, but are maintained to reflect the latest developments.
 
-- [Comparisons of Molecular Simulation Packages](/authors/compare_simulations/) attempt to perform the same calculation with a range of different simulation programs.
+- [Software Analyses](/authors/software_analyses/) attempt to perform the same calculation with a range of different simulation programs.
 
 - [Tutorials](/authors/tutorials/) provide walkthroughs or instructional materials and are accompanied by supporting files for use as training material.
 
@@ -56,7 +56,7 @@ Section Leads can be contacted at:
 - Best practices: [bestpractices@livecomsjournal.org](mailto:bestpractices@livecomsjournal.org)
 - Lessons learned: [lessonslearned@livecomsjournal.org](mailto:lessonslearned@livecomsjournal.org)
 - Perpetual reviews: [reviews@livecomsjournal.org](mailto:reviews@livecomsjournal.org)
-- Comparisons of molecular simulation packages: [computationalcomparisons@livecomsjournal.org](mailto:computationalcomparisons@livecomsjournal.org)
+- Softwarer Analyses: [software@livecomsjournal.org](mailto:software@livecomsjournal.org)
 
 
 ## Preparation of Your Article For Submission

@@ -38,8 +38,6 @@ authors_policies.md:
         url: /authors/policies/index.html#tables
       - title: Error analysis
         url: /authors/policies/index.html#error-analysis
-      - title: Representative image
-        url: /authors/policies/index.html#representative-image
       - title: Preprints
         url: /authors/policies/index.html#preprints
   - title: Submission and the Review Process
@@ -49,10 +47,10 @@ authors_policies.md:
       url: /authors/policies/index.html#article-submission
     - title: The review process
       url: /authors/policies/index.html#the-review-process
-    - title: Review criteria
-      url: /authors/policies/index.html#review-criteria
-    - title: The Revision Process
+    - title: The revision process
       url: /authors/policies/index.html#the-revision-process
+    - title: Upon acceptance
+      url: /authors/policies/index.html#upon-acceptance
   - title: Updating LiveCoMS Articles
     url: /authors/policies/index.html#updating-livecoms-articles
     children:
@@ -75,17 +73,6 @@ authors_policies.md:
       url: /authors/policies/index.html#author-contributions-and-order
     - title: Abandoned Documents
       url: /authors/policies/index.html#abandoned-documents
-
-authors_best_practices.md:
-  - title: Best Practices Guides
-    url: /authors/best_practices/index.html#
-    children:
-    - title: What is a best practices guide?
-      url: /authors/best_practices/index.html#what-is-a-best-practices-guide
-    - title: Additional factors considered in review of best practices guides
-      url: /authors/best_practices/index.html#additional-factors-considered-in-review-of-best-practices-guides
-    - title: Revision schedule for best practices guides
-      url: /authors/best_practices/index.html#revision-schedule-for-best-practices-guides
 
 authors_perpetual_reviews.md:
   - title: Perpetual Reviews
@@ -98,16 +85,29 @@ authors_perpetual_reviews.md:
     - title: Revision schedule for perpetual reviews
       url: /authors/perpetual_reviews/index.html#revision-schedule-for-perpetual-reviews
 
-authors_compare_simulations.md:
-  - title: Comparisons of Molecular Simulation Packages
-    url: /authors/compare_simulations/index.html#
+authors_best_practices.md:
+  - title: Best Practices Guides
+    url: /authors/best_practices/index.html#
     children:
-    - title: What is a publishable comparison for molecular simulation packages?
-      url: /authors/compare_simulations/index.html#what-is-a-publishable-comparison-for-molecular-simulation-packages
-    - title: Additional factors considered in review of comparisons of molecular simulation programs
-      url: /authors/compare_simulations/index.html#additional-factors-considered-in-review-of-comparisons-of-molecular-simulation-programs
-    - title: Revision schedule for comparisons of molecular simulation programs
-      url: /authors/compare_simulations/index.html#revision-schedule-for-comparisons-of-molecular-simulation-programs
+    - title: What is a best practices guide?
+      url: /authors/best_practices/index.html#what-is-a-best-practices-guide
+    - title: Presubmission letter requirements
+      url: /authors/best_practices/index.html#presubmission-letter-requirements
+    - title: Additional criteria considered in reviews of best practices guides
+      url: /authors/best_practices/index.html#additional-criteria-considered-in-reviews-of-best-practices-guides
+    - title: Revision schedule for best practices guides
+      url: /authors/best_practices/index.html#revision-schedule-for-best-practices-guides
+
+authors_software_analyses.md:
+  - title: Software Analyses
+    url: /authors/software_analyses/index.html#
+    children:
+    - title: What is a publishable software analysis paper for molecular simulation packages?
+      url: /authors/software_analyses/index.html#what-is-a-publishable-software-analysis-paper-for-molecular-simulation-packages
+    - title: Additional criteria considered in review of software analysis papers
+      url: /authors/software_analyses/index.html#additional-criteria-considered-in-review-of-software-analysis-papers
+    - title: Revision schedule for software analyses
+      url: /authors/software_analyses/index.html#revision-schedule-for-software-analyses
 
 authors_tutorials.md:
   - title: Tutorials
@@ -115,8 +115,8 @@ authors_tutorials.md:
     children:
     - title: What is a publishable tutorial?
       url: /authors/tutorials/index.html#what-is-a-publishable-tutorial
-    - title: Additional factors considered in review of tutorials
-      url: /authors/tutorials/index.html#additional-factors-considered-in-review-of-tutorials
+    - title: Additional criteria considered in the review of tutorials
+      url: /authors/tutorials/index.html#additional-criteria-considered-in-the-review-of-tutorials
     - title: Revision schedule for tutorials
       url: /authors/tutorials/index.html#revision-schedule-for-tutorials
 
@@ -128,92 +128,46 @@ authors_lessons_learned.md:
       url: /authors/lessons_learned/index.html#what-is-a-lesson-learned-ie-negative-results-document
     - title: Manuscript preparation instructions
       url: /authors/lessons_learned/index.html#manuscript-preparation-instructions
-    - title: Additional factors considered in review of "lessons learned" documents
-      url: /authors/lessons_learned/index.html#additional-factors-considered-in-review-of-lessons-learned-documents
-    - title: Revision schedule for "lessons learned" documents
+    - title: Additional critera considered in the review of lessons learned articles
+      url: /authors/lessons_learned/index.html#additional-critera-considered-in-the-review-of-lessons-learned-articles
+    - title: Revision schedule for lessons learned documents
       url: /authors/lessons_learned/index.html#revision-schedule-for-lessons-learned-documents
 
-authors_policies.md:
-  - title: General Author Instructions
-    url: /authors/policies/index.html#
+editor_instructions.md:
+  - title: Instructions for Editors
+    url: /policies/editor_instructions/index.html#
     children:
-    - title: Introduction
-      url: /authors/policies/index.html#introduction
-    - title: General Article Guidelines
-      url: /authors/policies/index.html#general-article-guidelines
-    - title: Types of Articles
-      url: /authors/policies/index.html#types-of-articles
-  - title: Before Submission
-    url: /authors/policies/index.html#before-submission
-    children:
-    - title: Presubmission Letter
-      url: /authors/policies/index.html#presubmission-letter
-    - title: Preparation of Your Article For Submission
-      url: /authors/policies/index.html#preparation-of-your-article-for-submission
+    - title: Workflow overview
+      url: /policies/editor_instructions/index.html#workflow-overview
+    - title: Pre-submission letters
+      url: /policies/editor_instructions/index.html#pre-submission-letters
+    - title: Pre-review processing
+      url: /policies/editor_instructions/index.html#pre-review-processing
       children:
-      - title: Copyright license
-        url: /authors/policies/index.html#copyright-license
-      - title: Writing style and editing
-        url: /authors/policies/index.html#writing-style-and-editing
-      - title: References
-        url: /authors/policies/index.html#references
-      - title: Article length
-        url: /authors/policies/index.html#article-length
-      - title: Footnotes
-        url: /authors/policies/index.html#footnotes
-      - title: Language
-        url: /authors/policies/index.html#language
-      - title: Abbreviations
-        url: /authors/policies/index.html#abbreviations
-      - title: Authors names
-        url: /authors/policies/index.html#authors-names
-      - title: Article layout
-        url: /authors/policies/index.html#article-layout
-      - title: References
-        url: /authors/policies/index.html#references
-      - title: Figures
-        url: /authors/policies/index.html#figures
-      - title: Tables
-        url: /authors/policies/index.html#tables
-      - title: Error analysis
-        url: /authors/policies/index.html#error-analysis
-      - title: Representative image
-        url: /authors/policies/index.html#representative-image
-      - title: Preprints
-        url: /authors/policies/index.html#preprints
-  - title: Submission and the Review Process
-    url: /authors/policies/index.html#submission-and-the-review-process
+      - title: Lead Editor
+        url: /policies/editor_instructions/index.html#lead-editor
+      - title: Associate Editor
+        url: /policies/editor_instructions/index.html#associate-editor
+    - title: Review handling
+      url: /policies/editor_instructions/index.html#review-handling
+
+reviewer_information.md:
+  - title: Information for Reviewers
+    url: /policies/reviewer_information/index.html#
     children:
-    - title: Article submission
-      url: /authors/policies/index.html#article-submission
-    - title: The review process
-      url: /authors/policies/index.html#the-review-process
-    - title: Review criteria
-      url: /authors/policies/index.html#review-criteria
-    - title: The Revision Process
-      url: /authors/policies/index.html#the-revision-process
-  - title: Updating LiveCoMS Articles
-    url: /authors/policies/index.html#updating-livecoms-articles
+    - title: Brief overview of the review process
+      url: /policies/reviewer_information/index.html#brief-overview-of-the-review-process
+    - title: Reviewer form
+      url: /policies/reviewer_information/index.html#reviewer-form
+
+reviewing.md:
+  - title: Policies About Review of Manuscripts
+    url: /policies/reviewing/index.html#
     children:
-    - title: Engaging the Community in Improving Articles
-      url: /authors/policies/index.html#engaging-the-community-in-improving-articles
-    - title: Paper Writing as Code Development
-      url: /authors/policies/index.html#paper-writing-as-code-development
-  - title: Authorship and Changes to Authorship
-    url: /authors/policies/index.html#authorship-and-changes-to-authorship
-  - title: Other Policies for Submitted Articles
-    url: /authors/policies/index.html#other-policies-for-submitted-articles
-    children:
-    - title: Funding Compliance
-      url: /authors/policies/index.html#funding-compliance
-    - title: Licensing
-      url: /authors/policies/index.html#licensing
-    - title: Prior Publication
-      url: /authors/policies/index.html#prior-publication
-    - title: Author contributions and order
-      url: /authors/policies/index.html#author-contributions-and-order
-    - title: Abandoned Documents
-      url: /authors/policies/index.html#abandoned-documents
+    - title: LiveCoMS review
+      url: /policies/reviewing/index.html#livecoms-review
+    - title: Conflicts of interest
+      url: /policies/reviewing/index.html#conflicts-of-interest
 
 policies_bylaws.md:
   - title: Bylaws of the Living Journal of Computational Molecular Science
@@ -232,55 +186,13 @@ policies_bylaws.md:
     - title: VI. Amendments
       url: /policies/livecoms_bylaws/index.html#vi-amendments
 
-editor_instructions.md:
-  - title: Instructions for Editors
-    url: /policies/editor_instructions/index.html#
-    children:
-    - title: Workflow overview
-      url: /policies/editor_instructions/index.html#workflow-overview
-    - title: Pre-review processing
-      url: /policies/editor_instructions/index.html#pre-review-processing
-      children:
-      - title: Lead Editor
-        url: /policies/editor_instructions/index.html#lead-editor
-      - title: Associate Editor
-        url: /policies/editor_instructions/index.html#associate-editor
-    - title: Review handling
-      url: /policies/editor_instructions/index.html#review-handling
+thanks.md:
+  - title: Thanks
+    url: /about/thanks/index.html#
 
-reviewing.md:
-  - title: Policies About Review of Manuscripts
-    url: /policies/reviewing/index.html#
-    children:
-    - title: LiveCoMS review
-      url: /policies/reviewing/index.html#livecoms-review
-    - title: Conflicts of interest
-      url: /policies/reviewing/index.html#conflicts-of-interest
-
-reviewer_information.md:
-  - title: Information for Reviewers
-    url: /policies/reviewer_information/index.html#
-    children:
-    - title: Brief overview of the review process
-      url: /policies/reviewer_information/index.html#brief-overview-of-the-review-process
-    - title: Reviewer letters
-      url: /policies/reviewer_information/index.html#reviewer-letters
-      children:
-      - title: Sample review request letter
-        url: /policies/reviewer_information/index.html#sample-review-request-letter
-      - title: Sample review action/thanks for agreeing letter
-        url: /policies/reviewer_information/index.html#sample-review-actionthanks-for-agreeing-letter
-      - title: Reviewer ranking questions
-        url: /policies/reviewer_information/index.html#reviewer-ranking-questions
-    - title: Sample decision letters
-      url: /policies/reviewer_information/index.html#sample-decision-letters
-      children:
-      - title: Minor revisions
-        url: /policies/reviewer_information/index.html#minor-revisions
-      - title: More significant revisions
-        url: /policies/reviewer_information/index.html#more-significant-revisions
-      - title: Rejection
-        url: /policies/reviewer_information/index.html#rejection
+earlycareer.md:
+  - title: For Students and Early Career Scientists
+    url: /about/earlycareer/index.html#
 
 about_paper_code.md:
   - title: Paper Writing as Code Development
@@ -292,11 +204,3 @@ about_paper_code.md:
       url: /about/paper_code/index.html#tools-for-paper-writingcode-development
     - title: How it works in practice
       url: /about/paper_code/index.html#how-it-works-in-practice
-
-thanks.md:
-  - title: Thanks
-    url: /about/thanks/index.html#
-
-earlycareer.md:
-  - title: For Students and Early Career Scientists
-    url: /about/earlycareer/index.html#
