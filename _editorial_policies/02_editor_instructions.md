@@ -46,7 +46,7 @@ Once an editor has handled the pre-review steps described above, the review proc
 - Begins the process of conveying reviews to authors once two have been received, unless the need for additional expertise requires a third review. In addition to the two required peer reviews, a student review must also be obtained. A student reivew may be edited to ensure anonymity and proper tone, but not for substance.
 
 - Handles any potential conflict of interests disclosed by reviewers consistent with [editorial policy](https://livecomsjournal.github.io/policies/editorial_board/)
-- Makes reviewers aware of the [review criteria](https://livecomsjournal.github.io/https://livecomsjournal.github.io/policies/reviewer_information/), including category-specific review criteria.
+- Makes reviewers aware of the [review criteria](https://livecomsjournal.github.io/policies/reviewer_information/), including category-specific review criteria.
 - Performs a check that the GitHub repository contains all of the files in the submission.
 - Ensures reviews are submitted and analyzed in a timely manner (all reviews should be submitted in no more than about 25 days), reaching out to remind reviewers as needed and solicit additional reviews if reviewers are too slow or their analysis conflicts
 - Potentially helps ensure reviewer feedback is fair
