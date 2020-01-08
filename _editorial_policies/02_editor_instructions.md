@@ -37,14 +37,15 @@ Before assigning manuscripts for review, editors have several main tasks:
 - Identify suitable reviewers, who may include experts suggested by the authors, others in the field you already know of, or authors cited frequently in the article. 
   LiveCoMS generally requires at least two standard reviewers in addition to a student reviewer, though exceptional circumstances (such as extensive community feedback via GitHub) may warrant deviations from this policy. The requirement for a student reviewer for every submission is a unique strength of LiveCoMS that enhances the pedagogical value of every accepted paper.
 - The Associate Editor should also notify get the Section Lead ditor if there is any controversy expected (e.g. the reviewers disagree significantly on the merits of the paper, any plagarism potentially evident).
+-  Associate Editors should [review the instructions for using the Scholastica interface](see section 4, "Managing Reviewers", especially) periodically to remind themselves how to work with the interface for inviting reviewers and manage manuscripts.
 
 
 ## Review handling
 
 Once an editor has handled the pre-review steps described above, the review process is largely similar to typical journals. The editor:
-- Contacts suitable reviewers to request reviews, including a student reviewer, noting our conflict of interest policy. Timing and policy details will be automatically provided to reviewers via the form-letter requests.  Reviews will be due in 15 days, though requests for extension will be routinely granted, for an additional 7-10 days.  In the event a reviewer misses an extended deadline, the editor should request an additional reviewer. 
-- Begins the process of conveying reviews to authors once two have been received, unless the need for additional expertise requires a third review. In addition to the two required peer reviews, a student review must also be obtained. A student reivew may be edited to ensure anonymity and proper tone, but not for substance.
 
+- Contacts suitable reviewers to request reviews, including a student reviewer, noting our conflict of interest policy. Timing and policy details will be automatically provided to reviewers via the form-letter requests.  Reviews will be due in 15 days, though requests for extension will be routinely granted, for an additional 7-10 days.  In the event a reviewer misses an extended deadline, the editor should request an additional reviewer.  Note that there are specific e-mail templates you can use to invite reviewers (look in the upper right of the invitation to reviewer composition panel); you do not need to write your own. These templates will automatically fill in your name and the manuscript name (but not the reviewer name).
+- Begins the process of conveying reviews to authors once two have been received, unless the need for additional expertise requires a third review. In addition to the two required peer reviews, a student review must also be obtained. A student reivew may be edited to ensure anonymity and proper tone, but not for substance.
 - Handles any potential conflict of interests disclosed by reviewers consistent with [editorial policy](https://livecomsjournal.github.io/policies/editorial_board/).
 - Makes reviewers aware of the [review criteria](https://livecomsjournal.github.io/policies/reviewer_information/), including category-specific review criteria.
 - Performs a check that the GitHub repository contains all of the files in the submission.
