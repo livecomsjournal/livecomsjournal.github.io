@@ -113,6 +113,8 @@ We suggest that authors use tools such as [Fix BibTeX](https://github.com/jaimer
 We point out that such tools may not correct BibTeX entries with perfect accuracy; authors are still ultimately reponsible for ensuring the correctness of their article's bibliography.
 Pay particular attention to formatting of non-journal articles as it is easy to end up omitting key citation information for content like software, poster presentations, preprints or other materials.
 
+Authors may benefit from automated tools to curate/check BibTeX files against automatic online sources, such as [betterbib](https://github.com/nschloe/betterbib). Such checks typically still require manual curation, but they can be very helpful in identifying potential errors or mistakes. 
+
 ### Figures
 
 Our largest concern in the construction and preparation of figures is their quality in the final PDF, so we do not *require* any specific image format for figures.
