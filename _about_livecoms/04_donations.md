@@ -21,7 +21,7 @@ You can also support LiveCoMS by:
   * Spreading the word about LiveCoMS to your colleagues, mentors, and students.
 
 
-###Financial costs for LiveCoMS
+### Financial costs for LiveCoMS
 
 LiveCoMS runs a very lean budget in order to keep costs for
 contributors low.  Managing editors and editorial board members
