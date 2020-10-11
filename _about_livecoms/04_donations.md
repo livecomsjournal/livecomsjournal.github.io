@@ -7,9 +7,16 @@ excerpt: How to donate to LiveCoMS
 permalink: /about/donations
 ---
 
-  We very much appreciate financial donations to LiveCoMS! Donations are made
-  to the University of Colorado Boulder, the official publisher of the journal, to a fund exclusively for the
-  use of LiveCoMS and controlled by the managing editors. Follow the link below to donate:
+### Donations to LiveCoMS
+
+  We very much appreciate financial donations to LiveCoMS! Donations
+  are made to the CU Foundation of University of Colorado Boulder, the
+  official publisher of the journal, to a fund exclusively for use of
+  LiveCoMS and controlled by the managing editors. The CU Foundation
+  is a 501(c)(3) charitable organization, and donations are thus
+  usually tax-deductible.
+ 
+Follow the link felow to donate:
 
   <p><a href="https://giving.cu.edu/fund/living-journal-computational-molecular-science-support-fund" class="btn ">Donate Now to LiveCoMS!</a></p>
 
