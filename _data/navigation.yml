@@ -186,6 +186,18 @@ policies_bylaws.md:
     - title: VI. Amendments
       url: /policies/livecoms_bylaws/index.html#vi-amendments
 
+donations.md:
+  - title: Donating to LiveCoMS
+    url: /about/donationsindex.html#
+    children:
+    - title: 
+      url: /about/donationsindex.html#
+      children:
+      - title: Donations to LiveCoMS
+        url: /about/donationsindex.html#donations-to-livecoms
+      - title: Financial costs for LiveCoMS
+        url: /about/donationsindex.html#financial-costs-for-livecoms
+
 thanks.md:
   - title: Thanks
     url: /about/thanks/index.html#
