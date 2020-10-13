@@ -14,7 +14,7 @@ permalink: /about/donations
   official publisher of the journal, to a fund exclusively for use of
   LiveCoMS and controlled by the managing editors. The CU Foundation
   is a 501(c)(3) charitable organization, and donations are thus
-  usually tax-deductible.
+  generally tax-deductible for the purposes of U.S. taxes.
  
 Follow the link felow to donate:
 
@@ -41,8 +41,7 @@ are:
 
 The main sources of income for LiveCoMS are donations and article
 charges. We in particular appreciate seed funding provided by [CU
-Boulder Libraries](https://www.colorado.edu/libraries/), as well as continuing in-kind contributions by
-managing DOI submissions and journal metadata. Article charges are
+Boulder Libraries](https://www.colorado.edu/libraries/), as well as continuing support with management of DOIs and journal metadata. Article charges are
 $100 for each article upon submission, from which we receive about
 $80 after charges from Scholastica and processing fees.
 
@@ -50,5 +49,5 @@ If we raise more money through donations than cover our costs, we will work to:
   * Hire web developers and designers to support better .tex templates and improvements to the website
   * Investigate advertising options to better raise awareness of the journal and its purposes. 
   * Hire copy editors to assist in final journal submissions
-  * Waiving submission fees in part (based on need) or in whole.
+  * Waive submission fees in part (based on need) or in whole.
   * Create a buffer for future financial issues.
