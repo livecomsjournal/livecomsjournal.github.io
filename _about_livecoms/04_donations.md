@@ -4,7 +4,7 @@ sidebar:
   nav: donations.md
 title: Donating to LiveCoMS 
 excerpt: How to donate to LiveCoMS
-permalink: /about/donations
+permalink: /about/donations/
 ---
 
 ### Donations to LiveCoMS
