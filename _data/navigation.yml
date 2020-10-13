@@ -188,15 +188,15 @@ policies_bylaws.md:
 
 donations.md:
   - title: Donating to LiveCoMS
-    url: /about/donationsindex.html#
+    url: /about/donations/index.html#
     children:
     - title: 
-      url: /about/donationsindex.html#
+      url: /about/donations/index.html#
       children:
       - title: Donations to LiveCoMS
-        url: /about/donationsindex.html#donations-to-livecoms
+        url: /about/donations/index.html#donations-to-livecoms
       - title: Financial costs for LiveCoMS
-        url: /about/donationsindex.html#financial-costs-for-livecoms
+        url: /about/donations/index.html#financial-costs-for-livecoms
 
 thanks.md:
   - title: Thanks
