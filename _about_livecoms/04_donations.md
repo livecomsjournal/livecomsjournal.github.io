@@ -46,8 +46,8 @@ $100 for each article upon submission, from which we receive about
 $80 after charges from Scholastica and processing fees.
 
 If we raise more money through donations than cover our costs, we will work to:
-  * Hire web developers and designers to support better .tex templates and improvements to the website
+  * Hire web developers and designers to support better .tex templates and improvements to the website.
   * Investigate advertising options to better raise awareness of the journal and its purposes. 
-  * Hire copy editors to assist in final journal submissions
+  * Hire copy editors to assist in final journal submissions.
   * Waive submission fees in part (based on need) or in whole.
-  * Create a buffer for future financial issues.
+  * Create a buffer against future financial issues.
