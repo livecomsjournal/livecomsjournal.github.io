@@ -147,4 +147,4 @@ In the case that all of the Section Lead Editors have potential conflicts, the M
    These bylaws may be amended by two-thirds of the vote of the entire
    Editorial Board.
 
-This version of the bylaws dated September (fill in date approved), 2018.
+This version of the bylaws dated October 14, 2018.
