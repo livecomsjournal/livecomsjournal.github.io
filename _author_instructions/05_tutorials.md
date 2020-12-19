@@ -35,7 +35,7 @@ Our goal is to encourage the development of high quality tutorials by providing 
 * Do they include enough information on how to generalize the approach to handle other cases, and highlight major issues to consider?
 * Do the tutorials use commonly agreed on best practices?
 * Do the tutorial authors clearly provide, where possible, information (e.g., primary literature citations) about why particular choices are being made during the step-by-step process?
-* Does the tutorial require use of proprietary software or data?  If so, are workarounds made available for reserachers who may not have access to such software or data?
+* Does the tutorial require use of proprietary software or data?  If so, are workarounds made available for researchers who may not have access to such software or data?
 
 ## Revision schedule for tutorials
 
