@@ -8,6 +8,7 @@ permalink: /authors/tutorials/
 ---
 
 ## What is a publishable tutorial and/or training article?
+As detailed below, a tutorial is largely a procedural guide to a particular piece of software, whereas a training article is more introdcutory and provides general background preparation for diverse software packages.
 The guidelines below will discuss tutorials and training articles separately, but the editors recognize that authors may wish to submit hybrid training/tutorial articles.  Authors pursuing a hybrid approach should carefully lay out their proposal in a pre-submission letter.  The editors are not setting pre-conditions on hybrid articles, except that they should combine elements from both types of papers in a logical way suitable to the goals of the article.
 
 ## Tutorials
