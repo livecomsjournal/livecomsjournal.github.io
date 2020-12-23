@@ -11,7 +11,7 @@ permalink: /authors/tutorials/
 As detailed below, a tutorial is largely a procedural guide to a particular piece of software, whereas a training article provides an introduction to a procedure or theory and thus provides general background preparation for performing molecular simulation calculations with diverse software packages.
 The guidelines below will discuss tutorials and training articles separately, but the editors recognize that authors may wish to submit hybrid training/tutorial articles.  Authors pursuing a hybrid approach should carefully lay out their proposal in a pre-submission letter.  The editors are not setting pre-conditions on hybrid articles, except that they should combine elements from both types of papers in a logical way suitable to the goals of the article.
 
-## Tutorials
+## Tutorials: Definition and scope
 Tutorials are articles that take users through specific tasks or sequences of tasks within a particular established software platform, to help the users learn how to do these tasks on their own for other applications or purposes. 
 
 Tutorials are accompanied by associated other materials which help the reader put into practice the calculations described by the tutorial.  
@@ -47,7 +47,7 @@ Authors should generally update tutorials as the software involved
 changes; these tutorials are expected to be kept functioning and if
 they do not, they may be indicated as out-of-date on LiveCoMS' site.
 
-## Training articles: definition and scope
+## Training articles: Definition and scope
 Training articles are largely self-contained and introduce readers to the theory and/or typical procedures for a particular aspect of molecular simulation.  Training articles need not refer to specific software commands and procedures but may do so to further the pedagogical goals of the paper.  As needed, training articles are likely to display more details of calculations than typically are shown in research articles, for example, noting any mathematical principles or "tricks" used to derive key results.
 
 **Prerequisites for training articles**: Training articles should clearly state the target audience and knowledge prerequisites.  Although the authors may imagine a particular career-level (e.g., undergraduate or graduate), given the diversity of disciplinary curricula, it is more important to specify precisely any knowledge prerequisites  (e.g., vector calculus, basic thermodynamics).  If a particular software or programming environment plays a central role in the article, that should be specified.  Key prerequisites should be noted in the article abstract to permit readers to rapidly ascertain an articles suitability.
