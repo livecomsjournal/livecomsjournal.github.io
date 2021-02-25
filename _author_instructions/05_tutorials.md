@@ -2,8 +2,8 @@
 layout: single
 sidebar:
   nav: authors_tutorials.md
-title: Tutorials
-excerpt: What is a publishable tutorial?
+title: Tutorials and Training Articles
+excerpt: What is a publishable tutorial or training article?
 permalink: /authors/tutorials/
 ---
 

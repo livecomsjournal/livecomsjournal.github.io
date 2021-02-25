@@ -110,15 +110,21 @@ authors_best_practices.md:
       url: /authors/best_practices/index.html#revision-schedule-for-best-practices-guides
 
 authors_tutorials.md:
-  - title: Tutorials
+  - title: Tutorials and Training Articles
     url: /authors/tutorials/index.html#
     children:
-    - title: What is a publishable tutorial?
-      url: /authors/tutorials/index.html#what-is-a-publishable-tutorial
+    - title: What is a publishable tutorial and/or training article?
+      url: /authors/tutorials/index.html#what-is-a-publishable-tutorial-andor-training-article
+    - title: Tutorials: Definition and scope
+      url: /authors/tutorials/index.html#tutorials-definition-and-scope
     - title: Additional criteria considered in the review of tutorials
       url: /authors/tutorials/index.html#additional-criteria-considered-in-the-review-of-tutorials
     - title: Revision schedule for tutorials
       url: /authors/tutorials/index.html#revision-schedule-for-tutorials
+    - title: Training articles: Definition and scope
+      url: /authors/tutorials/index.html#training-articles-definition-and-scope
+    - title: Additional criteria considered in the review of training articles
+      url: /authors/tutorials/index.html#additional-criteria-considered-in-the-review-of-training-articles
 
 authors_lessons_learned.md:
   - title: Lessons Learned
