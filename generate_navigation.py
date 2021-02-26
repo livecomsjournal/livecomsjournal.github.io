@@ -33,7 +33,10 @@ def make_link_from_heading(heading):
 
 def print_subtoc(headings, level, file_location):
     for h in headings:
-        print(level*2*' ' + '- title: ' + h['title'])
+        # We'll put the title between quotation marks to allow for colons,
+        # so we need to escape any quotation marks in the title
+        title = h['title'].replace('"', '\\"')
+        print(level*2*' ' + '- title: "' + title + '"')
         print(level*2*' ' + '  url: ' + file_location + h['ref'])
         if h['sub']:
             print(level*2*' ' + '  children:')
