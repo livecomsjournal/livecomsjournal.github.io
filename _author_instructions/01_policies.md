@@ -30,7 +30,7 @@ Click each type of article for more information for submitting an article of tha
 
 - [Software Analyses](/authors/software_analyses/) attempt to perform the same calculation with a range of different simulation programs.
 
-- [Tutorials](/authors/tutorials/) provide walkthroughs or instructional materials and are accompanied by supporting files for use as training material.
+- [Tutorials and Training Articles](/authors/tutorials/) provide walkthroughs and are accompanied by supporting files for use as training material or instructional materials on important general principles or calculations in molecular science.
 
 - [Lessons Learned](/authors/lessons_learned/) highlight failed studies on a particular topic that are instructive/provide important lessons, helping new authors avoid mistakes encountered previously by others.
 
