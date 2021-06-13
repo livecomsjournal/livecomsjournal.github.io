@@ -38,15 +38,15 @@ Click each type of article for more information for submitting an article of tha
 
 ## Presubmission Letter
 
-Before drafting an article, authors should send a presubmission inquiry letter to the [Lead Editor for the relevant area](http://www.livecomsjournal.org/editorial-board) (see also below).
+Before submitting article, authors **must** send a presubmission inquiry letter to the [Lead Editor for the relevant area](http://www.livecomsjournal.org/editorial-board) (and see these emails below as wee). We **strongly** encourage writers of prospective articles to send this inquiry letter in the early stages of drafting an article.
 The presubmission inquiry letter should be no more than **one page** in length, and should include:
 * An outline the scope of the proposed contribution
 * An explanation how the proposed manuscript differs from existing published work
-* Whether the manuscript is adapted from a previous article (and identify the article if so)
+* Whether the manuscript is adapted from a previous article (and identify the article if so), and if permissions to use this previous document have been obtained if necessary. As long as necessary permissions have been obtained, and the article will contain substantive new work, then previous publication of parts of the work does not prejudice acceptance.
 * A summary of the expertise that the proposed authors have on the subject
 * A description of the plan for how the article will be updated, including the plan for transfering authorship if the original authors are unable to update it.
 * The proposed license enabling the article to be released freely to the public (see [Licensing](https://livecomsjournal.github.io/authors/policies/index.html#licensing) below for recommendations)
-* Some article types have additional requirements for the presubmission letter; see the section instructions above for these additional requirements.
+* Some article types have **additional requirements** for the presubmission letter; see the section instructions above for these additional requirements.
 
 Potential authors submitting a presubmission letter will typically receive an answer within two weeks with either encouragement for a full submission, a suggestion to engage with previous authors to extend an existing articles, or suggestions for more suitable publication routes.
 Articles should be submitted within six months of a notification of encouragement.
@@ -67,8 +67,6 @@ by one of the authors (or their organization/group) on [GitHub](https://www.gith
 LiveCoMS [provides template LaTeX files to start from](https://github.com/livecomsjournal/article_templates) for the different article types; category-specific guidelines are [linked above](https://livecomsjournal.github.io/authors/policies/#types-of-articles) and additional guidance on document structure is given in the structure of the [LaTeX templates](https://github.com/livecomsjournal/article_templates) themselves and comments therein.
 We require that articles submitted to LiveCoMS use the provided templates so that the journal has a consistent visual presentation.
 Additionally, articles should include clear links to, and mention of, the relevant GitHub repository and encourage community participation/feedback via GitHub, as indicated in the provided templates.
-
-For an example of an article hosted on GitHub in this style (though not a LiveCoMS article), see [the following perpetual review](https://github.com/MobleyLab/benchmarksets).
 
 ### Copyright license
 
@@ -164,22 +162,27 @@ Posting to a preprint server can be done at any time prior to submission.
 
 ## Article submission
 
-When ready for submission, the author uploads the final article PDF (created using the [LiveCoMS templates](https://github.com/livecomsjournal/article_templates), discussed above) and a link to the GitHub site for the article.
-[General Scholastica submission instructions are available through on the Scholastica help page](http://help.scholasticahq.com/customer/portal/articles/1218626), our journal management system. There are a [few additional LiveCoMS submission instructions](http://www.livecomsjournal.org/for-authors).  
+### Abstract
+There is no specific word limit for the abstract, but it should be short and descriptive. During submission, check that the abstract as entered into the submission software appears as you intend, especially watching out for copied and pasted carriage returns that break lines.
+
+### Main Manuscript
+
+The main article manuscript should be of type .pdf, created using the [LiveCoMS templates](https://github.com/livecomsjournal/article_templates), discussed above) and a link to the GitHub site for the article.
+[General Scholastica submission instructions are available through on the Scholastica help page](http://help.scholasticahq.com/customer/portal/articles/1218626), our journal management system. 
+
+There are a [few additional LiveCoMS submission instructions](http://www.livecomsjournal.org/for-authors).  
 
 Please make sure the metadata is correct. This includes affiliations, including department if applicable, for all authors, ORCID ID's for all authors. 
-Make sure that the abstract is correctly formatted. 
 This can be done by looking at the "preview" view of the abstract before submissiomn - it is easy to include extraneous carriage returns that mess up the formatting, which the editors can't change it for you, and which reviewers will see. 
 
 The authors must also submit with the final article PDF:
 
   * As a single PDF file, a copy of their presubmission letter, appended with the response recieved from the Section Lead Editor approving the presubmission and specifying any changes or modifications to the scope the editors requested. The authors should also include a description of deviations, if any, from what was laid out in the presubmission letter, with a rationale for why the changes were made. This should be uploaded as a "Supporting File", with the descriptor "Presubmission Letter".
   * A key graphic or representative cover image. This should be something which graphically portrays in general terms the subject area you are focusing on or the aims of the paper. This is not a table of contents abstract, as it will be automatically cropped and resized when being shared in different formats.  It should be at least 1200 pixels across, though in most cases 2500 pixels across is better, and should be wider than it is high. It must be in `.jpg` format. This image is important to choose carefully, as it is the image that will appear on the article's front page and whenever the paper is shared on social media. We suggest something evocative of the research, but again, containing less scientific detail than, say, the table of contents abstract for an ACS journal.
-  * Any Supporting Files that are intended for distribution with the final paper should also be uploaded at this time. There is no explicit limit to the number of files that can be added, though if there are many similar data files, they should be uploaded as a `.tgz`ed or `.zip`ed directory and include a README file.
+  * Any Supporting Files, such as Jupyer notebooks, videos, etc. that are intended for distribution with the final paper should also be uploaded at this time. There is no explicit limit to the number of files that can be added, though if there are many similar data files, they should be uploaded as a `.tgz`ed or `.zip`ed directory and include a README file.  Data should be uploaded in nonproprietary formats (.pdf instead of .ppt/.pptx/.key, .csv instead of .xls or .xlsx). Supporting files should be described in the article itself, as there are no page limits. If there are simulation input files or data files included as part of your article, they should be placed into a single compressed .zip directory, with a README.txt or .md file fully explaining how to use the files, as “Supporting Files”. 
+  * For the keywords section, please put the type of manuscript being submitted (one of either “Best Practices”, “Living Reviews”, " Comparisons of Molecular Simulation Packages", “Lessons Learned”, and “Tutorials”) and up to four other short terms or keywords.
 
 As part of the submission form, authors will suggest 4-5 reviewers.
-Article submission also involves paying a nominal charge of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
-This is handled through Stripe Connect and can be paid via any major credit card.
 
 ## The review process
 
@@ -222,14 +225,14 @@ After acceptance of your article, the first task is to prepare an appropriate "A
 
 # Updating LiveCoMS Articles
 
-A unique aspect of LiveCoMS is article versions, where new, updated versions of articles can be re-reviewed and treated as new publications.
+A unique aspect of LiveCoMS is article versioning. New versions of manuscripts can be submitted for peer review, to be treated as new publications, with new DOI’s. Authors are therefore encouraged to involve the community in reviewing, improving, and (if warranted) expanding their work, with comments and responses done via the GitHub issue tracker.
+
+We understand that in the evolving lifetime of such a perpetual article, there may be changes in authorship. Our principle is that participants (e.g. new authors, people providing feedback) should receive credit for their contributions. A complete description of LiveCoMS policies for publication credit can be found in the [guide for writing an article for LiveCoMS](https://livecomsjournal.github.io/).
 
 Once peer reviewed, articles receive new [digital object identifiers (DOIs)](https://www.doi.org/) and are published on the LiveCoMS site as new versions.
 This allows authors to receive credit for ongoing work they do on their articles.
 
-Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted.
-However, release of new peer-reviewed versions via LiveCoMS is warranted only when changes become particularly extensive or important, and authors must justify why a peer-reviewed update is needed.
-As a rough guide, versioning should typically be done no more frequently than every 12 months.
+Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted. When the author feels the article is sufficiently different from a previously published LiveCoMS article, they can submit a new version for publication. A description of the versioning process can be found in the guide for writing an article for LiveCoMS. Release of new peer-reviewed versions via LiveCoMS is warranted only when changes become particularly extensive or important, and authors must justify why a peer-reviewed update is needed. As a rough guide, versioning should typically be done no more frequently than every 12-24 months.
 
 The review process for an update to a LiveCoMS article is similar to the review process for the initial version.  
 Important additional review criteria for a revision will include whether or not issues the community raised on the article's issue tracker were responded to, and whether the revision includes sufficient new material.
@@ -277,6 +280,10 @@ by providing sufficiently compelling data and arguments. If this fails, the lack
 - *Review of subsequent versions*: GitHub provides an automatic mechanism for tracking contributions via the GitHub repository's history. This should be examined when revised versions of the article are being considered for publication both to ensure appropriate credit is being given, and to check that authors are engaging with and addressing substantial issues raised by the community. A failure to substantively engage in discussions on issues raised may prevent new updates of the work from being accepted.
 
 # Other Policies for Submitted Articles
+
+Articles do not need to contain original research, but may do so.
+
+There are no explicit length limits on any manuscript, but authors are reminded that excessive length discourages readership. In cases where the authors find a lengthy article is required, careful organization with descriptive sectioning is highly recommended.
 
 ## Funding Compliance
 Authors are required to report funding sources and grant/award numbers relevant to the manuscript for ALL authors.
