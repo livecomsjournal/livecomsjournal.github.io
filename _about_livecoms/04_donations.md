@@ -35,7 +35,7 @@ contributors low.  Managing editors and editorial board members
 receive no money or reimbursement from LiveCoMS.  Our current costs
 are:
 
-* $1500/year for journal hosting via the Public Knowledge Project using Open Journal Systems(in 2021, this was paid by CU Boulder)
+* $1500/year for journal hosting via the Public Knowledge Project using Open Journal Systems (in 2021, this was paid by CU Boulder)
 * $504/year for Google Suites hosting of email and collaborative office software
 
 The main sources of income for LiveCoMS are donations since there are **no article charges**. We in particular appreciate seed funding provided by [CU
