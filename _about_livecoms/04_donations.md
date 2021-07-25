@@ -35,19 +35,14 @@ contributors low.  Managing editors and editorial board members
 receive no money or reimbursement from LiveCoMS.  Our current costs
 are:
 
-* $1200/year for journal hosting by [Scholastica](http://www.scholasticahq.com).
-* $250/year for reviewer services by [Scholastica](http://www.scholasticahq.com).
+* $1500/year for journal hosting via the Public Knowledge Project using Open Journal Systems(in 2021, this was paid by CU Boulder)
 * $504/year for Google Suites hosting of email and collaborative office software
 
-The main sources of income for LiveCoMS are donations and article
-charges. We in particular appreciate seed funding provided by [CU
-Boulder Libraries](https://www.colorado.edu/libraries/), as well as continuing support with management of DOIs and journal metadata. Article charges are
-$100 for each article upon submission, from which we receive about
-$80 after charges from Scholastica and processing fees.
+The main sources of income for LiveCoMS are donations since there are **no article charges**. We in particular appreciate seed funding provided by [CU
+Boulder Libraries](https://www.colorado.edu/libraries/), as well as continuing support with management of DOIs and journal metadata. 
 
 If we raise more money through donations than cover our costs, we will work to:
   * Hire web developers and designers to support better .tex templates and improvements to the website.
-  * Investigate advertising options to better raise awareness of the journal and its purposes. 
+  * Advertising options to better raise awareness of the journal and its purposes. 
   * Hire copy editors to assist in final journal submissions.
-  * Waive submission fees in part (based on need) or in whole.
   * Create a buffer against future financial issues.
