@@ -84,10 +84,9 @@ It is particularly important to note that **LiveCoMS does not edit articles in d
 In order to keep costs to authors at a minimum, we do not employ copy editors, so be sure to arrange for your own editing.
 You may receive some comments from your editor and/or the peer reviewers that point out typos or other issues, but you **should not rely** on this for your editing process.
 
-In general we recommend authors follow the [ACS Style Guide](http://pubs.acs.org/isbn/9780841239999) and especially the sections on:
-- [Writing and word usage](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch004), noting the advice to use direct, declarative sentences, often in active voice
-- [Editorial style](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch010)
-- [Grammar, spelling, and punctuation](http://pubs.acs.org/doi/pdf/10.1021/bk-2006-STYG.ch009)
+In general we recommend authors follow the [ACS Style Guide](https://doi.org/10.1021/acsguide), and especially the editorial style conventions (part 5) on:
+- Effective writing and word usage, noting the advice to use direct, declarative sentences, often in active voice
+- Grammar, punctuation, and spelling
 - References: in the BibTeX file, enter journals with their standard abbreviations (per [CASSI](http://cassi.cas.org/search.jsp)) and titles in Title Case. As with the main text, check that any special characters are rendered correctly in the final PDF.
 
 We also find Plaxco's [The Art of Writing Science](http://dx.doi.org/10.1002/pro.514) to be a particularly helpful concise summary of our desired style.
