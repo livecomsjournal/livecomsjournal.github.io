@@ -166,6 +166,7 @@ Posting to a preprint server can be done at any time prior to submission.
 When ready for submission, the author uploads the final article PDF (created using the [LiveCoMS templates](https://github.com/livecomsjournal/article_templates), discussed above) and a link to the GitHub site for the article.
 [Click here for general submission instructions for Open Journal Systems](https://docs.pkp.sfu.ca/learning-ojs/en/authoring), our journal management system. There are a [few additional LiveCoMS submission instructions](http://www.livecomsjournal.org/for-authors). 
 
+  * Before submission, you will need to create an account on the LiveCoMS site using the "Register" link on the top right.  Once registered, you can start a new submission by going to "Submissions" section of the website and clicking the link "Make a new submission" or alternately, going to the "Submissions" link in the left menu after clicking on your username in the upper right when logged in. 
   * In "Step 1: Start" You must check the submission requirements before starting the submission.  In the "Comments to the Author" field, include a list of 4-5 suggested reviewers and any reviewers to avoid.  Note you must select "Save and Continue" after each numbered step. 
   * In "Step 2: Upload Submission" is to upload your files. You must include: 
     * An "Article Text" file, which is the main `.pdf` file created from the appropriate LaTeX template. In the "Review Details" field, change the name from the name of the pdf you uploaded to "Article Text", as you will only be uploading one. 
