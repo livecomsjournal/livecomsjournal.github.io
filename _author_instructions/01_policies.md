@@ -164,21 +164,22 @@ Posting to a preprint server can be done at any time prior to submission.
 ## Article submission
 
 When ready for submission, the author uploads the final article PDF (created using the [LiveCoMS templates](https://github.com/livecomsjournal/article_templates), discussed above) and a link to the GitHub site for the article.
-[General Scholastica submission instructions are available through on the Scholastica help page](http://help.scholasticahq.com/customer/portal/articles/1218626), our journal management system. There are a [few additional LiveCoMS submission instructions](http://www.livecomsjournal.org/for-authors).  
+[Click here for general submission instructions for Open Journal Systems](https://docs.pkp.sfu.ca/learning-ojs/en/authoring), our journal management system. There are a [few additional LiveCoMS submission instructions](http://www.livecomsjournal.org/for-authors). 
 
-Please make sure the metadata is correct. This includes affiliations, including department if applicable, for all authors, ORCID ID's for all authors. 
-Make sure that the abstract is correctly formatted. 
-This can be done by looking at the "preview" view of the abstract before submissiomn - it is easy to include extraneous carriage returns that mess up the formatting, which the editors can't change it for you, and which reviewers will see. 
-
-The authors must also submit with the final article PDF:
-
-  * As a single PDF file, a copy of their presubmission letter, appended with the response recieved from the Section Lead Editor approving the presubmission and specifying any changes or modifications to the scope the editors requested. The authors should also include a description of deviations, if any, from what was laid out in the presubmission letter, with a rationale for why the changes were made. This should be uploaded as a "Supporting File", with the descriptor "Presubmission Letter".
-  * A key graphic or representative cover image. This should be something which graphically portrays in general terms the subject area you are focusing on or the aims of the paper. This is not a table of contents abstract, as it will be automatically cropped and resized when being shared in different formats.  It should be at least 1200 pixels across, though in most cases 2500 pixels across is better, and should be wider than it is high. It must be in `.jpg` format. This image is important to choose carefully, as it is the image that will appear on the article's front page and whenever the paper is shared on social media. We suggest something evocative of the research, but again, containing less scientific detail than, say, the table of contents abstract for an ACS journal.
-  * Any Supporting Files that are intended for distribution with the final paper should also be uploaded at this time. There is no explicit limit to the number of files that can be added, though if there are many similar data files, they should be uploaded as a `.tgz`ed or `.zip`ed directory and include a README file.
-
-As part of the submission form, authors will suggest 4-5 reviewers.
-Article submission also involves paying a nominal charge of $100 per submission, which covers our peer review management system as well as ongoing operation costs (web hosting, etc.).
-This is handled through Stripe Connect and can be paid via any major credit card.
+  * In "Step 1: Start" You must check the submission requirements before starting the submission.  In the "Comments to the Author" field, include a list of 4-5 suggested reviewers and any reviewers to avoid.  Note you must select "Save and Continue" after each numbered step. 
+  * In "Step 2: Upload Submission" is to upload your files. You must include an: 
+    * "Article Text" file, which is the main `.pdf` file created from the appropriate LaTeX template. In the "Review Details" field, change the name from the name of the pdf you uploaded to "Article Text", as you will only be uploading one. 
+    * A key graphic or representative cover image. This should be something which graphically portrays in general terms the subject area you are focusing on or the aims of the paper. This is not a table of contents abstract, as it will be automatically cropped and resized when being shared in different formats.  It should be at least 1200 pixels across, though in most cases 2500 pixels across is better, and should be wider than it is high. It must be in `.jpg` format. This image is important to choose carefully, as it is the image that will appear on the article's front page. We suggest something evocative of the research, but again, containing less scientific detail than, say, the table of contents abstract for an ACS journal.
+    * As a single PDF file, a copy of their presubmission letter, appended with the response recieved from the Section Lead Editor approving the presubmission and specifying any changes or modifications to the scope the editors requested. The authors should also include a description of deviations, if any, from what was laid out in the presubmission letter, with a rationale for why the changes were made. This should be uploaded as a "Supporting File". In the "2. Review Details" section, the title should be changed from the PDF name to "Presubmission Letter". No other field need be filled out. 
+    * Any Supporting Files that are intended for distribution with the final paper should also be uploaded at this time. There is no explicit limit to the number of files that can be added, though if there are many similar data files, they should be uploaded as a `.tgz`ed or `.zip`ed directory and include a README file. Change the title to "Supporting Information" along with any other useful description of there are more than one supporting files. Use the "Description" field to explain what the supporting file is for a reader. No other fields need be filled out. 
+ * In "Step 3: Enter Metadata". 
+   * Fill in the "Title" field, which should match the title in the PDF, including version number. 
+   * Leave "Prefix" and "Subtitle" fields empty.  
+   * Select the proper artucle category.
+   * Make sure that the abstract is correctly formatted; the text entry is WYSIWYG, and you can paste in special characters.
+   * Authors can be added using the "Add Contributor" button. For each contributor, included "Given Name" (which includes middle initial(s)), "Family Name", email, country, Affiliation (including department) and ORCID ID's, and Contributor role for all authors.  You may leave the "Bio Statement" and "Homepage URL" fields blank. 
+  * In "Step 4: Confirmation", you should review your submission and make any changes to information entered in Steps 1-3.  You will then be asked to confirm the submission.
+  * In "Step 5: Next Steps", you will be show the links to review the submission.   In the future, you can review your submission upon logging in by going to the "Submissions" field in the left menu bar. 
 
 ## The review process
 
