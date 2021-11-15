@@ -31,11 +31,7 @@ Authors whose article uses inconsistent style or poor grammar, or is poorly edit
 
 The reviewer form asks the following questions:
 
-*Overall Rating*
-Reviewer will rank from 1-5 stars.
 
-*For this manuscript I recommend...*
-Reviewer will choose between "Accept", "Revise and resubmit", and "Reject"
 
 The reviewer will then answer the following open response questions.  For these responses, the reviewer may also copy the questions to a separate document, respond to them there, and attach the responses.
 
@@ -43,10 +39,15 @@ The reviewer will then answer the following open response questions.  For these 
 
 *To what extent does the article engage with current understanding in the scholarly community? If this is a revision, to what extent do the authors engage with the community participating on their GitHub version?*
 
-*In what ways should the paper be improved to be easy to read, free from grammatical errors, have a professional presentation, and meet the article formatting guidelines laid out in the [author policies](https://livecomsjournal.github.io/authors/policies/)?*
+* In what ways should the paper be improved to be easy to read, free from grammatical errors, have a professional presentation, and meet the article formatting guidelines laid out in the author policies (at https://livecomsjournal.github.io/authors/policies/)?
 
 *How does the article address the specific reviewer criteria for each article type?* These criteria are listed in the sections for author policies for [Best Practices](https://livecomsjournal.github.io/authors/best_practices/#additional-criteria-considered-in-reviews-of-best-practices-guides), [Perpetual Reviews](https://livecomsjournal.github.io/authors/perpetual_reviews/#additional-review-criteria-for-perpetual-reviews), [Tutorials](https://livecomsjournal.github.io/authors/tutorials/#additional-criteria-considered-in-the-review-of-tutorials), [Software Analyses](https://livecomsjournal.github.io/authors/software_analyses/#additional-criteria-considered-in-review-of-software-analyses), and [Lessons Learned](https://livecomsjournal.github.io/authors/lessons_learned/#additional-critera-considered-in-the-review-of-lessons-learned-articles).
 
-*What other comments do you have for the author?*
+*Please provide any other specific comments for the authors. *
 
-*What other comments do you have for the editor?* (The response to this question will not be seen by the authors)
+*Please enter any specific comments you have for the editor?* (The response to this question will not be seen by the authors)
+
+
+*Recommendation.*
+Reviewer will choose between "Accept Submissions", "Revisions Required", and "Resubmit for Review", "Resubmit Elsewhere", or "Decline Submission" 
+
