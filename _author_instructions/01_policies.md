@@ -207,6 +207,8 @@ After this time, a revised manuscript may be handled as a new submission.
 
 Your revised manuscript should be accompanied by detailed responses to the reviewers' comments and a summary of changes made to the manuscript. You should also include as an additional file a version that highlights changes in the manuscript.  [LatexDiff](https://ctan.org/pkg/latexdiff?lang=en), with documentation [here](https://mirror.hmc.edu/ctan/support/latexdiff/doc/latexdiff-man.pdf)  is one tool that can be used generate this version. If there are formatting issues, we suggest downloading the more recent template files, which may fix some formatting concerns.  We suggest documenting general categories of changes requested by the reviewers as separate GitHub issues, but that is not required for resubmission.
 
+See the Open Journal Systems Authors guide for [specific instructions on how to submit a revision](https://docs.pkp.sfu.ca/learning-ojs/en/authoring#responding-to-a-review). 
+
 ## Upon acceptance
 
 After acceptance of your article, the first task is to prepare an appropriate "ASAP" version of the article which will be posted to the journal's website prior to publication of the next issue. Several steps, outlined below, are required. Note that ASAP version will essentially be final, as only minor corrections as detailed below will be permitted prior to publication as part of an issue.
