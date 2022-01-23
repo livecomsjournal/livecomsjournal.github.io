@@ -23,8 +23,9 @@ Assuming the subject matter proposed in the presubmission letter is within the s
 
 ### Lead Editor
 
+A Managing Editor assigns the paper to the correct section lead editor in OJS, adds the corresponding Section Editor, and **adds the Section Editor to the "Comments to the Author" discussion** so they can see the suggested authors.  They should also check that 1) the GitHub repository is working, that 2) the presubmission letter with approval description of deviations from plan is present. 
 The Section Lead Editor:
-- Passes the article to an appropriate Associate Editor to manage the review process (unless he or she decides to manage the review process directly). Usually, this will be the Associate Editor who handled the presubmission letter; if not, the Section Lead editor also will communicate the approved presubmission letter.
+- Assigns an appropriate Associate Editor to manage the review process (unless he or she decides to manage the review process directly). Usually, this will be the Associate Editor who handled the presubmission letter; if not, the Section Lead editor also will communicate the approved presubmission letter.
 - Usually will delegate the final decision to the Associate Editor. If the Section Lead Editor anticipates their input may be necessary, they will notify the Associate Editor at the time of them anuscript submission, or if not, as soon as they become aware additional input may be necessary. They may overrule the Associate Editor after acceptance, but this should only be done in exceptional cases, for example, fraud or plagarism. If there are important scientific changes that need to be made in the article that were not caught by Associate Editors previous to acceptance, these can be handled by an unofficial request for revision before the paper is officially posted, or between ASAP posting and the issue publication.
 
 ### Associate Editor
@@ -32,12 +33,12 @@ The Section Lead Editor:
 Before assigning manuscripts for review, editors have several main tasks:
 - Confirms that the article is consistent with the presubmission letter.
 - Ensure they do not have a conflict of interest with respect to the work they are to analyze; if they do, [dealing with it as dictated by editorial policy](https://livecomsjournal.github.io/policies/livecoms_bylaws/#iii-conflicts-of-interest).
-- Ensure that if any editors are authors on the paper, they are prevented from seeing the manuscript. [See here how to hide the manuscript from them](http://help.scholasticahq.com/customer/en/portal/articles/1728879-can-i-hide-a-manuscript-from-another-editor-?t=565043).
+- Ensure that if any editors are authors on the paper, they are prevented from seeing the manuscript. 
 - Check to ensure that the manuscript has appropriate style, grammar, layout, and figure quality to be ready for editing, as in the [instructions for authors](https://livecomsjournal.github.io/authors/policies/). Remember, the journal will not be editing the manuscript, so you need to make a judgment call as to whether the manuscript is well-edited enough to proceed to review, or whether it will need revision for grammar or style *before* sending it for review to avoid wasting the time of the reviewers.
 - Identify suitable reviewers, who may include experts suggested by the authors, others in the field you already know of, or authors cited frequently in the article. 
   LiveCoMS generally requires at least two standard reviewers in addition to a student reviewer, though exceptional circumstances (such as extensive community feedback via GitHub) may warrant deviations from this policy. The requirement for a student reviewer for every submission is a unique strength of LiveCoMS that enhances the pedagogical value of every accepted paper.
 - The Associate Editor should also notify get the Section Lead Editor if there is any controversy expected (e.g. the reviewers disagree significantly on the merits of the paper, any plagarism potentially evident).
--  Associate Editors should [review the instructions for using the Scholastica interface](see section 4, "Managing Reviewers", especially) periodically to remind themselves how to work with the interface for inviting reviewers and manage manuscripts.
+-  Associate Editors should [review the instructions for using the Open Journal Interface interface for review](https://openjournalsystems.com/ojs-3-user-guide/review/) periodically to remind themselves how to work with the interface for inviting reviewers and manage manuscripts.
 
 
 ## Review handling
