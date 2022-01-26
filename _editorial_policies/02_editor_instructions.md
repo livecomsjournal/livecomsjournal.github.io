@@ -31,6 +31,7 @@ The Section Lead Editor:
 ### Associate Editor
 
 Before assigning manuscripts for review, editors have several main tasks:
+-  Associate Editors should [review the instructions for using the Open Journal Interface interface for review](https://openjournalsystems.com/ojs-3-user-guide/review/) periodically to remind themselves how to work with the interface for inviting reviewers and manage manuscripts. In particular, in order to move the actual manuscript to make it visible in review, the editor should "upload/select files" and make sure the box is checked to "Show files from all accessible workflow stages." That will allow you to make only the files that are relevant to the reviewer available to them.
 - Confirms that the article is consistent with the presubmission letter.
 - Ensure they do not have a conflict of interest with respect to the work they are to analyze; if they do, [dealing with it as dictated by editorial policy](https://livecomsjournal.github.io/policies/livecoms_bylaws/#iii-conflicts-of-interest).
 - Ensure that if any editors are authors on the paper, they are prevented from seeing the manuscript. 
@@ -38,7 +39,7 @@ Before assigning manuscripts for review, editors have several main tasks:
 - Identify suitable reviewers, who may include experts suggested by the authors, others in the field you already know of, or authors cited frequently in the article. 
   LiveCoMS generally requires at least two standard reviewers in addition to a student reviewer, though exceptional circumstances (such as extensive community feedback via GitHub) may warrant deviations from this policy. The requirement for a student reviewer for every submission is a unique strength of LiveCoMS that enhances the pedagogical value of every accepted paper.
 - The Associate Editor should also notify get the Section Lead Editor if there is any controversy expected (e.g. the reviewers disagree significantly on the merits of the paper, any plagarism potentially evident).
--  Associate Editors should [review the instructions for using the Open Journal Interface interface for review](https://openjournalsystems.com/ojs-3-user-guide/review/) periodically to remind themselves how to work with the interface for inviting reviewers and manage manuscripts.
+
 
 
 ## Review handling
