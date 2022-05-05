@@ -56,7 +56,7 @@ Section Leads can be contacted at:
 - Best practices: [bestpractices@livecomsjournal.org](mailto:bestpractices@livecomsjournal.org)
 - Lessons learned: [lessonslearned@livecomsjournal.org](mailto:lessonslearned@livecomsjournal.org)
 - Perpetual reviews: [reviews@livecomsjournal.org](mailto:reviews@livecomsjournal.org)
-- Softwarer Analyses: [software@livecomsjournal.org](mailto:software@livecomsjournal.org)
+- Software Analyses: [software@livecomsjournal.org](mailto:software@livecomsjournal.org)
 
 
 ## Preparation of Your Article For Submission
