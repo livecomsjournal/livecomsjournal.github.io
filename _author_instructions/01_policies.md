@@ -38,7 +38,7 @@ Click each type of article for more information for submitting an article of tha
 
 ## Presubmission Letter
 
-Before drafting an article, authors should send a presubmission inquiry letter to the [Lead Editor for the relevant area](http://www.livecomsjournal.org/editorial-board) (see also below).
+Before drafting an article, authors should send a presubmission inquiry letter to the [Lead Editor for the relevant area]([http://www.livecomsjournal.org/editorial-board](https://livecomsjournal.org/index.php/livecoms/about/editorialTeam) (see also below).
 The presubmission inquiry letter should be no more than **one page** in length, and should include:
 * An outline the scope of the proposed contribution
 * An explanation how the proposed manuscript differs from existing published work
@@ -164,7 +164,7 @@ Posting to a preprint server can be done at any time prior to submission.
 ## Article submission
 
 When ready for submission, the author uploads the final article PDF (created using the [LiveCoMS templates](https://github.com/livecomsjournal/article_templates), discussed above) and a link to the GitHub site for the article.
-[Click here for general submission instructions for Open Journal Systems](https://docs.pkp.sfu.ca/learning-ojs/en/authoring), our journal management system. There are a [few additional LiveCoMS submission instructions](http://www.livecomsjournal.org/for-authors). 
+[Click here for general submission instructions for Open Journal Systems](https://docs.pkp.sfu.ca/learning-ojs/en/authoring), our journal management system. There are a [few additional LiveCoMS submission instructions](https://livecomsjournal.org/index.php/livecoms/about/submissions). 
 
   * Before submission, you will need to create an account on the LiveCoMS site using the "Register" link on the top right.  Once registered, you can start a new submission by going to "Submissions" section of the website and clicking the link "Make a new submission" or alternately, going to the "Submissions" link in the left menu after clicking on your username in the upper right when logged in. **Note you must select "Save and Continue" after each numbered step** before continuing.
   * In "Step 1: Start" You must check the submission requirements before starting the submission.  In the "Comments for the Editor" field, add any additional notes to the editor that we should know. You do not need to describe the importance of the article, as that has already been taken care of in the presubmisison letter.  Suggested reviewers and reviewers to avoid do not need to be added here, as they are added in Step 3.  If there is a preprint of the article, please give a link to it's location.
