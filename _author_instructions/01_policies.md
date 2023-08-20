@@ -11,7 +11,7 @@ This article describes how [LiveCoMS](http://www.livecomsjournal.org) article pr
 
 ## Ethics policies
 
-Ethics policies for authors are listed on the [journal ethics policy page](../editorial_policies/publication_ethics#ethical- obligations-of-authors)
+Ethics policies for authors are listed on the [LiveCoMS ethics policy page](https://livecomsjournal.github.io/editorial_policies/publication_ethics#ethical-obligations-of-authors)
 
 ## Introduction
 
