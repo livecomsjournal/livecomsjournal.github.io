@@ -7,6 +7,10 @@ excerpt: A draft of the policies for reviewing manuscripts
 permalink: /policies/reviewing/
 ---
 
+## Ethics Policies for Reviewers
+
+Ethics policies for reviewers are listed on the [LiveCoMS ethics policy page](https://livecomsjournal.github.io/editorial_policies/publication_ethics#ethical-obligations-of-reviewers)
+
 ## LiveCoMS review
 Review is to evaluate the quality, relevance, and merit of
 submitted papers. Comments should be as complete and detailed as
