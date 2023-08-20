@@ -8,9 +8,10 @@ permalink: /authors/policies/
 ---
 
 This article describes how [LiveCoMS](http://www.livecomsjournal.org) article preparation and submission work, and provides details covering the review process, revisions, authorship, and other aspects.
-## Ethics policies:
 
-Ethics policies for authors are listed at ../editorial_policies/publication_ethics/#authors
+## Ethics policies
+
+Ethics policies for authors are listed on the [journal ethics policy page](../editorial_policies/publication_ethics#ethical- obligations-of-authors)
 
 ## Introduction
 
