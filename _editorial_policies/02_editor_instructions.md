@@ -7,7 +7,11 @@ excerpt: Instructions for editors
 permalink: /policies/editor_instructions/
 ---
 
-This provides instructions to editors handling manuscripts for LiveCoMS.
+This page provides instructions to editors handling manuscripts for LiveCoMS.
+
+## Ethics Policies for Editors
+
+Ethics policies for editors are listed on the [LiveCoMS ethics policy page](publication_ethics#ethical-obligations-of-editors). We encourage reviewers to acquaint themselves with these policies. 
 
 ## Workflow overview
 
