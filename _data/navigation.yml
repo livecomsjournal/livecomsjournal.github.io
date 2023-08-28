@@ -192,6 +192,17 @@ policies_bylaws.md:
     - title: "VI. Amendments"
       url: /policies/livecoms_bylaws/index.html#vi-amendments
 
+publication_ethics.md:
+  - title: "LiveCoMS Ethics Policies"
+    url: /policies/publication_ethics/index.html#
+    children:
+    - title: "Ethical Obligations of Editors"
+      url: policies/publication_ethics/index.html#ethical-obligations-of-editors
+    - title: "Ethical Obligations of Authors"
+      url: policies/publication_ethics/index.html#ethical-obligations-of-authors
+    - title: "Ethical Obligations of Reviewers"
+      url: policies/publication_ethics/index.html#ethical-obligations-of-reviewers
+  
 donations.md:
   - title: "Donating to LiveCoMS"
     url: /about/donations/index.html#
