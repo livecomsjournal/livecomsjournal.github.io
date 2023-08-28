@@ -1,3 +1,12 @@
+---
+layout: single
+sidebar:
+  nav: publication_ethics.md
+title: LiveCoMS Ethics Policies
+excerpt: Ethics Policies for LiveCoMS
+permalink: /policies/publication_ethics/
+---
+
 ## Ethics Policies for Editors, Authors, and Reviewers 
 
 Policies are adapted from ACS Journal [“Ethical Guidelines to Publication of Chemical Research“](https://pubs.acs.org/pb-assets/documents/policy/EthicalGuidelines-1676503020770.pdf), February 2023 version, used with permission, and some additions from the [Journal of Open Source Software Ethics policies](https://joss.theoj.org/about#ethics).
