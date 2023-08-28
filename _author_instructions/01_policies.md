@@ -9,6 +9,10 @@ permalink: /authors/policies/
 
 This article describes how [LiveCoMS](http://www.livecomsjournal.org) article preparation and submission work, and provides details covering the review process, revisions, authorship, and other aspects.
 
+## Ethics policies
+
+Ethics policies for authors are listed on the [LiveCoMS ethics policy page](https://livecomsjournal.github.io/editorial_policies/publication_ethics#ethical-obligations-of-authors)
+
 ## Introduction
 
 Submitting an article to LiveCoMS is substantially different from submitting an article to most journals.
@@ -321,10 +325,9 @@ Domain Dedication (which can be found at
 https://creativecommons.org/publicdomain/zero/1.0/)."
 [See the analysis of this language here](https://theunitedstates.io/licensing/).
 
-## Prior Publication
+## Prior Publication and Plagarism
 
-Documents should not have been submitted in the current form to another journal, or be simultaneously under consideration for publication another journal.
-Preprints are not considered prior publication.
+Documents should not have been previously published, submitted in the current form to another journal, or be simultaneously under consideration for publication another journal. For the purpose of LiveCoMS, non-reviewed preprints are not considered prior publication.
 Documents that are major revisions of previously published articles are welcomed.
 However, authors should ensure that any material they publish in LiveCoMS is not subject to licensing restrictions (such as from another journal) which impedes its release under the selected license.
 Some journals let the authors retain the right to create derivative works, which could perhaps be exercised in preparing a review to be published in LiveCoMS.
@@ -332,6 +335,14 @@ Authors are responsible for obtaining all needed permissions to include previous
 
 If an article is an adaptation of a previously published article, it must be noted in the submission cover letter and major changes noted.
 Evaluating whether such changes constitute a significant revision will be part of the review process.
+
+The U.S. National Science Foundation defines plagiarism as "the appropriation of another person’s ideas, processes, results, or words without giving appropriate credit" (45 Code of Federal Regulations, Section 689.1). Authors should not engage in plagiarism, which operationally means verbatim or near-verbatim copying, or even very close paraphrasing, of text or results from another’s work. 
+
+Authors should not engage generally engage self-plagiarism, i.e. close replication of the authors' own previously published without acknowledgement of the source. The nature of living, updated articles can make the distinction between self-plagarism  somewhat blurry. Generally, direect quotations from prior work should be presented as quotations, with proper citation/acknowledgement (and permissions), even if that prior work is from the authors. Any adaptation from prior work by the authors themselves is allowed only if the prior license permits, and the original source should be cited/acknowledged and the adaptation explained.
+
+Material quoted verbatim from the authors' own previously published work may be acceptable, as long as the overall work clearly notes that the work is partially based on identified previous work, and the broad outlines of the differences and similarities of the previous work are noted. This use of previous work only applies to material that could be reasonably considered review or pedagogcial; in no context should previously published results or methodology be depicted as new.  
+
+Authors themselves are responsible for obtaining all needed permissions to include previously published material, including figures.
 
 ## Author contributions and order
 
