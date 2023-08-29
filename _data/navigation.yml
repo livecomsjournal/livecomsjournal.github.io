@@ -197,11 +197,11 @@ publication_ethics.md:
     url: /policies/publication_ethics/index.html#
     children:
     - title: "Ethical Obligations of Editors"
-      url: policies/publication_ethics/index.html#ethical-obligations-of-editors
+      url: /policies/publication_ethics/index.html#ethical-obligations-of-editors
     - title: "Ethical Obligations of Authors"
-      url: policies/publication_ethics/index.html#ethical-obligations-of-authors
+      url: /policies/publication_ethics/index.html#ethical-obligations-of-authors
     - title: "Ethical Obligations of Reviewers"
-      url: policies/publication_ethics/index.html#ethical-obligations-of-reviewers
+      url: /policies/publication_ethics/index.html#ethical-obligations-of-reviewers
   
 donations.md:
   - title: "Donating to LiveCoMS"
