@@ -8,7 +8,7 @@ permalink: /policies/reviewer_information/
 ---
 ## Ethics Policies for Reviewers
 
-Ethics policies for reviewers are listed on the [LiveCoMS ethics policy page](publication_ethics#ethical-obligations-of-reviewers). We encourage reviewers to acquaint themselves with these policies. 
+Ethics policies for reviewers are listed on the [LiveCoMS ethics policy page](https://livecomsjournal.github.io/policies/publication_ethics#ethical-obligations-of-reviewers). We encourage reviewers to acquaint themselves with these policies. 
 
 ## The LiveCoMS Review Process
 
